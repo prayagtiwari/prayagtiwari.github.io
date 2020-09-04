@@ -8,7 +8,7 @@ venue: 'Neural Networks'
 paperurl: 'hhttps://www.sciencedirect.com/science/article/abs/pii/S0893608020302501'
 citation: 'Moreira, C., Tiwari, P., Pandey, H. M., Bruza, P., & Wichert, A. (2020). Quantum-like influence diagrams for decision-making. Neural Networks.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
 
 
 Recommended citation: Moreira, C., Tiwari, P., Pandey, H. M., Bruza, P., & Wichert, A. (2020). Quantum-like influence diagrams for decision-making. Neural Networks.
