@@ -2,7 +2,7 @@
 title: "Quantum-Like Structure in Multidimensional Relevance Judgements"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'we design a crowd-sourced user study to show violation of the Kolmogorovian probability axioms as a proof of the quantum-like structure, and provide a comparison between a quantum probabilistic model and a Bayesian model for predictions of relevance..'
+excerpt: 'This paper to show violation of the Kolmogorovian probability especially in decision-making under uncertainty, and provide quantum-like structure, and provide a comparison between a quantum probabilistic model and a Bayesian model for predictions of relevance.'
 date: 2020-04-08
 venue: 'European Conference on Information Retrieval'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48'
