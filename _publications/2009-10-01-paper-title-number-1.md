@@ -10,6 +10,6 @@ citation: 'Tiwari, P., Dehdashti, S., Obeid, A. K., Melucci, M., & Bruza, P. (20
 ---
 This paper is submitted to PRL.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://github.com/prayagtiwari/prayagtiwari.github.io/files/KMNCS.pdf)
 
 Recommended citation: Tiwari, P., Dehdashti, S., Obeid, A. K., Melucci, M., & Bruza, P. (2020). Kernel Method based on Non-Linear Coherent State. arXiv preprint arXiv:2007.07887.
