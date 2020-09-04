@@ -8,7 +8,7 @@ venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2007.07887.pdf'
 citation: 'Tiwari, P., Dehdashti, S., Obeid, A. K., Melucci, M., & Bruza, P. (2020). Kernel Method based on Non-Linear Coherent State. arXiv preprint arXiv:2007.07887.'
 ---
-This paper is submitted to PRL.
+In this paper, by mapping datasets to a set of non-linear coherent states, the process of encoding inputs in quantum states as a non-linear feature map is re-interpreted. As a result of this fact that the Radial Basis Function is recovered when data is mapped to a complex Hilbert state represented by coherent states, non-linear coherent states can be considered as natural generalisation of associated kernels. By considering the non-linear coherent states of a quantum oscillator with variable mass, we propose a kernel function based on generalized hypergeometric functions, as orthogonal polynomial functions. The suggested kernel is implemented with support vector machine on two well known datasets (make circles, and make moons) and outperforms the baselines, even in the presence of high noise. In addition, we study impact of geometrical properties of feature space, obtaining by non-linear coherent states, on the SVM classification task, by using considering the Fubini-Study metric of associated coherent states..
 
 [Download paper here](https://github.com/prayagtiwari/prayagtiwari.github.io/blob/master/files/KMNCS.pdf)
 
