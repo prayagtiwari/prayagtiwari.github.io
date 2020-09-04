@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in in Innovative Software Systems, National University of Science and Technology MISiS, 2017
+* Ph.D in Information Engineering, University of Padova, 2020 (expected)
 
 Work experience
 ======
