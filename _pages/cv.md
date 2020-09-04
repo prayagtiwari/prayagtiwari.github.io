@@ -16,43 +16,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2017-Sep 2020: Marie Sklodowska-Curie Researcher
+  * University of Padova, Italy
+  * Duties included: Exploring Machine Learning using the Quantum Theory 
+  * Supervisor: Prof. Massimo Melucci
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2020-May 2020: Visiting Researcher
+  * The Open University, U.K.
+  * Duties included: Cognitive AI 
+  * Supervisor: Prof. Dawei Song
   
+* April 2019-July 2019: Visiting Researcher
+  * Queensland University of Technology, Australia
+  * Duties included: Cognitive AI with QML
+  * Supervisor: Prof. Peter Bruza, Dr. Catarina Moreira  
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (Scikit-learn, Numpy, Pandas, Tensorflow, keras, Pennylane, NLTK)
+* Matlab
+* R Studio
+* Qualtrics
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
