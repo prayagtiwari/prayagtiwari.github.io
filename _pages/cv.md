@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in in Innovative Software Systems, National University of Science and Technology MISiS, 2017
+* B.E. in Electronic and Communication Engineering, RGPV University, 2012
+* M.S. in Innovative Software Systems, National University of Science and Technology MISiS, 2017
 * Ph.D in Information Engineering, University of Padova, 2020 (expected)
 
 Work experience
