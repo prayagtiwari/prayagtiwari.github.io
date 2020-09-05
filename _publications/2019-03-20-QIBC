@@ -4,7 +4,7 @@ collection: publications
 
 excerpt: 'This paper proposed novel Quantum Inspired Classifier.'
 date: 2019-03-20
-venue: 'IEEE Access' (I.F.-3.9, Q1)
+venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8671690'
 citation: 'Tiwari, P., & Melucci, M. (2019). Towards a quantum-inspired binary classifier. IEEE Access, 7, 42354-42372.'
 ---
