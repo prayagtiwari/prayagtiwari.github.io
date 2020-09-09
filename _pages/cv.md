@@ -32,7 +32,7 @@ Work experience
   * Duties included: Cognitive AI with QML
   * Supervisor: [Prof. Peter Bruza](https://scholar.google.it/citations?user=N8QpuP8AAAAJ&hl=en), [Dr. Catarina Moreira](https://scholar.google.it/citations?hl=en&user=nThsEsMAAAAJ), [Dr. Shahram Dehdashti](https://scholar.google.it/citations?hl=en&user=lw18-1UAAAAJ)  
  
- * Sep 2015-May 2017: Research Assistant
+* Sep 2015-May 2017: Research Assistant
   * National University of Science and Technology MISiS, Moscow, Russia
   * Duties included: Data mining approaces for road and traffic accident analysis
   * Supervisor: [Prof. Denis Kalitin](https://en.misis.ru/science/community/scientists/international/4583/), [Prof. Petrov Andrey](https://en.misis.ru/science/community/scientists/international/4328/)  
