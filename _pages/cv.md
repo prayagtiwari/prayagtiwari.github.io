@@ -32,6 +32,11 @@ Work experience
   * Duties included: Cognitive AI with QML
   * Supervisor: Prof. Peter Bruza, Dr. Catarina Moreira  
  
+ * Sep 2015-May 2017: Research Assistant
+  * National University of Science and Technology MISiS, Moscow, Russia
+  * Duties included: Data mining approaces for road and traffic accident analysis
+  * Supervisor: Prof. Denis Kalitin, Prof. A.E. Petrov  
+ 
 Skills
 ======
 * Python (Scikit-learn, Numpy, Pandas, Tensorflow, keras, Pennylane, NLTK)
