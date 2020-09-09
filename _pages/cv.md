@@ -29,7 +29,7 @@ Work experience
   
 * April 2019-July 2019: Visiting Researcher
   * Queensland University of Technology, Australia
-  * Duties included: Cognitive AI with QML
+  * Duties included: Cognitive AI and QML
   * Supervisor: [Prof. Peter Bruza](https://scholar.google.it/citations?user=N8QpuP8AAAAJ&hl=en), [Dr. Catarina Moreira](https://scholar.google.it/citations?hl=en&user=nThsEsMAAAAJ), [Dr. Shahram Dehdashti](https://scholar.google.it/citations?hl=en&user=lw18-1UAAAAJ)  
  
 * Sep 2015-May 2017: Research Assistant
