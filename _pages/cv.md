@@ -55,7 +55,7 @@ Quantum Inspired ML Publications:
   * Tiwari, P., & Melucci, M. (2019, July). Binary classifier inspired by quantum theory. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 10051-10052).
   * Tiwari, P., & Melucci, M. (2019). Towards a quantum-inspired binary classifier. IEEE Access, 7, 42354-42372.
   
- * 2018
+* 2018
   * Tiwari, P., & Melucci, M. (2018, October). Towards a quantum-inspired framework for binary classification. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (pp. 1815-1818).
   * Di Buccio, E., Li, Q., Melucci, M., & Tiwari, P. (2018, September). Binary classification model inspired from quantum detection theory. In Proceedings of the 2018 ACM SIGIR International Conference on Theory of Information Retrieval (pp. 187-190).
   * Tiwari, P., & Melucci, M. (2018). Multi-class classification model inspired by quantum detection theory. arXiv preprint arXiv:1810.04491.
