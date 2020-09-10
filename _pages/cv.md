@@ -39,10 +39,8 @@ Work experience
  
 Skills
 ======
-* Python (Scikit-learn, Numpy, Pandas, Tensorflow, keras, Pennylane, NLTK)
-* Matlab
-* R Studio
-* Qualtrics
+* Python (Scikit-learn, Numpy, Pandas, Tensorflow, keras, Pennylane, NLTK), Matlab, R Studio, Qualtrics
+
 
 Quantum Inspired ML Publications:
 ======
