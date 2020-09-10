@@ -13,7 +13,7 @@ This article proposes a novel and comprehensive framework on how to describe the
 The proposed quantum-like decision model is able to (1) predict the probability distributions found in different experiments reported in the literature by modelling uncertainty through quantum interference, (2) to identify decisions that the decision-makers perceive to be optimal within their belief space, but that are actually irrational with respect to expected utility theory, (3) gain an understanding of how the decision-maker’s beliefs evolve within a decision-making scenario. The proposed model has the potential to provide new insights in decision science, as well as having direct implications for decision support systems that deal with human data, such as in the fields of economics, finance, psychology, etc.
 
 
-
+[Download paper here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/QuLID.pdf)
 
 Recommended citation: Moreira, C., Tiwari, P., Pandey, H. M., Bruza, P., & Wichert, A. (2020). Quantum-like influence diagrams for decision-making. Neural Networks.
 .
