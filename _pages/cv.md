@@ -45,7 +45,7 @@ Skills
 Quantum Inspired ML Publications:
 ======
 * 2020
-  * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Melucci, M., & Bruza, P. (2020). Kernel Method based on Non-Linear Coherent State. arXiv preprint arXiv:2007.07887.
+  * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Melucci, M., & Bruza, P. (2020). *Kernel Method based on Non-Linear Coherent State. arXiv preprint* arXiv:2007.07887.
   * Moreira, C., <b>Tiwari, P.</b>, Pandey, H. M., Bruza, P., & Wichert, A. (2020). Quantum-like influence diagrams for decision-making. Neural Networks.
   * Uprety, S., <b>Tiwari, P.</b>, Dehdashti, S., Fell, L., Song, D., Bruza, P., & Melucci, M. (2020, April). Quantum-like structure in multidimensional relevance judgements. In European Conference on Information Retrieval (pp. 728-742). Springer, Cham.
 
