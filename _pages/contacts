@@ -4,7 +4,7 @@ title: "Contacts"
 permalink: /contacts/
 author_profile: true
 redirect_from:
-  - /resume
+  - /contacts
 ---
 
 {% include base_path %}
