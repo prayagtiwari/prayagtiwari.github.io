@@ -26,4 +26,4 @@ News
 Useful Links
 ======
 
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962), [Publons](https://publons.com/researcher/2062944/prayag-tiwari/)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962), [Publons](https://publons.com/researcher/2062944/prayag-tiwari/), [DBLP](https://dblp.org/pid/198/3643.html)
