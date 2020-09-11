@@ -51,7 +51,7 @@ Quantum Inspired ML Publications:
 
 * 2019
   * <b>Tiwari, P.</b>, & Melucci, M. (2019, July). Binary classifier inspired by quantum theory. *In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 10051-10052)*.
-  * <b>Tiwari, P.</b>, & Melucci, M. (2019). Towards a quantum-inspired binary classifier. *IEEE Access, 7, 42354-42372*. <b>(Q1, I.F.-4.18)</b>
+  * <b>Tiwari, P.</b>, & Melucci, M. (2019). Towards a quantum-inspired binary classifier. *IEEE Access, 7, 42354-42372*. <b>(Q1, I.F.-4.098)</b>
   
 * 2018
   * <b>Tiwari, P.</b>, & Melucci, M. (2018, October). Towards a quantum-inspired framework for binary classification. *In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (pp. 1815-1818)*.
@@ -67,3 +67,12 @@ Peer-Reviewed Journal Publications:
   * Wu, J., Yang, Y., Lei, Z., Wang, J., Li, S. Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). An end-to-end exemplar association for unsupervised person Re-identification. *Neural Networks*. <b>(Q1, I.F.-5.535)</b>
   * Yang, Y., Zhang, T., Cheng, J., Hou, Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification. *Neural Networks*. <b>(Q1, I.F.-5.535)</b>
   * Chouhan, V., Singh, S. K., Khamparia, A., Gupta, D., <b>Tiwari, P.</b>, Moreira, C., ... & De Albuquerque, V. H. C. (2020). A novel transfer learning based approach for pneumonia detection in chest X-ray images. *Applied Sciences, 10(2), 559*. <b>(Q2, I.F.-2.474)</b>
+  
+ * 2019
+   * Jaiswal, A. K., <b>Tiwari, P.</b>, Kumar, S., Gupta, D., Khanna, A., & Rodrigues, J. J. (2019). Identifying pneumonia in chest X-rays: A deep learning approach. *Measurement, 145, 511-518*. <b>(Q1, I.F.-3.364)</b>
+   * Gochhayat, S. P., Kaliyar, P., Conti, M., <b>Tiwari, P.</b>, Prasath, V. B. S., Gupta, D., & Khanna, A. (2019). LISA: Lightweight context-aware IoT service architecture. *Journal of cleaner production, 212, 1345-1356*. <b>(Q1, I.F.-7.246)</b>
+   * Kumar, S., <b>Tiwari, P.</b>, & Zymbler, M. (2019). Internet of Things is a revolutionary approach for future technology enhancement: a review. *Journal of Big Data, 6(1), 111*. <b>(Q1, I.F.-8.47)</b>
+   * Li, J., Hu, R., Liu, X., <b>Tiwari, P.</b>, Pandey, H. M., Chen, W., ... & Yang, K. (2019). A distant supervision method based on paradigmatic relations for learning word embeddings. *Neural Computing and Applications, 1-10*. <b>(Q1, I.F.-4.774)</b>
+   
+ * 2018
+   *
