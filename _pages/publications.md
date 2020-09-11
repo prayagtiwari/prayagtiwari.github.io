@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  You can also find my articles on [my Google Scholar profile](https://scholar.google.it/citations?user=sDnmJ_YAAAAJ&hl=en)
+  You can find full list of my articles on [my Google Scholar profile](https://scholar.google.it/citations?user=sDnmJ_YAAAAJ&hl=en)
 
 
 {% include base_path %}
