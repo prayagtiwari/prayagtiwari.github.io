@@ -15,7 +15,7 @@ Education
 * M.S. in Innovative Software Systems, National University of Science and Technology MISiS, 2017
 * B.E. in Electronic and Communication Engineering, RGPV University, 2012
 
-Work experience
+Professional Experience
 ======
 * Oct 2017-Sep 2020: Marie Sklodowska-Curie Researcher
   * University of Padova, Italy
@@ -35,7 +35,7 @@ Work experience
 * Sep 2015-May 2017: Research Assistant
   * National University of Science and Technology MISiS, Moscow, Russia
   * Duties included: Data mining approaces for road and traffic accident analysis
-  * Supervisor: [Prof. Denis Kalitin](https://en.misis.ru/science/community/scientists/international/4583/), [Prof. Petrov Andrey](https://en.misis.ru/science/community/scientists/international/4328/)  
+  * Supervisor: [Prof. Denis Kalitin](https://en.misis.ru/science/community/scientists/international/4583/), [Prof. Andrey Petrov](https://en.misis.ru/science/community/scientists/international/4328/)  
  
 Skills
 ======
