@@ -12,9 +12,11 @@ Hi! I’m Prayag, working as a Marie Sklodowska-Curie Researcher in [QUARTZ](htt
 
 My Research Interest
 ======
-
-Broad interests in machine learning areas, specifically, developing ML models by using the theory of  Quantum Mechanics, Cognitive Science, and Signal System. I have focused mainly on the quantum-inspired classification model and quantum kernel method in recent years. I have been actively working for several NLP tasks (i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, etc.). I am interested in Biases/fairness. I have been interested in the applied ML domain and especial in the medical domain (i.e., Term Mining And Analysis in Biomedical Literature, Multimodal medical fusion algorithm, Brain MRI Image Classification, Blindness Detection, Pneumonia detection in Chest X-rays, Detection of subtype blood-cells, ECG compression model, etc.).  Apart from this, my broad research interest is towards bridging the gap between several fields like QM, IoT, ML, Blockchain, Big Data, Deep Learning. 
-
+* Broad interests in machine learning areas, specifically, developing ML models by using the theory of Quantum Mechanics, Cognitive Science, and Signal Detection.
+* I have focused mainly on the quantum-inspired classification model and quantum kernel method in recent years.
+* I have been actively working for several NLP tasks (i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, etc).
+* Interested in the applied ML domain and especially in the medical domain (i.e., Term Mining And Analysis in Biomedical Literature, Multimodal medical fusion algorithm, Brain MRI Image Classification, Blindness Detection, Pneumonia detection in Chest X-rays, Detection of subtype blood-cells, ECG compression model, etc).
+* Interested towards bridging the gap between several fields like QM, IoT, ML, Blockchain, Big Data, Deep Learning.
 
 
 
