@@ -20,12 +20,12 @@ Professional Experience
 * Oct 2017-Sep 2020: Marie Sklodowska-Curie Researcher
   * University of Padova, Italy
   * Duties included: Exploring Machine Learning using the Quantum Theory 
-  * Supervisor: Prof. Massimo Melucci
+  * Supervisor: [Prof. Massimo Melucci](https://scholar.google.it/citations?user=VGGkN-QAAAAJ&hl=en)
 
 * Jan 2020-May 2020: Visiting Researcher
   * The Open University, U.K.
   * Duties included: Cognitive AI 
-  * Supervisor: Prof. Dawei Song
+  * Supervisor: [Prof. Dawei Song](https://scholar.google.it/citations?user=PCTA8yAAAAAJ&hl=en)
   
 * April 2019-July 2019: Visiting Researcher
   * Queensland University of Technology, Australia
