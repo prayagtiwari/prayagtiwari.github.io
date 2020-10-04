@@ -67,6 +67,8 @@ Peer-Reviewed Journal Publications:
   * Wu, J., Yang, Y., Lei, Z., Wang, J., Li, S. Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). An end-to-end exemplar association for unsupervised person Re-identification. *Neural Networks*. <b>(Q1, I.F.-5.535)</b>
   * Yang, Y., Zhang, T., Cheng, J., Hou, Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification. *Neural Networks*. <b>(Q1, I.F.-5.535)</b>
   * Tan, W., <b>Tiwari, P.</b>, Pandey, H. M., Moreira, C., & Jaiswal, A. K. (2020). Multimodal medical image fusion algorithm in the era of big data. *Neural Computing and Applications*, 1-21. <b>(Q1, I.F.-4.774)</b>
+  * Jaiswal, A. K., <b>Tiwari, P.</b>, & Hossain, M. S. (2020). Predicting users’ behavior using mouse movement information: an information foraging theory perspective. *Neural Computing and Applications*, 1-14. <b>(Q1, I.F.-4.774)</b>
+  * Bebortta, S., Senapati, D., Rajput, N. K., Singh, A. K., Rathi, V. K., Pandey, H. M., ... & <b>Tiwari, P.</b> (2020). Evidence of power-law behavior in cognitive IoT applications. *Neural Computing and Applications*, 1-13. <b>(Q1, I.F.-4.774)</b>
   * Chouhan, V., Singh, S. K., Khamparia, A., Gupta, D., <b>Tiwari, P.</b>, Moreira, C., ... & De Albuquerque, V. H. C. (2020). A novel transfer learning based approach for pneumonia detection in chest X-ray images. *Applied Sciences, 10(2), 559*. <b>(Q2, I.F.-2.474)</b>
   
  * 2019
