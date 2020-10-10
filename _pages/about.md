@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prayag, working as a Marie Sklodowska-Curie Researcher in [QUARTZ](http://www.quartz-itn.eu/about) project and Ph.D. student at the University of Padova, Italy. I have been working mostly in the quantum inspired machine learning area for the last 3 years. 
+Hi! I’m Prayag, working as a Marie Curie Researcher in [QUARTZ](http://www.quartz-itn.eu/about) project and Ph.D. student at the University of Padova, Italy. I have been working mostly in the quantum inspired machine learning area for the last 3 years. 
 
 My Research Interest
 ======
