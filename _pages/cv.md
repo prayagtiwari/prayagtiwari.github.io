@@ -17,7 +17,7 @@ Education
 
 Professional Experience
 ======
-* Oct 2017-Sep 2020: Marie Sklodowska-Curie Researcher
+* Oct 2017-Sep 2020: Marie Curie Researcher
   * University of Padova, Italy
   * Duties included: Exploring Quantum Inspired Machine Learning Models 
   * Supervisor: [Prof. Massimo Melucci](https://scholar.google.it/citations?user=VGGkN-QAAAAJ&hl=en)
