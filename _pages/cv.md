@@ -64,6 +64,7 @@ Peer-Reviewed Journal Publications:
 * 2020
   * Wang, D., <b>Tiwari, P.</b>, Garg, S., Zhu, H., & Bruza, P. (2020). Structural block driven enhanced convolutional neural representation for relation extraction. *Applied Soft Computing, 86, 105913*. <b>(Q1, I.F.-5.472)</b>
   * Qian, J., <b>Tiwari, P.</b>, Gochhayat, S. P., & Pandey, H. M. (2020). A noble double dictionary based ecg compression technique for ioth. *IEEE Internet of Things Journal*. <b>(Q1, I.F.-9.936)</b>
+  * Zhang, Y., <b>Tiwari, P.</b>, Song, D., Mao, X., Wang, P., Pandey, H.M. (2020). Learning Interaction Dynamics with an Interactive-LSTM for Conversational Sentiment Analysis. *Neural Networks*. <b>(Q1, I.F.-5.535)</b>
   * Wu, J., Yang, Y., Lei, Z., Wang, J., Li, S. Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). An end-to-end exemplar association for unsupervised person Re-identification. *Neural Networks*. <b>(Q1, I.F.-5.535)</b>
   * Yang, Y., Zhang, T., Cheng, J., Hou, Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification. *Neural Networks*. <b>(Q1, I.F.-5.535)</b>
   * Tan, W., <b>Tiwari, P.</b>, Pandey, H. M., Moreira, C., & Jaiswal, A. K. (2020). Multimodal medical image fusion algorithm in the era of big data. *Neural Computing and Applications*, 1-21. <b>(Q1, I.F.-4.774)</b>
