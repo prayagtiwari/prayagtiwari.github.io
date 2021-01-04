@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information Engineering, University of Padova, 2020 (expected)
+* Ph.D in Information Engineering, University of Padova, 2021 (expected)
 * M.S. in Innovative Software Systems, National University of Science and Technology MISiS, 2017
 * B.E. in Electronic and Communication Engineering, RGPV University, 2012
 
