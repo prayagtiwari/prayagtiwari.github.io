@@ -12,12 +12,11 @@ Hi! I’m Prayag, working as a Marie Curie Researcher in [QUARTZ](http://www.qua
 
 My Research Interest
 ======
-* Broad interests in machine learning areas, specifically, developing ML models by using the theory of Quantum Mechanics, Cognitive Science, and Signal Detection.
-* I have been mainly focussing on quantum-inspired models, such as the quantum classification model, quantum kernel methods, quantum-like structure for judgment, and decision making. 
-* Actively working for several NLP tasks (i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, etc.), and Computer Vision tasks.
-* Actively working for applied ML domain and especially in the medical field (i.e., Term Mining And Analysis in Biomedical Literature, Multimodal medical image fusion algorithm, Brain MRI Image Classification, Blindness Detection, Pneumonia detection in Chest X-rays, Detection of subtype blood-cells, ECG compression model, etc.).
-* Interested in Bias and Fairness in AI. I am interested to explore also black box models. 
-* Interested in bridging the gap between several fields like QM, IoT, ML, Blockchain, Big Data, Deep Learning.
+* Broad interests in machine learning, quantum physics, deep learning, reinforcement learning, cognitive science, medical informatics, IoT. I am interested towards bridging the gap between these distinct fields.
+* I have focused mainly on quantum-inspired models, such as the quantum classification, quantum kernel methods, quantum-like structure for judgment, and decision making. 
+* Actively working for several NLP tasks (i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, sarcasm detection, etc.), and Computer Vision tasks.
+* Actively working for applied ML domain and especially in the medical domain (i.e., Term Mining And Analysis in Biomedical Literature, Multimodal medical image fusion algorithm, Brain MRI Image Classification, Blindness Detection, Pneumonia detection in Chest X-rays, Detection of subtype blood-cells, ECG compression model, Covid-19 detection, etc).
+* Interested in Bias and Fairness in AI. I am interested to explore also black box models.
 
 
 
