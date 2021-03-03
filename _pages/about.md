@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prayag, working as a Marie Curie Researcher in [QUARTZ](http://www.quartz-itn.eu/about) project at the University of Padova, Italy. I have been working mostly in the quantum inspired machine learning area for the last 3 years. 
+Hi! I’m Prayag, working as a Postdoctoral Researcher at the Aalto University, Finland.
 
 My Research Interest
 ======
-* Broad interests in machine learning, quantum physics, deep learning, reinforcement learning, cognitive science, medical informatics, IoT. I am interested towards bridging the gap between these distinct fields.
+* Broad interests in machine learning, quantum physics, deep learning, reinforcement learning, cognitive science, medical informatics, IoT. I am interested in bridging the gap between these distinct fields.
 * I have focused mainly on quantum-inspired models, such as the quantum classification, quantum kernel methods, quantum-like structure for judgment, and decision making. 
 * Actively working for several NLP tasks (i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, sarcasm detection, etc.), and Computer Vision tasks.
 * Actively working for applied ML domain and especially in the medical domain (i.e., Term Mining And Analysis in Biomedical Literature, Multimodal medical image fusion algorithm, Brain MRI Image Classification, Blindness Detection, Pneumonia detection in Chest X-rays, Detection of subtype blood-cells, ECG compression model, Covid-19 detection, etc).
-* Interested in Bias and Fairness in AI. I am interested to explore also black box models.
+* Interested in casualty, interpretability, and explainability of AI models.
 
 
 
