@@ -17,25 +17,30 @@ Education
 
 Professional Experience
 ======
-* Oct 2017-Sep 2020: Marie Curie Researcher
+* Feb 2021- Ongoing: Postdoctoral Researcher
+  * Aalto University, Finland
+  * Duties included: Exploring AI models in Helthcare
+  
+  
+* Oct 2017-Sep 2020: Marie Curie Researcher [Quartz](http://www.quartz-itn.eu/projects/esr-11)
   * University of Padova, Italy
   * Duties included: Exploring Quantum Inspired Machine Learning Models 
-  * Supervisor: [Prof. Massimo Melucci](https://scholar.google.it/citations?user=VGGkN-QAAAAJ&hl=en)
+ 
 
 * Jan 2020-May 2020: Visiting Researcher
   * The Open University, U.K.
   * Duties included: Cognitive AI, QML
-  * Supervisor: [Prof. Dawei Song](https://scholar.google.it/citations?user=PCTA8yAAAAAJ&hl=en)
+ 
   
 * April 2019-July 2019: Visiting Researcher
   * Queensland University of Technology, Australia
   * Duties included: Quantum Cognitive Models in AI, QML
-  * Supervisor: [Prof. Peter Bruza](https://scholar.google.it/citations?user=N8QpuP8AAAAJ&hl=en), [Dr. Catarina Moreira](https://scholar.google.it/citations?hl=en&user=nThsEsMAAAAJ), [Dr. Shahram Dehdashti](https://scholar.google.it/citations?hl=en&user=lw18-1UAAAAJ)  
+
  
 * Sep 2015-May 2017: Research Assistant
   * National University of Science and Technology MISiS, Moscow, Russia
   * Duties included: Data mining approaces for road and traffic accident analysis
-  * Supervisor: [Prof. Denis Kalitin](https://en.misis.ru/science/community/scientists/international/4583/), [Prof. Andrey Petrov](https://en.misis.ru/science/community/scientists/international/4328/)  
+
  
 Skills
 ======
