@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Email: prayag.tiwari@ieee.org, prayag.tiwari@unipd.it, prayag.tiwari@dei.unipd.it, prayagforms@gmail.com
+Email: prayag.tiwari@ieee.org, prayag.tiwari@aalto.fi, prayagforms@gmail.com
 
-Mobile no.: +39-3393506117
+
