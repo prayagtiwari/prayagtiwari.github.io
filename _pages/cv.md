@@ -17,7 +17,7 @@ Education
 
 Professional Experience
 ======
-* Feb 2021- Ongoing: Postdoctoral Researcher
+* Feb 2021- Ongoing: Postdoctoral Researcher [Aalto]{https://research.aalto.fi/en/persons/prayag-tiwari}
   * Aalto University, Finland
   * Duties included: Exploring AI models in Helthcare
   
