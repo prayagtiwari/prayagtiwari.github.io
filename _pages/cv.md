@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Information Engineering, University of Padova, 2021
+  * Thesis title: Binary Classifier Inspired by Quantum Detection Theory [Download thesis here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/QDM.pdf)
 * M.S. in Innovative Software Systems, National University of Science and Technology MISiS, 2017
+  * Thesis title: Accident Analysis by Using Data Mining Techniques [Download thesis here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/ACD.pdf)
 * B.E. in Electronic and Communication Engineering, RGPV University, 2012
 
 Professional Experience
