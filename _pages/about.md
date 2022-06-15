@@ -24,7 +24,9 @@ My Research Interest
 News
 ======
 * <b>[June 2022]</b> Full paper titled "Contextualized Graph Embeddings for Adverse  Drug Event Detection" has been accepted in ECML PKDD 2022.
-* <b>[April 2022]</b> Full paper titled "[MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://arxiv.org/abs/2110.15621)" has been accepted in LREC 2022.
+* <b>[June 2022]</b> Paper titled "[Reducing noisy annotations for depression estimation from facial images](https://www.sciencedirect.com/science/article/pii/S089360802200199X)" has been accepted in Neural Networks, Elsevier.
+* <b>[June 2022]</b> Paper titled "[MLapSVM-LBS: Predicting DNA-binding proteins via a multiple Laplacian regularized support vector machine with local behavior similarity](https://www.sciencedirect.com/science/article/pii/S0950705122005834)" has been accepted in Knowledge-Based Systems, Elsevier.
+* <b>[April 2022]</b> Short paper titled "[MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://arxiv.org/abs/2110.15621)" has been accepted in LREC 2022.
 * 3 papers accepted in IEEE BIBM 2021.
 
 
