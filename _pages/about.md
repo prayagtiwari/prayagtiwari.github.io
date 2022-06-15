@@ -12,13 +12,13 @@ Hi! I’m Prayag, working as a Postdoctoral Researcher at the Aalto University, 
 
 My Research Interest
 ======
-* Broad interests in machine learning, quantum physics, deep learning, reinforcement learning, cognitive science, medical informatics, IoT. I am interested in bridging the gap between these distinct fields.
-* I have focused mainly on quantum-inspired models, such as quantum classification, quantum kernel methods, quantum-like structure for judgment, and decision making. 
+* Broad interests in machine learning, quantum physics, deep learning, reinforcement learning, cognitive science, healthcare, IoT. I am interested in bridging the gap between these distinct fields.
+* Focused mainly on quantum-based models, such as quantum classification, quantum kernel methods, quantum-like structure for judgment, and decision making. 
 * NLP tasks, i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, sarcasm detection, text generation, topic modeling, question answering, dialogue system, etc.
-* Computer Vision tasks, i.e., interpretable image classification, pedestrian attribute recognition, person re-identification.
-* Applied ML/DL in the healthcare domain, i.e., term mining in biomedical, blindness detection, cancer detection, multimodal medical image fusion, pneumonia detection, depression estimation, blood-cells detection, ECG, EEG, covid-19 detection, etc.
-* Interested in Multi-modal fusion, casualty, interpretability and explainability.
-
+* Computer Vision tasks, i.e., interpretable image classification, pedestrian attribute recognition, person re-identification, Facial Reenactment.
+* Applied ML/DL in the healthcare domain, i.e., term mining in biomedical, blindness detection, cancer detection, multimodal medical image fusion, pneumonia detection, depression and emotion estimation, blood-cells detection, ECG, EEG, covid-19 detection, Identifying DNA & RNA, etc.
+* Multi-modal fusion and Multitask learning methods.
+* Interested in casualty, interpretability and explainability.
 
 
 News
