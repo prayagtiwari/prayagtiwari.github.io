@@ -23,7 +23,7 @@ My Research Interest
 
 News
 ======
-* [June 2022] Full paper titled "Contextualized Graph Embeddings for Adverse  Drug Event Detection" has been accepted in ECML PKDD 2022.
+* <mark>[June 2022]<mark> Full paper titled "Contextualized Graph Embeddings for Adverse  Drug Event Detection" has been accepted in ECML PKDD 2022.
 * [April 2022] Full paper titled "[MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://arxiv.org/abs/2110.15621)" has been accepted in LREC 2022.
 * 3 papers accepted in IEEE BIBM 2021.
 
