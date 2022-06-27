@@ -17,7 +17,7 @@ My Research Interest
 * NLP tasks, i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, sarcasm detection, text generation, topic modeling, question answering, dialogue system, etc.
 * Computer Vision tasks, i.e., interpretable image classification, pedestrian attribute recognition, person re-identification, facial reenactment.
 * ML/DL/RL/FL in the healthcare domain, i.e., term mining in biomedical, blindness detection, cancer detection, multimodal medical image fusion, pneumonia detection, depression and emotion estimation, blood-cells detection, ECG, EEG, covid-19 detection, adverse drug event detection, Identifying DNA & RNA, security and privacy in healthcare, etc.
-* Multi-modal fusion and Multitask learning methods.
+* Multi-modal fusion and multitask learning methods.
 * Interested in casualty, interpretability and explainability.
 
 
