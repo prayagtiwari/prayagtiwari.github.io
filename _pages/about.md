@@ -23,7 +23,7 @@ My Research Interest
 
 News
 ======
-* <b>[June 2022]</b> Paper titled "Quantum-Assisted Activation for Supervised Learning in Healthcare-based Intrusion Detection Systems" has been accepted in IEEE Transactions on Artificial Intelligence. 
+* <b>[June 2022]</b> Paper titled "[Quantum-Assisted Activation for Supervised Learning in Healthcare-based Intrusion Detection Systems](https://ieeexplore.ieee.org/document/9813378)" has been accepted in IEEE Transactions on Artificial Intelligence. 
 * <b>[June 2022]</b> Paper titled "[Identification of DNA N4-methylcytosine sites via multi-view kernel sparse representation model](https://ieeexplore.ieee.org/document/9809784)" has been accepted in IEEE Transactions on Artificial Intelligence. 
 * <b>[June 2022]</b> Full paper titled "Contextualized Graph Embeddings for Adverse  Drug Event Detection" has been accepted in ECML PKDD 2022.
 * <b>[June 2022]</b> Paper titled "[Reducing noisy annotations for depression estimation from facial images](https://www.sciencedirect.com/science/article/pii/S089360802200199X)" has been accepted in Neural Networks, Elsevier. <b>(Impact Factor- 9.657)</b>
