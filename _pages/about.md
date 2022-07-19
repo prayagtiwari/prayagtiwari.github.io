@@ -24,7 +24,7 @@ My Research Interest
 News
 ======
 * <b>[June 2022]</b> Paper titled "[Pre-trained language models with domain knowledge for biomedical extractive summarization](https://www.sciencedirect.com/science/article/pii/S0950705122007328)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
-* <b>[July 2022]</b> Paper titled "[Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e)" has been accepted in Journal of Physics A: Mathematical and Theoretical.
+* <b>[July 2022]</b> Paper titled "[Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e)" has been accepted in Journal of Physics A: Mathematical and Theoretical. <b>(Impact Factor- 2.331)
 * <b>[June 2022]</b> Paper titled "[Identification of DNA N4-methylcytosine sites via multi-view kernel sparse representation model](https://ieeexplore.ieee.org/document/9809784)" has been accepted in IEEE Transactions on Artificial Intelligence. 
 * <b>[June 2022]</b> Paper titled "[Quantum-Assisted Activation for Supervised Learning in Healthcare-based Intrusion Detection Systems](https://ieeexplore.ieee.org/document/9813378)" has been accepted in IEEE Transactions on Artificial Intelligence. 
 * <b>[June 2022]</b> Full paper titled "[Contextualized Graph Embeddings for Adverse  Drug Event Detection](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/ECML22.pdf)" has been accepted in ECML PKDD 2022.
