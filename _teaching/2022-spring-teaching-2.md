@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course"
 permalink: /teaching/2022-spring-teaching-2
 venue: "Aalto University"
-date: 2011-01-01
+date: 14.1.2022-12.4.2022
 location: "Espoo, Finland"
 ---
 
