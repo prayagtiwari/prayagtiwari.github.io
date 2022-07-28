@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prayag, working as a Researcher at the Aalto University, Finland.
+Hi! I’m Prayag, working as a Postdoctoral Researcher at the Aalto University, Finland.
 
 My Research Interest
 ======
