@@ -19,7 +19,17 @@ Education
 
 Professional Experience
 ======
-* Feb 2021- Ongoing: Postdoctoral Researcher [Aalto](https://research.aalto.fi/en/persons/prayag-tiwari)
+* Aug 2022- Ongoing: Assistant Professor
+  * Halmstad University, Sweden
+  * Duties included: Exploring AI models in Helthcare
+  
+  
+* Aug 2022- Ongoing: Visiting Researcher [Aalto](https://research.aalto.fi/en/persons/prayag-tiwari)
+  * Aalto University, Finland
+  * Duties included: Exploring AI models in Helthcare
+
+
+* Feb 2021- July 2022: Postdoctoral Researcher [Aalto](https://research.aalto.fi/en/persons/prayag-tiwari)
   * Aalto University, Finland
   * Duties included: Exploring AI models in Helthcare
   
