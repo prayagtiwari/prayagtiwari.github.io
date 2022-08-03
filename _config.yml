@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Prayag Tiwari"
   avatar           : "prayag.png"
-  bio              : "Research Scientist in ML/QML/Cognitive AI"
-  location         : "Espoo, Finland"
-  employer         : "Aalto University"
+  bio              : "Researcher in ML/QML/Cognitive AI"
+  location         : "Halmstad, Sweden"
+  employer         : "Halmstad University"
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "prayag.tiwari@ieee.org"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/prayag-tiwari"
+  linkedin         : "https://www.linkedin.com/in/prayag-tiwari"
   orcid            : "https://orcid.org/0000-0002-2851-4260"
   pinterest        :
   soundcloud       :
