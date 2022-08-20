@@ -40,8 +40,8 @@ News
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 2505, h-index: 21)
   
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 1528, h-index: 15)
   
 [Web of Science](https://www.webofscience.com/wos/author/record/436751)
