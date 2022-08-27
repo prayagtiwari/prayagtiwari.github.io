@@ -21,7 +21,7 @@ Professional Experience
 ======
 * Aug 2022- Ongoing: Assistant Professor
   * Halmstad University, Sweden
-  * Duties included: Exploring AI models in Helthcare
+  * Duties included: Machine Learning
   
   
 * Aug 2022- Ongoing: Visiting Researcher [Aalto](https://research.aalto.fi/en/persons/prayag-tiwari)
