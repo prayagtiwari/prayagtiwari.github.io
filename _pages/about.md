@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Prayag, working as an Assistant Professor at the Halmstad University, Sweden.
+Hi! I’m Prayag, working as an Assistant Professor in Machine Learning at the Halmstad University, Sweden.
 
 My Research Interest
 ======
