@@ -8,7 +8,7 @@ date: 14.1.2022-12.4.2022
 location: "Espoo, Finland"
 ---
 
-* Involved as a Head of TAs for this course.
+* Involved as a head of TAs for this course.
 * Responsible for examination grading, and other adminsitrative tasks. 
 
 
