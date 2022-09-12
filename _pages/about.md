@@ -23,6 +23,7 @@ My Research Interest
 
 News
 ======
+* <b>[Septeember 2022]</b> Paper titled "[Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with application in gene selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777?via%3Dihub#!)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
 * <b>[July 2022]</b> Paper titled "[Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e)" has been accepted in Journal of Physics A: Mathematical and Theoretical. <b>(Impact Factor- 2.331)
 * <b>[July 2022]</b> Paper titled "[Pre-trained language models with domain knowledge for biomedical extractive summarization](https://www.sciencedirect.com/science/article/pii/S0950705122007328)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
 * <b>[June 2022]</b> Paper titled "[Identification of DNA N4-methylcytosine sites via multi-view kernel sparse representation model](https://ieeexplore.ieee.org/document/9809784)" has been accepted in IEEE Transactions on Artificial Intelligence. 
