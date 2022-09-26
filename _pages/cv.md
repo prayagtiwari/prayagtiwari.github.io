@@ -19,22 +19,22 @@ Education
 
 Professional Experience
 ======
-* Aug 2022- Ongoing: Assistant Professor [Halmstad University](https://www.hh.se/pdben?person=52C5C37B-703C-4A11-B31D-E70F516A08A2)
+* Aug 2022- Ongoing: Assistant Professor ([Halmstad University](https://www.hh.se/pdben?person=52C5C37B-703C-4A11-B31D-E70F516A08A2))
   * Halmstad University, Sweden
   * Duties included: Research and Teaching in Machine Learning
   
   
-* Aug 2022- Ongoing: Visiting Researcher [Aalto University](https://research.aalto.fi/en/persons/prayag-tiwari)
+* Aug 2022- Ongoing: Visiting Researcher ([Aalto University](https://research.aalto.fi/en/persons/prayag-tiwari))
   * Aalto University, Finland
   * Duties included: Exploring AI models in Helthcare
 
 
-* Feb 2021- July 2022: Postdoctoral Researcher [Aalto University](https://research.aalto.fi/en/persons/prayag-tiwari)
+* Feb 2021- July 2022: Postdoctoral Researcher ([Aalto University](https://research.aalto.fi/en/persons/prayag-tiwari))
   * Aalto University, Finland
   * Duties included: Exploring AI models in Helthcare
   
   
-* Oct 2017-Sep 2020: Marie Curie Researcher [Quartz](http://www.quartz-itn.eu/projects/esr-11)
+* Oct 2017-Sep 2020: Marie Curie Researcher ([Quartz](http://www.quartz-itn.eu/projects/esr-11))
   * University of Padova, Italy
   * Duties included: Exploring Quantum Inspired Machine Learning Models 
  
