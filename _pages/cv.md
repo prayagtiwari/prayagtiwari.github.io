@@ -19,17 +19,17 @@ Education
 
 Professional Experience
 ======
-* Aug 2022- Ongoing: Assistant Professor
+* Aug 2022- Ongoing: Assistant Professor [Halmstad University](https://www.hh.se/pdben?person=52C5C37B-703C-4A11-B31D-E70F516A08A2)
   * Halmstad University, Sweden
-  * Duties included: Machine Learning
+  * Duties included: Research and Teaching in Machine Learning
   
   
-* Aug 2022- Ongoing: Visiting Researcher [Aalto](https://research.aalto.fi/en/persons/prayag-tiwari)
+* Aug 2022- Ongoing: Visiting Researcher [Aalto University](https://research.aalto.fi/en/persons/prayag-tiwari)
   * Aalto University, Finland
   * Duties included: Exploring AI models in Helthcare
 
 
-* Feb 2021- July 2022: Postdoctoral Researcher [Aalto](https://research.aalto.fi/en/persons/prayag-tiwari)
+* Feb 2021- July 2022: Postdoctoral Researcher [Aalto University](https://research.aalto.fi/en/persons/prayag-tiwari)
   * Aalto University, Finland
   * Duties included: Exploring AI models in Helthcare
   
