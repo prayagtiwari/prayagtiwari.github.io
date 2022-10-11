@@ -23,7 +23,7 @@ My Research Interest
 
 News
 ======
-* <b>[October 2022]</b> Top 2\% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
+* <b>[October 2022]</b> Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
 * <b>[September 2022]</b> Paper titled "[Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with application in gene selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777?via%3Dihub#!)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
 * <b>[July 2022]</b> Paper titled "[Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e)" has been accepted in Journal of Physics A: Mathematical and Theoretical. <b>(Impact Factor- 2.331)
 * <b>[July 2022]</b> Paper titled "[Pre-trained language models with domain knowledge for biomedical extractive summarization](https://www.sciencedirect.com/science/article/pii/S0950705122007328)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
