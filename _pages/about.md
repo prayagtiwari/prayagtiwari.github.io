@@ -12,7 +12,7 @@ Hi! I’m Prayag, working as an Assistant Professor in Machine Learning at the H
 
 My Research Interest
 ======
-* Broad interests in machine learning, deep learning, reinforcement learning, federated learning, quantum physics, cognitive science, healthcare, IoT. I am interested in bridging the gap between these distinct fields.
+* Broad interests in machine learning, deep learning, reinforcement learning, federated learning, quantum physics, graph neural networks, cognitive science, healthcare, IoT. I am interested in bridging the gap between these distinct fields.
 * Quantum-based models, such as quantum classification, quantum kernel methods, quantum-like structure for judgment, and decision making. 
 * NLP tasks, i.e., relation classification, knowledge graph reasoning, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, sarcasm detection, text generation, topic modeling, question answering, dialogue system, etc.
 * Computer Vision tasks, i.e., interpretable image classification, pedestrian attribute recognition, person re-identification, facial reenactment.
