@@ -45,6 +45,6 @@ Useful Links
 
 [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 2800+, h-index: 23)
   
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 1700+, h-index: 17)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 1700+, h-index: 18)
   
 [Web of Science](https://www.webofscience.com/wos/author/record/436751)
