@@ -23,6 +23,7 @@ My Research Interest
 
 News
 ======
+* <b>[November 2022]</b> 2022 Best Paper Award: [Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification](https://www.sciencedirect.com/journal/neural-networks/about/announcements).
 * <b>[October 2022]</b> Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
 * <b>[October 2022]</b> Paper titled "[Shared subspace-based radial basis function neural network for identifying ncRNAs subcellular localization](https://www.sciencedirect.com/science/article/pii/S0893608022003768)" has been accepted in Neural Networks, Elsevier. <b>(Impact Factor- 9.657)</b>
 * <b>[September 2022]</b> Paper titled "[Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with application in gene selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777?via%3Dihub#!)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
