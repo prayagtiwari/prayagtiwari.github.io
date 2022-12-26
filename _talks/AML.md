@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/AML
 venue: "Halmstad University"
-date: 2022-12
+date: 2022-12-12
 location: "Sweden"
 ---
 
