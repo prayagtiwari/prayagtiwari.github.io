@@ -23,6 +23,7 @@ My Research Interest
 
 News
 ======
+* <b>[December 2022]</b> Media appearance: [Findings from Aalto University Update Knowledge of Mathematics (C-loss Based Higher Order Fuzzy Inference Systems for Identifying Dna N4-methylcytosine Sites)](http://ct.moreover.com/?a=49431495362&p=1gw&v=1&x=6AXgriIoXctXc0KTUTxblQ) by Math Daily News
 * <b>[November 2022]</b> Elevation to the grade of IEEE Senior member.
 * <b>[November 2022]</b> 2022 Best Paper Award: [Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification](https://www.sciencedirect.com/journal/neural-networks/about/awards), published in Neural Networks, volume 128, pp. 294-304, August 2020.
 * <b>[October 2022]</b> Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
