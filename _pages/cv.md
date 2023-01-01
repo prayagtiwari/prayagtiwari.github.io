@@ -58,6 +58,8 @@ Professional Experience
 Skills
 ======
 * Python (Scikit-learn, Numpy, Pandas, Tensorflow, keras, Pennylane, NLTK), Matlab, R Studio, Qualtrics
+* Quantum Software: Qiskit, myQLM, Pennylane
+* Crowd-sourcing Platforms: Qualtrics, Prolific
 
 
 Research Awards & Achievements
