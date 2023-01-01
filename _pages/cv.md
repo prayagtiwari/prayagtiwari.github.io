@@ -83,7 +83,7 @@ Professional Memberships
 
 Professional Activities as a Reviewer
 ======
-* ICLR 2023, COLING 2022, ICDM 2022
+* ICLR 2023, COLING 2022, ICDM 2022, ACL 2023
 * Quantum Machine Intelligence, Scientific Report, NCAA
 * IEEE TNNLS, IEEE TCB, IEEE IoTJ, IEEE TII, IEEE TCBS, IEEE Access, IEEE TIFS, IEEE TFS, IEEE TAI, IEEE TEM, IEEE TSMC
 * Neural Networks, Information Science, Cells@Pattern
