@@ -60,17 +60,17 @@ Skills
 * Python (Scikit-learn, Numpy, Pandas, Tensorflow, keras, Pennylane, NLTK), Matlab, R Studio, Qualtrics
 
 
-Research Awards & Achievements:
+Research Awards & Achievements
 ======
 * Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
 * 2022 Best Paper Award: [Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification](https://www.sciencedirect.com/journal/neural-networks/about/awards), published in Neural Networks, volume 128, pp. 294-304, August 2020.
 
 
-Media/Press Coverage:
+Media/Press Coverage
 ======
 * Media appearance: [Findings from Aalto University Update Knowledge of Mathematics (C-loss Based Higher Order Fuzzy Inference Systems for Identifying Dna N4-methylcytosine Sites)](http://ct.moreover.com/?a=49431495362&p=1gw&v=1&x=6AXgriIoXctXc0KTUTxblQ) by Math Daily News
 
-Publications:
+Publications
 ======
 
 You can find full list of my articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
@@ -78,5 +78,15 @@ You can find full list of my articles on [Google Scholar](https://scholar.google
 
 Professional Memberships
 ======
-* IEEE Senior member, ACM, AAAI, ACL, SIGIR
+* IEEE Senior member
+* ACM, AAAI, ACL, SIGIR
 
+Professional Activities as a Reviewer
+======
+* ICLR 2023, COLING 2022, ICDM 2022
+* Quantum Machine Intelligence, Scientific Report, NCAA
+* IEEE TNNLS, IEEE TCB, IEEE IoTJ, IEEE TII, IEEE TCBS, IEEE Access, IEEE TIFS, IEEE TFS, IEEE TAI, IEEE TEM, IEEE TSMC
+* Neural Networks, Information Science, Cells@Pattern
+* Entropy, Sensors
+* Review Editor: Frontiers in Artificial Intelligence 
+* ACM Computing Surveys, ACM TOIT, ACM TALLIP
