@@ -71,6 +71,7 @@ Research Awards & Achievements
 Media/Press Coverage
 ======
 * Media appearance: [Findings from Aalto University Update Knowledge of Mathematics (C-loss Based Higher Order Fuzzy Inference Systems for Identifying Dna N4-methylcytosine Sites)](http://ct.moreover.com/?a=49431495362&p=1gw&v=1&x=6AXgriIoXctXc0KTUTxblQ) by Math Daily News
+* * Media appearance: [New Data from Aalto University Illuminate Findings in Technology (Fully Homomorphic Enabled Secure Task Offloading and Scheduling System for Transport Applications)](http://ct.moreover.com/?a=49659972305&p=1gw&v=1&x=4O0492SPW4-zh8qRIQWo6g) by Tech Daily News
 
 Publications
 ======
