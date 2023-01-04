@@ -23,6 +23,7 @@ My Research Interest
 
 News
 ======
+* <b>[January 2023]</b> Media appearance: [New Data from Aalto University Illuminate Findings in Technology (Fully Homomorphic Enabled Secure Task Offloading and Scheduling System for Transport Applications)](http://ct.moreover.com/?a=49659972305&p=1gw&v=1&x=4O0492SPW4-zh8qRIQWo6g) by Tech Daily News
 * <b>[December 2022]</b> Media appearance: [Findings from Aalto University Update Knowledge of Mathematics (C-loss Based Higher Order Fuzzy Inference Systems for Identifying Dna N4-methylcytosine Sites)](http://ct.moreover.com/?a=49431495362&p=1gw&v=1&x=6AXgriIoXctXc0KTUTxblQ) by Math Daily News
 * <b>[November 2022]</b> Elevation to the grade of IEEE Senior member.
 * <b>[November 2022]</b> 2022 Best Paper Award: [Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification](https://www.sciencedirect.com/journal/neural-networks/about/awards), published in Neural Networks, volume 128, pp. 294-304, August 2020.
