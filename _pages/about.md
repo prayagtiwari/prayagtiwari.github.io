@@ -51,4 +51,4 @@ Useful Links
   
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 1900+, h-index: 20)
   
-[Web of Science](https://www.webofscience.com/wos/author/record/436751)
+[Web of Science](https://www.webofscience.com/wos/author/record/436751) (Citations: 1300+, h-index: 17)
