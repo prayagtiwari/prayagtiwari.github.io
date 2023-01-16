@@ -84,7 +84,7 @@ Professional Memberships
 * IEEE Senior member
 * ACM, AAAI, ACL, SIGIR
 
-Professional Activities as a Reviewer
+Professional Activities as an Editorial Board/Reviewer
 ======
 * PC Committee: ICLR 2023, COLING 2022, ICDM 2022, ACL 2023
 * Associate Editor: Frontiers in Artificial Intelligence 
