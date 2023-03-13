@@ -23,6 +23,7 @@ My Research Interest
 
 News
 ======
+* <b>[January 2023]</b> Paper titled "[Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116)" has been accepted in IEEE Transactions on Vehicular Technology. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
 * <b>[January 2023]</b> Media appearance: [New Data from Aalto University Illuminate Findings in Technology (Fully Homomorphic Enabled Secure Task Offloading and Scheduling System for Transport Applications)](http://ct.moreover.com/?a=49659972305&p=1gw&v=1&x=4O0492SPW4-zh8qRIQWo6g) by Tech Daily News
 * <b>[December 2022]</b> Media appearance: [Findings from Aalto University Update Knowledge of Mathematics (C-loss Based Higher Order Fuzzy Inference Systems for Identifying Dna N4-methylcytosine Sites)](http://ct.moreover.com/?a=49431495362&p=1gw&v=1&x=6AXgriIoXctXc0KTUTxblQ) by Math Daily News
 * <b>[November 2022]</b> Elevation to the grade of IEEE Senior member.
