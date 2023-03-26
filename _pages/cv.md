@@ -86,10 +86,10 @@ Professional Memberships
 
 Professional Activities as an Editorial Board/Reviewer
 ======
-* PC Committee: ICLR 2023, COLING 2022, ICDM 2022, ACL 2023
-* Associate Editor: Frontiers in Artificial Intelligence 
+* PC Committee: KDD 2023, ICLR 2023, COLING 2022, ICDM 2022, ACL 2023
+* Associate Editor: Frontiers in Artificial Intelligence, Frontiers in Big Data 
 * Quantum Machine Intelligence, Scientific Report, NCAA
 * IEEE TNNLS, IEEE TCB, IEEE IoTJ, IEEE TII, IEEE TCBS, IEEE Access, IEEE TIFS, IEEE TFS, IEEE TAI, IEEE TEM, IEEE TSMC
-* Neural Networks, Information Science, Cells@Pattern
+* Neural Networks, Information Science, Knowledge-Based Systems, Cells@Pattern
 * Entropy, Sensors
 * ACM Computing Surveys, ACM TOIT, ACM TALLIP
