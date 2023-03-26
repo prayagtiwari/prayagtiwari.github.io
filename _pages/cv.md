@@ -66,7 +66,8 @@ Research Awards & Achievements
 ======
 * Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
 * 2022 Best Paper Award: [Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification](https://www.sciencedirect.com/journal/neural-networks/about/awards), published in Neural Networks, volume 128, pp. 294-304, August 2020.
-
+* Awarded one of the Highly Cited Papers published in Applied Sciences (MDPI).
+* Awarded one of the Highly Cited Papers published in Measurement (Elsevier).
 
 Media/Press Coverage
 ======
