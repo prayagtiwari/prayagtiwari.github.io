@@ -48,7 +48,7 @@ News
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 3900+, h-index: 28)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 4000+, h-index: 28)
   
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 2400+, h-index: 22)
   
