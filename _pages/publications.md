@@ -44,4 +44,9 @@ Multimodal Fusion
 
 Graph Neural Networks
 ======
+* Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Alonso-Fernandez, F. (2023). Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting. arXiv preprint arXiv:2305.09703. [Available online](https://arxiv.org/abs/2305.09703)
+* Zeyu, H., Yan, L., Wendi, F., Wei, Z., Alenezi, F., & <b>Tiwari, P.</b>. (2023). Causal Embedding of User Interest and Conformity for Long-tail Session-based Recommendations. *Information Sciences*, 119167.  [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523007521)
+* Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting. *IEEE Transactions on Vehicular Technology*.  [Available online](https://ieeexplore.ieee.org/abstract/document/10032116)
 * Zhang, Y., <b>Tiwari, P.</b>, Zheng, Q., El Saddik, A., & Hossain, M. S. (2022). A Multimodal Coupled Graph Attention Network for Joint Traffic Event Detection and Sentiment Classification. *IEEE Transactions on Intelligent Transportation Systems* (equal contribution). [Available online](https://ieeexplore.ieee.org/abstract/document/9928434)
+* Saeed, U., Armghan, A., Quanyu, W., Alenezi, F., Yue, S., & <b>Tiwari, P.</b>. (2022). One-shot many-to-many facial reenactment using Bi-Layer Graph Convolutional Networks. *Neural Networks*, 156, 193-204.  [Available online](https://www.sciencedirect.com/science/article/pii/S0893608022003811)
+* Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). Contextualized Graph Embeddings for Adverse Drug Event Detection. In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*.  [Available online](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf)
