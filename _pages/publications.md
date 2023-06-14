@@ -12,6 +12,9 @@ author_profile: true
 
 Quantum-based Articles
 ======
+* Qu, Z., Meng, Y, Liu, B., Muhammad, G., <b>Tiwari, P.</b>. (2023). QB-IMD: A secure medical data processing system with privacy protection based on quantum blockchain for IoMT. *IEEE Internet of Things Journal*. [Available online](https://ieeexplore.ieee.org/document/10149070)
+* Qu, Z., Zhang, Z., Liu, B., <b>Tiwari, P.</b>, Ning, X., & Muhammad, K. (2023). Quantum detectable Byzantine agreement for distributed data trust management in blockchain. *Information Sciences*, 637, 118909. [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523004644)
+* Deshmukh, S., Behera, B. K., Mulay, P., Ahmed, E. A., Al-Kuwari, S., <b>Tiwari, P.</b>, & Farouk, A. (2023). Explainable quantum clustering method to model medical data. *Knowledge-Based Systems*, 267, 110413. [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123001636)
 * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). Kernel method based on non-linear coherent states in quantum feature space. *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301. [Available online](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e/meta)
 * Laxminarayana, N., Mishra, N., <b>Tiwari, P.</b>, Garg, S., Behera, B. K., & Farouk, A. (2022). Quantum-assisted activation for supervised learning in healthcare-based intrusion detection systems. *IEEE Transactions on Artificial Intelligence*. [Available online](https://ieeexplore.ieee.org/abstract/document/9813378)
 * Jannu, S., Dara, S., Thuppari, C., Vidyarthi, A., Ghosh, D., <b>Tiwari, P.</b>, & Muhammad, G. (2022). Energy Efficient Quantum-Informed Ant Colony Optimization Algorithms for Industrial Internet of Things. *IEEE Transactions on Artificial Intelligence*. [Available online](https://ieeexplore.ieee.org/abstract/document/9941476)
