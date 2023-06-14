@@ -11,4 +11,4 @@ author_profile: true
 
 Quantum-based Articles
 ======
-* <b>Tiwari, P.]</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). Kernel method based on non-linear coherent states in quantum feature space. \textit{Journal of Physics A: Mathematical and Theoretical}, 55(35), 355301.
+* <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). Kernel method based on non-linear coherent states in quantum feature space. \textit{Journal of Physics A: Mathematical and Theoretical}, 55(35), 355301.
