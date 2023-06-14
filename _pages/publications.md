@@ -52,3 +52,23 @@ Graph Neural Networks
 * Saeed, U., Armghan, A., Quanyu, W., Alenezi, F., Yue, S., & <b>Tiwari, P.</b>. (2022). One-shot many-to-many facial reenactment using Bi-Layer Graph Convolutional Networks. *Neural Networks*, 156, 193-204.  [Available online](https://www.sciencedirect.com/science/article/pii/S0893608022003811)
 * Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). Contextualized Graph Embeddings for Adverse Drug Event Detection. In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*.  [Available online](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf)
 * Li, X., Li, J., Zhang, Y., & <b>Tiwari, P.</b>. (2021, December). Emotion Recognition from Multi-channel EEG Data through A Dual-pipeline Graph Attention Network. In 2021 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* (pp. 3642-3647). IEEE.  [Available online](https://ieeexplore.ieee.org/abstract/document/9669544)
+
+
+
+
+Healthcare
+======
+* <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613)
+* Rani, S., Kataria, A., Kumar, S., & <b>Tiwari, P.</b>. (2023). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. *Knowledge-Based Systems*, 110658.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123004082)
+* Lakhan, A., Mohammed, M. A., Nedoma, J., Martinek, R., <b>Tiwari, P.</b>, & Kumar, N. (2023). DRLBTS: deep reinforcement learning-aware blockchain-based healthcare system. *Scientific Reports*, 13(1), 4124.  [Available online](https://www.nature.com/articles/s41598-023-29170-2)
+* Khan, H. U., Raza, B., Shah, M. H., Usama, S. M., <b>Tiwari, P.</b>, & Band, S. S. (2023). SMDetector: Small mitotic detector in histopathology images using faster R-CNN with dilated convolutions in backbone model. *Biomedical Signal Processing and Control*, 81, 104414.   [Available online](https://www.sciencedirect.com/science/article/pii/S1746809422008680)
+
+
+
+Natural Language Processing
+======
+
+
+
+Bioinformatics
+======
