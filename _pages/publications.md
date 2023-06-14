@@ -35,6 +35,9 @@ Multimodal Fusion
 * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523000040)
 * Zhang, Y., <b>Tiwari, P.</b>, Zheng, Q., El Saddik, A., & Hossain, M. S. (2022). A Multimodal Coupled Graph Attention Network for Joint Traffic Event Detection and Sentiment Classification. *IEEE Transactions on Intelligent Transportation Systems* (equal contribution). [Available online](https://ieeexplore.ieee.org/abstract/document/9928434)
 * Zhang, Y., Li, X., Rong, L., & <b>Tiwari, P.</b> (2021, December). Multi-task learning for jointly detecting depression and emotion. In 2021 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* (pp. 3142-3149). IEEE. [Available online](https://ieeexplore.ieee.org/abstract/document/9669546)
+* Zhang, Y., Rong, L., Li, X.,  <b>Tiwari, P.</b>, Zheng, Q., & Liang, H. (2021, December). MedSeq2Seq: A medical knowledge enriched sequence to sequence learning model for Covid-19 diagnosis. In 2021 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* (pp. 3181-3184). IEEE.  [Available online](https://ieeexplore.ieee.org/abstract/document/9669854)
+* Tan, W., <b>Tiwari, P.</b>, Pandey, H. M., Moreira, C., & Jaiswal, A. K. (2020). Multimodal medical image fusion algorithm in the era of big data. *Neural Computing and Applications*, 1-21. [Available online](https://link.springer.com/article/10.1007/s00521-020-05173-2)
+
 
 
 
