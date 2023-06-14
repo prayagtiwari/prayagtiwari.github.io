@@ -62,7 +62,7 @@ Graph Neural Networks
 
 Unsupervised Feature Selection
 ======
-* Karami S, Movahed FS, <b>Tiwari, P.</b>, Martinnen P, Vahdati S. Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance}, *Neural Networks* (2023).
+* Karami S, Movahed FS, <b>Tiwari, P.</b>, Martinnen P, Vahdati S. Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance, *Neural Networks* (2023).
 * Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., <b>Tiwari, P.</b>, Oussalah, M., & Band, S. S. (2022). Dual regularized unsupervised feature selection based on matrix factorization and minimum redundancy with application in gene selection. *Knowledge-Based Systems*, 256, 109884.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705122009777)
 
 
