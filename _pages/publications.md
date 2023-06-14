@@ -12,6 +12,7 @@ author_profile: true
 
 Quantum-based Articles
 ======
+* Qu Z, Shi W, Liu B, Gupta D, <b>Tiwari, P.</b>. (2023). IoMT-based smart healthcare detection system driven by quantum blockchain and quantum neural network. *IEEE Journal of Biomedical and Health Informatics*.
 * Qu, Z., Meng, Y, Liu, B., Muhammad, G., <b>Tiwari, P.</b>. (2023). QB-IMD: A secure medical data processing system with privacy protection based on quantum blockchain for IoMT. *IEEE Internet of Things Journal*. [Available online](https://ieeexplore.ieee.org/document/10149070)
 * Qu, Z., Zhang, Z., Liu, B., <b>Tiwari, P.</b>, Ning, X., & Muhammad, K. (2023). Quantum detectable Byzantine agreement for distributed data trust management in blockchain. *Information Sciences*, 637, 118909. [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523004644)
 * Deshmukh, S., Behera, B. K., Mulay, P., Ahmed, E. A., Al-Kuwari, S., <b>Tiwari, P.</b>, & Farouk, A. (2023). Explainable quantum clustering method to model medical data. *Knowledge-Based Systems*, 267, 110413. [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123001636)
@@ -26,3 +27,18 @@ Quantum-based Articles
 * <b>Tiwari, P.</b>, & Melucci, M. (2018). Towards a Quantum-Inspired Framework for Binary Classification, In Proceedings of the *27th ACM International Conference on Information and Knowledge Management (CIKM)* 2018. [Available online](https://dl.acm.org/doi/abs/10.1145/3269206.3269304)
 * Li Q, Melucci M, <b>Tiwari, P.</b>(2018). Quantum Language Model-based Query Expansion}, In Proceedings of the 2018 ACM *SIGIR* International Conference on Theory of Information Retrieval. [Available online](https://dl.acm.org/doi/abs/10.1145/3234944.3234970)
 * <b>Tiwari, P.</b>, & Melucci, M. (2018). Multi-class Classification Model Inspired by Quantum Detection Theory, Future Directions in Information Access (FDIA) 2018. [Available online](https://arxiv.org/abs/1810.04491)
+
+
+
+Multimodal Fusion
+======
+* Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523000040)
+* Zhang, Y., <b>Tiwari, P.</b>, Zheng, Q., El Saddik, A., & Hossain, M. S. (2022). A Multimodal Coupled Graph Attention Network for Joint Traffic Event Detection and Sentiment Classification. *IEEE Transactions on Intelligent Transportation Systems* (equal contribution). [Available online](https://ieeexplore.ieee.org/abstract/document/9928434)
+* Zhang, Y., Li, X., Rong, L., & <b>Tiwari, P.</b> (2021, December). Multi-task learning for jointly detecting depression and emotion. In 2021 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* (pp. 3142-3149). IEEE. [Available online](https://ieeexplore.ieee.org/abstract/document/9669546)
+
+
+
+
+Graph Neural Networks
+======
+* Zhang, Y., <b>Tiwari, P.</b>, Zheng, Q., El Saddik, A., & Hossain, M. S. (2022). A Multimodal Coupled Graph Attention Network for Joint Traffic Event Detection and Sentiment Classification. *IEEE Transactions on Intelligent Transportation Systems* (equal contribution). [Available online](https://ieeexplore.ieee.org/abstract/document/9928434)
