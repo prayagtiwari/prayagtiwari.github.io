@@ -108,7 +108,13 @@ Bioinformatics
 Natural Language Processing
 ======
 * Li J, Wu X, Liu X, Xie Q, <b>Tiwari, P.</b>,  & Wang B (2023).  Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk.  *61st Annual Meeting of the Association for Computational Linguistics  (ACL) 2023*.
+* Li, S., Sun, C., Xu, Z.,  <b>Tiwari, P.</b>, Liu, B., Gupta, D., ... & Wang, M. (2023). Toward Explainable Dialogue System Using Two-stage Response Generation. *ACM Transactions on Asian and Low-Resource Language Information Processing*, 22(3), 1-18.    [Available online](https://dl.acm.org/doi/full/10.1145/3551869)
 * <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning. *Neural Networks*, 135, 1-12.    [Available online](https://www.sciencedirect.com/science/article/pii/S089360802030410X)
+* Zhang, Y., <b>Tiwari, P.</b>, Song, D., Mao, X., Wang, P., Li, X., & Pandey, H. M. (2021). Learning interaction dynamics with an interactive LSTM for conversational sentiment analysis. *Neural Networks*, 133, 40-56.    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608020303567)
+* <b>Tiwari, P.</b>, Jaiswal, A. K., Garg, S., & You, I. (2021). SANTM: Efficient Self-attention-driven Network for Text Matching.  *ACM Transactions on Internet Technology (TOIT)*, 22(3), 1-21.    [Available online](https://dl.acm.org/doi/full/10.1145/3426971)
+* Wang, D., <b>Tiwari, P.</b>, Shorfuzzaman, M., & Schmitt, I. (2021). Deep neural learning on weighted datasets utilizing label disagreement from crowdsourcing. *Computer Networks*, 196, 108227.    [Available online](https://www.sciencedirect.com/science/article/pii/S1389128621002711)
+* Xie, Q.,  <b>Tiwari, P.</b, Gupta, D., Huang, J., & Peng, M. (2021). Neural variational sparse topic model for sparse explainable text representation. *Information Processing & Management*, 58(5), 102614.    [Available online](https://www.sciencedirect.com/science/article/pii/S0306457321001102)
+* Wang, D., <b>Tiwari, P.</b>, Garg, S., Zhu, H., & Bruza, P. (2020). Structural block driven enhanced convolutional neural representation for relation extraction. *Applied Soft Computing*, 86, 105913 (equal contribution).    [Available online](https://www.sciencedirect.com/science/article/pii/S1568494619306945) 
 
 
 
@@ -123,4 +129,6 @@ Transportation
 * Qu, Z., Tang, Y., Muhammad, G., & <b>Tiwari, P.</b> (2023). Privacy protection in intelligent vehicle networking: A novel federated learning algorithm based on information fusion. *Information Fusion*, 98, 101824.    [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523001409)
 * Aslam, M. S.,<b>Tiwari, P.</b>, Pandey, H. M., & Band, S. S. (2023). Robust stability analysis for class of Takagi-Sugeno (TS) fuzzy with stochastic process for sustainable hypersonic vehicles. *Information Sciences*, 641, 119044.    [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523006291)
 * Chavhan, S., Kumar, S., <b>Tiwari, P.</b>, Liang, X., Lee, I. H., & Muhammad, K. (2023). Edge-enabled Blockchain-based V2X Scheme for Secure Communication within the Smart City Development. *IEEE Internet of Things Journal*.    [Available online](https://ieeexplore.ieee.org/abstract/document/10138651)
-* 
+* Deng, D., Li, J., Jhaveri, R. H., <b>Tiwari, P.</b>, Ijaz, M. F., Ou, J., & Fan, C. (2022). Reinforcement Learning Based Optimization on Energy Efficiency in UAV Networks for IoT. *IEEE Internet of Things Journal*.   [Available online](https://ieeexplore.ieee.org/abstract/document/9920190)
+* Mohammed, M. A., Garcia-Zapirain, B., Nedoma, J., Martinek, R., <b>Tiwari, P.</b>, & Kumar, N. (2022). Fully Homomorphic Enabled Secure Task Offloading and Scheduling System for Transport Applications. *IEEE Transactions on Vehicular Technology*, 71(11), 12140-12153.    [Available online](https://ieeexplore.ieee.org/abstract/document/9830064)
+  
