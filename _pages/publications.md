@@ -117,3 +117,10 @@ Computer Vision
 * Yang, Y., Tan, Z., <b>Tiwari, P.</b>, Pandey, H. M., Wan, J., Lei, Z., ... & Li, S. Z. (2021). Cascaded split-and-aggregate learning with feature recombination for pedestrian attribute recognition. *International Journal of Computer Vision*, 129, 2731-2744.   [Available online](https://link.springer.com/article/10.1007/s11263-021-01499-z)
 * Yang, Y., <b>Tiwari, P.</b>, Pandey, H. M., & Lei, Z. (2021). Pixel and feature transfer fusion for unsupervised cross-dataset person reidentification. *IEEE Transactions on Neural Networks and Learning Systems*.    [Available online](https://ieeexplore.ieee.org/abstract/document/9632271)
   
+
+Transportation
+======
+* Qu, Z., Tang, Y., Muhammad, G., & <b>Tiwari, P.</b> (2023). Privacy protection in intelligent vehicle networking: A novel federated learning algorithm based on information fusion. *Information Fusion*, 98, 101824.    [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523001409)
+* Aslam, M. S.,<b>Tiwari, P.</b>, Pandey, H. M., & Band, S. S. (2023). Robust stability analysis for class of Takagi-Sugeno (TS) fuzzy with stochastic process for sustainable hypersonic vehicles. *Information Sciences*, 641, 119044.    [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523006291)
+* Chavhan, S., Kumar, S., <b>Tiwari, P.</b>, Liang, X., Lee, I. H., & Muhammad, K. (2023). Edge-enabled Blockchain-based V2X Scheme for Secure Communication within the Smart City Development. *IEEE Internet of Things Journal*.    [Available online](https://ieeexplore.ieee.org/abstract/document/10138651)
+* 
