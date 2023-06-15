@@ -57,6 +57,7 @@ Graph Neural Networks
 * Saeed, U., Armghan, A., Quanyu, W., Alenezi, F., Yue, S., & <b>Tiwari, P.</b>. (2022). One-shot many-to-many facial reenactment using Bi-Layer Graph Convolutional Networks. *Neural Networks*, 156, 193-204.  [Available online](https://www.sciencedirect.com/science/article/pii/S0893608022003811)
 * Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). Contextualized Graph Embeddings for Adverse Drug Event Detection. In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*.  [Available online](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf)
 * Li, X., Li, J., Zhang, Y., & <b>Tiwari, P.</b>. (2021, December). Emotion Recognition from Multi-channel EEG Data through A Dual-pipeline Graph Attention Network. In 2021 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* (pp. 3642-3647). IEEE.  [Available online](https://ieeexplore.ieee.org/abstract/document/9669544)
+* Zhang, Y., Ma, D., <b>Tiwari, P.</b>, Zhang, C., Masud, M., Shorfuzzaman, M., & Song, D. (2023). Stance-level Sarcasm Detection with BERT and Stance-centered Graph Attention Networks. *ACM Transactions on Internet Technology*, 23(2), 1-21.   [Available online](https://dl.acm.org/doi/full/10.1145/3533430)
 
 
 
@@ -106,9 +107,13 @@ Bioinformatics
 
 Natural Language Processing
 ======
-* Li J, Wu X, Liu X, Xie Q, <b>Tiwari, P.</b>,  & Wang B (2023).  Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk.  *61st Annual Meeting of the Association for Computational Linguistics  (ACL) 2023*. 
+* Li J, Wu X, Liu X, Xie Q, <b>Tiwari, P.</b>,  & Wang B (2023).  Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk.  *61st Annual Meeting of the Association for Computational Linguistics  (ACL) 2023*.
+* <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning. *Neural Networks*, 135, 1-12.    [Available online](https://www.sciencedirect.com/science/article/pii/S089360802030410X)
 
 
 
 Computer Vision
 ======
+* Yang, Y., Tan, Z., <b>Tiwari, P.</b>, Pandey, H. M., Wan, J., Lei, Z., ... & Li, S. Z. (2021). Cascaded split-and-aggregate learning with feature recombination for pedestrian attribute recognition. *International Journal of Computer Vision*, 129, 2731-2744.   [Available online](https://link.springer.com/article/10.1007/s11263-021-01499-z)
+* Yang, Y., <b>Tiwari, P.</b>, Pandey, H. M., & Lei, Z. (2021). Pixel and feature transfer fusion for unsupervised cross-dataset person reidentification. *IEEE Transactions on Neural Networks and Learning Systems*.    [Available online](https://ieeexplore.ieee.org/abstract/document/9632271)
+  
