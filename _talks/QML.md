@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Quantum Machine Learning"
+title: "Quantum Machine Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/QML
