@@ -86,6 +86,9 @@ Healthcare
 * He, L., Niu, M., <b>Tiwari, P.</b>, Marttinen, P., Su, R., Jiang, J., Guo, C., Wang, H., Ding, S., Wang, Pan, X., & Dang, W. (2022). Deep learning for depression recognition with audiovisual cues: A review. *Information Fusion*, 80, 56-86.    [Available online](https://www.sciencedirect.com/science/article/pii/S1566253521002207)
 * Samuel, O., Omojo, A.B., Onuja, A.M., Sunday, Y., <b>Tiwari, P.</b>, Gupta, D., Hafeez, G., Yahaya, A.S., Fatoba, O.J & Shamshirband, S. (2022). IoMT: A COVID-19 healthcare system driven by federated learning and blockchain. *IEEE Journal of Biomedical and Health Informatics*, 27(2), 823-834.    [Available online](https://ieeexplore.ieee.org/abstract/document/9684698)
 * Ji, S., Zhang, T., Ansari, L., Fu, J., <b>Tiwari, P.</b>, & Cambria, E. (2021). Mentalbert: Publicly available pretrained language models for mental healthcare. *LREC 2022*.  [Available online](https://aclanthology.org/2022.lrec-1.778/)
+* Rathi, V. K., Rajput, N. K., Mishra, S., Grover, B. A., <b>Tiwari, P.</b>, Jaiswal, A. K., & Hossain, M. S. (2021). An edge AI-enabled IoT healthcare monitoring system for smart cities. *Computers & Electrical Engineering*, 96, 107524.  [Available online](https://www.sciencedirect.com/science/article/pii/S0045790621004699)
+* He, L., <b>Tiwari, P.</b>, Su, R., Shi, X., Marttinen, P., & Kumar, N. (2021). CovidNet: An automatic architecture for Covid-19 detection with deep learning from chest X-ray images. *IEEE Internet of Things Journal*, 9(13), 11376-11384.  [Available online](https://ieeexplore.ieee.org/abstract/document/9608952)
+* <b>Tiwari, P.</b>, Uprety, S., Dehdashti, S., & Hossain, M. S. (2020). TermInformer: unsupervised term mining and analysis in biomedical literature. *Neural Computing and Applications*, 1-14.  [Available online](https://link.springer.com/article/10.1007/s00521-020-05335-2)
 
 
 
@@ -114,7 +117,9 @@ Natural Language Processing
 * <b>Tiwari, P.</b>, Jaiswal, A. K., Garg, S., & You, I. (2021). SANTM: Efficient Self-attention-driven Network for Text Matching.  *ACM Transactions on Internet Technology (TOIT)*, 22(3), 1-21.    [Available online](https://dl.acm.org/doi/full/10.1145/3426971)
 * Wang, D., <b>Tiwari, P.</b>, Shorfuzzaman, M., & Schmitt, I. (2021). Deep neural learning on weighted datasets utilizing label disagreement from crowdsourcing. *Computer Networks*, 196, 108227.    [Available online](https://www.sciencedirect.com/science/article/pii/S1389128621002711)
 * Xie, Q., <b>Tiwari, P.</b>, Gupta, D., Huang, J., & Peng, M. (2021). Neural variational sparse topic model for sparse explainable text representation. *Information Processing & Management*, 58(5), 102614.    [Available online](https://www.sciencedirect.com/science/article/pii/S0306457321001102)
-* Wang, D., <b>Tiwari, P.</b>, Garg, S., Zhu, H., & Bruza, P. (2020). Structural block driven enhanced convolutional neural representation for relation extraction. *Applied Soft Computing*, 86, 105913 (equal contribution).    [Available online](https://www.sciencedirect.com/science/article/pii/S1568494619306945) 
+* Wang, D., <b>Tiwari, P.</b>, Garg, S., Zhu, H., & Bruza, P. (2020). Structural block driven enhanced convolutional neural representation for relation extraction. *Applied Soft Computing*, 86, 105913 (equal contribution).    [Available online](https://www.sciencedirect.com/science/article/pii/S1568494619306945)
+* Zhu, H., <b>Tiwari, P.</b>, Ghoneim, A., & Hossain, M. S. (2021). A collaborative ai-enabled pretrained language model for aiot domain question answering. *IEEE Transactions on Industrial Informatics*, 18(5), 3387-3396 (equal contribution).    [Available online](https://ieeexplore.ieee.org/abstract/document/9484781)
+* 
 
 
 
@@ -122,6 +127,8 @@ Computer Vision
 ======
 * Yang, Y., Tan, Z., <b>Tiwari, P.</b>, Pandey, H. M., Wan, J., Lei, Z., ... & Li, S. Z. (2021). Cascaded split-and-aggregate learning with feature recombination for pedestrian attribute recognition. *International Journal of Computer Vision*, 129, 2731-2744.   [Available online](https://link.springer.com/article/10.1007/s11263-021-01499-z)
 * Yang, Y., <b>Tiwari, P.</b>, Pandey, H. M., & Lei, Z. (2021). Pixel and feature transfer fusion for unsupervised cross-dataset person reidentification. *IEEE Transactions on Neural Networks and Learning Systems*.    [Available online](https://ieeexplore.ieee.org/abstract/document/9632271)
+* Yang, Y., Zhang, T., Cheng, J., Hou, Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification. *Neural Networks*, 128, 294-304.    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608020301702?casa_token=ob6Yju6erkIAAAAA:EaAtm8ZhxEZ8e5R6ppt0c21dCyYYy85nGRXx5ViYpWrx_QE6jOYQmIJCRPODLC58rNNRoOZmIg)
+* Wu, J., Yang, Y., Lei, Z., Wang, J., Li, S. Z.,  <b>Tiwari, P.</b>, & Pandey, H. M. (2020). An end-to-end exemplar association for unsupervised person re-identification. *Neural Networks*, 129, 43-54.    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608020301854?casa_token=c60DAfmb1QsAAAAA:YTSEfmbAuc4VrO6GE85YUunp_F7gWUlI4hvTrUcS2VFbKj2BNXW2gWPlJf3dDT3Kx6TITbxMmA)
   
 
 Transportation
