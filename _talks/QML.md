@@ -10,4 +10,4 @@ location: "Sweden"
 
 The main goal of this talk is about to provide the basic understanding of Quantum Machine Learning
 
-[Download presentation here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/QML.pptx)
+[Download presentation here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/QML.pdf)
