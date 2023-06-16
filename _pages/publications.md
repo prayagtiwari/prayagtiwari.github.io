@@ -10,7 +10,7 @@ You can find the full list of my articles on [Google Scholar](https://scholar.go
 
 
 <b>Topic-wise articles can be found below:</b>
-==
+=
 
 
 Quantum-based Articles
