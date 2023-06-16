@@ -139,7 +139,7 @@ Computer Vision
 * Wu, J., Yang, Y., Lei, Z., Wang, J., Li, S. Z.,  <b>Tiwari, P.</b>, & Pandey, H. M. (2020). An end-to-end exemplar association for unsupervised person re-identification. *Neural Networks*, 129, 43-54.    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608020301854?casa_token=c60DAfmb1QsAAAAA:YTSEfmbAuc4VrO6GE85YUunp_F7gWUlI4hvTrUcS2VFbKj2BNXW2gWPlJf3dDT3Kx6TITbxMmA)
   
 
-Transportation
+Smart Transportation
 ======
 * Qu, Z., Tang, Y., Muhammad, G., & <b>Tiwari, P.</b> (2023). Privacy protection in intelligent vehicle networking: A novel federated learning algorithm based on information fusion. *Information Fusion*, 98, 101824.    [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523001409)
 * Aslam, M. S.,<b>Tiwari, P.</b>, Pandey, H. M., & Band, S. S. (2023). Robust stability analysis for class of Takagi-Sugeno (TS) fuzzy with stochastic process for sustainable hypersonic vehicles. *Information Sciences*, 641, 119044.    [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523006291)
