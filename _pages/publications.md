@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-You can find full list of my articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
+You can find the full list of my articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
 
 
-<b>Topic-wise articles can be found below:</b>
+<h>Topic-wise articles can be found below:</h>
 
 
 
@@ -26,6 +26,7 @@ Quantum-based Articles
 * Zhang, Y., Liu, Y., Li, Q., <b>Tiwari, P.</b>, Wang, B., Li, Y., Pandey, H.M., Zhang, P. & Song, D. (2021). CFN: a complex-valued fuzzy network for sarcasm detection in conversations. *IEEE Transactions on Fuzzy Systems*, 29(12), 3696-3710. [Available online](https://ieeexplore.ieee.org/abstract/document/9400728)
 * Moreira, C., <b>Tiwari, P.</b>, Pandey, H. M., Bruza, P., & Wichert, A. (2020). Quantum-like influence diagrams for decision-making. *Neural Networks*, 132, 190-210. [Available online](https://www.sciencedirect.com/science/article/pii/S0893608020302501)
 * Upretty S, <b>Tiwari, P.</b>, Dehdashti S, Fell L, Song D, Bruza P, Melucci M. Quantum-like structure in multidimensional relevance judgements, *European Conference on Information Retrieval (ECIR)* 2020. [Available online](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48)
+* Singh, S., Rajput, N. K., Rathi, V. K., Pandey, H. M., Jaiswal, A. K., & <b>Tiwari, P.</b> (2020). Securing blockchain transactions using quantum teleportation and quantum digital signature. *Neural Processing Letters*, 1-16. [Available online](https://link.springer.com/article/10.1007/s11063-020-10272-1)
 * <b>Tiwari, P.</b>, & Melucci, M. (2019). Binary Classifier Inspired by Quantum Theory, In Proceedings of the *AAAI Conference on Artificial Intelligence*, 2019. [Available online](https://ojs.aaai.org/index.php/AAAI/article/view/5162)
 * <b>Tiwari, P.</b>, & Melucci, M. (2019). Towards a quantum-inspired binary classifier. *IEEE Access*, 7, 42354-42372. [Available online](https://ieeexplore.ieee.org/abstract/document/8671690)
 * <b>Tiwari, P.</b>, & Melucci, M. (2018). Towards a Quantum-Inspired Framework for Binary Classification, In Proceedings of the *27th ACM International Conference on Information and Knowledge Management (CIKM)* 2018. [Available online](https://dl.acm.org/doi/abs/10.1145/3269206.3269304)
@@ -87,8 +88,15 @@ Healthcare
 * Samuel, O., Omojo, A.B., Onuja, A.M., Sunday, Y., <b>Tiwari, P.</b>, Gupta, D., Hafeez, G., Yahaya, A.S., Fatoba, O.J & Shamshirband, S. (2022). IoMT: A COVID-19 healthcare system driven by federated learning and blockchain. *IEEE Journal of Biomedical and Health Informatics*, 27(2), 823-834.    [Available online](https://ieeexplore.ieee.org/abstract/document/9684698)
 * Ji, S., Zhang, T., Ansari, L., Fu, J., <b>Tiwari, P.</b>, & Cambria, E. (2021). Mentalbert: Publicly available pretrained language models for mental healthcare. *LREC 2022*.  [Available online](https://aclanthology.org/2022.lrec-1.778/)
 * Rathi, V. K., Rajput, N. K., Mishra, S., Grover, B. A., <b>Tiwari, P.</b>, Jaiswal, A. K., & Hossain, M. S. (2021). An edge AI-enabled IoT healthcare monitoring system for smart cities. *Computers & Electrical Engineering*, 96, 107524.  [Available online](https://www.sciencedirect.com/science/article/pii/S0045790621004699)
-* He, L., <b>Tiwari, P.</b>, Su, R., Shi, X., Marttinen, P., & Kumar, N. (2021). CovidNet: An automatic architecture for Covid-19 detection with deep learning from chest X-ray images. *IEEE Internet of Things Journal*, 9(13), 11376-11384.  [Available online](https://ieeexplore.ieee.org/abstract/document/9608952)
+* He, L., <b>Tiwari, P.</b>, Su, R., Shi, X., Marttinen, P., & Kumar, N. (2021). CovidNet: An automatic architecture for Covid-19 detection with deep learning from chest X-ray images. *IEEE Internet of Things Journal*, 9(13), 11376-11384 (equal contribution).  [Available online](https://ieeexplore.ieee.org/abstract/document/9608952)
+* Das, A., Mohanty, M. N., Mallick, P. K., <b>Tiwari, P.</b>, Muhammad, K., & Zhu, H. (2021). Breast cancer detection using an ensemble deep learning method. *Biomedical Signal Processing and Control*, 70, 103009.  [Available online](https://www.sciencedirect.com/science/article/pii/S1746809421006066?casa_token=6NVC13KGIUcAAAAA:o5BtdXL_-w_NTGX7p4bt8DhWX9c4OuofCA60UU0zUmWjbmW1BIiWF-2eQQvWriykhlKRNQPt3xAi)
+* Shome, D., Kar, T., Mohanty, S. N., <b>Tiwari, P.</b>, Muhammad, K., AlTameem, A., ... & Saudagar, A. K. J. (2021). Covid-transformer: Interpretable covid-19 detection using vision transformer for healthcare. *International Journal of Environmental Research and Public Health*, 18(21), 11086.[Available online](https://www.mdpi.com/1660-4601/18/21/11086)
+* He, L., Guo, C.,<b>Tiwari, P.</b>, Su, R., Pandey, H. M., & Dang, W. (2022). DepNet: An automated industrial intelligent system using deep learning for video‐based depression analysis. *International Journal of Intelligent Systems*, 37(7), 3815-3835 (equal contribution).  [Available online](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22704)
+* He, L., Guo, C., <b>Tiwari, P.</b>, Pandey, H. M., & Dang, W. (2022). Intelligent system for depression scale estimation with facial expressions and case study in industrial intelligence.  *International Journal of Intelligent Systems *, 37(12), 10140-10156 (equal contribution).  [Available online](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22426)
 * <b>Tiwari, P.</b>, Uprety, S., Dehdashti, S., & Hossain, M. S. (2020). TermInformer: unsupervised term mining and analysis in biomedical literature. *Neural Computing and Applications*, 1-14.  [Available online](https://link.springer.com/article/10.1007/s00521-020-05335-2)
+* Qian, J., <b>Tiwari, P.</b>, Gochhayat, S. P., & Pandey, H. M. (2020). A noble double-dictionary-based ECG compression technique for IoTH. *IEEE Internet of Things Journal*, 7(10), 10160-10170.  [Available online](https://ieeexplore.ieee.org/abstract/document/9001036)
+* Chouhan, V., Singh, S. K., Khamparia, A., Gupta, D., <b>Tiwari, P.</b>, Moreira, C., ... & De Albuquerque, V. H. C. (2020). A novel transfer learning based approach for pneumonia detection in chest X-ray images. *Applied Sciences*, 10(2), 559.  [Available online](https://www.mdpi.com/2076-3417/10/2/559)
+* Jaiswal, A. K., <b>Tiwari, P.</b>, Kumar, S., Gupta, D., Khanna, A., & Rodrigues, J. J. (2019). Identifying pneumonia in chest X-rays: A deep learning approach. *Measurement*, 145, 511-518.  [Available online](https://www.sciencedirect.com/science/article/pii/S0263224119305202?casa_token=a8Dn1sJoBIQAAAAA:BazhmJ_HN-Wp975wmHr6-7bSzFfWxr_msVK7iJg-Ev9O7hyzte1X0bDJxocQTBazFD-T1IKLn_4Y)
 
 
 
