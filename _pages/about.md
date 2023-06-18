@@ -22,6 +22,7 @@ My Research Interest
 
 News
 ======
+* <b>[June 2023]</b> Call for papers "[Human-oriented 3D vision in the Metaverse](https://www.sciencedirect.com/journal/image-and-vision-computing/about/call-for-papers#human-oriented-3d-vision-in-the-metaverse)" is open for submission in Image and Vision Computing, Elsevier. <b>(Impact Factor- 3.86)</b>
 * <b>[May 2023]</b> Call for papers "[Transformer Models for Multi-source Visual Fusion and Understanding](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#transformer-models-for-multi-source-visual-fusion-and-understanding)" is open for submission in Information Fusion, Elsevier. <b>(Impact Factor- 17.564)</b>
 * <b>[May 2023]</b> Media appearance: [Reports from Halmstad University Add New Data to Findings in Cancer Research (Explainable Quantum Clustering Method To Model Medical Data)](http://ct.moreover.com/?a=50846476815&p=1gw&v=1&x=EokuAL7F68AR3cCK32nyQA) by NewsRx Women's Health Daily
 * <b>[January 2023]</b> Paper titled "[Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116)" has been accepted in IEEE Transactions on Vehicular Technology. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
