@@ -47,7 +47,6 @@ Multimodal Fusion
 
 
 
-
 Graph Neural Networks
 ======
 * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Alonso-Fernandez, F. (2023). Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting.  [Available preprint](https://arxiv.org/abs/2305.09703)
@@ -62,10 +61,20 @@ Graph Neural Networks
 
 
 
+Reinforcement Learning
+======
+* <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613)
+* <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning. *Neural Networks*, 135, 1-12.    [Available online](https://www.sciencedirect.com/science/article/pii/S089360802030410X)
+* Lakhan, A., Mohammed, M. A., Nedoma, J., Martinek, R., <b>Tiwari, P.</b>, & Kumar, N. (2023). DRLBTS: deep reinforcement learning-aware blockchain-based healthcare system. *Scientific Reports*, 13(1), 4124.  [Available online](https://www.nature.com/articles/s41598-023-29170-2)
+* Deng, D., Li, J., Jhaveri, R. H., <b>Tiwari, P.</b>, Ijaz, M. F., Ou, J., & Fan, C. (2022). Reinforcement Learning Based Optimization on Energy Efficiency in UAV Networks for IoT. *IEEE Internet of Things Journal*.   [Available online](https://ieeexplore.ieee.org/abstract/document/9920190)
+
+
+
 Unsupervised Feature Selection
 ======
 * Karami S, Movahed FS, <b>Tiwari, P.</b>, Martinnen P, Vahdati S. Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance, *Neural Networks* (2023).
 * Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., <b>Tiwari, P.</b>, Oussalah, M., & Band, S. S. (2022). Dual regularized unsupervised feature selection based on matrix factorization and minimum redundancy with application in gene selection. *Knowledge-Based Systems*, 256, 109884.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705122009777)
+
 
 
 Healthcare
@@ -127,7 +136,7 @@ Natural Language Processing
 * Xie, Q., <b>Tiwari, P.</b>, Gupta, D., Huang, J., & Peng, M. (2021). Neural variational sparse topic model for sparse explainable text representation. *Information Processing & Management*, 58(5), 102614.    [Available online](https://www.sciencedirect.com/science/article/pii/S0306457321001102)
 * Wang, D., <b>Tiwari, P.</b>, Garg, S., Zhu, H., & Bruza, P. (2020). Structural block driven enhanced convolutional neural representation for relation extraction. *Applied Soft Computing*, 86, 105913 (equal contribution).    [Available online](https://www.sciencedirect.com/science/article/pii/S1568494619306945)
 * Zhu, H., <b>Tiwari, P.</b>, Ghoneim, A., & Hossain, M. S. (2021). A collaborative ai-enabled pretrained language model for aiot domain question answering. *IEEE Transactions on Industrial Informatics*, 18(5), 3387-3396 (equal contribution).    [Available online](https://ieeexplore.ieee.org/abstract/document/9484781)
-* 
+  
 
 
 
