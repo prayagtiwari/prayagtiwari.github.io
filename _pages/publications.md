@@ -79,6 +79,7 @@ Unsupervised Feature Selection
 
 Healthcare
 ======
+* Wang B, Xie Q, Pei J, <b>Tiwari, P.</b>, Li Z, & Fu J. (2023). Pre-trained Language Models in Biomedical Domain: A Systematic Survey. accepted in *ACM Computing Survey*.   [Available preprint](https://arxiv.org/abs/2110.05006)
 * <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613)
 * Rani, S., Kataria, A., Kumar, S., & <b>Tiwari, P.</b>. (2023). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. *Knowledge-Based Systems*, 110658.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123004082)
 * Bhatia, M., Meena, B., Rathi, V. K., <b>Tiwari, P.</b>, Jaiswal, A. K., Ansari, S. M.,Kumar, A., & Marttinen, P. (2023). A Novel Deep Learning based Model for Erythrocytes Classification and Quantification in Sickle Cell Disease. [Available preprint](https://arxiv.org/abs/2305.01663)
