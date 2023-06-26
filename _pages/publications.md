@@ -72,7 +72,7 @@ Reinforcement Learning
 
 Unsupervised Feature Selection
 ======
-* Karami S, Movahed FS, <b>Tiwari, P.</b>, Martinnen P, Vahdati S. Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance, *Neural Networks* (2023).
+* Karami S, Movahed FS, <b>Tiwari, P.</b>, Martinnen P, Vahdati S. Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance, *Neural Networks* (2023).    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608023003295)
 * Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., <b>Tiwari, P.</b>, Oussalah, M., & Band, S. S. (2022). Dual regularized unsupervised feature selection based on matrix factorization and minimum redundancy with application in gene selection. *Knowledge-Based Systems*, 256, 109884.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705122009777)
 
 
@@ -143,6 +143,8 @@ Natural Language Processing
 
 Computer Vision
 ======
+* Tian, S., Li, W., Ning, X., Ran, H., Qin, H., & <b>Tiwari, P.</b> (2023). Continuous transfer of neural network representational similarity for incremental learning. Neurocomputing, 545, 126300.    [Available online](https://www.sciencedirect.com/science/article/pii/S092523122300423X)
+* Ran, H., Ning, X., Li, W., Hao, M., &  <b>Tiwari, P.</b> (2023). 3D human pose and shape estimation via de-occlusion multi-task learning. Neurocomputing, 126284.    [Available online](https://www.sciencedirect.com/science/article/pii/S0925231223004071)
 * Yang, Y., Tan, Z., <b>Tiwari, P.</b>, Pandey, H. M., Wan, J., Lei, Z., ... & Li, S. Z. (2021). Cascaded split-and-aggregate learning with feature recombination for pedestrian attribute recognition. *International Journal of Computer Vision*, 129, 2731-2744.   [Available online](https://link.springer.com/article/10.1007/s11263-021-01499-z)
 * Yang, Y., <b>Tiwari, P.</b>, Pandey, H. M., & Lei, Z. (2021). Pixel and feature transfer fusion for unsupervised cross-dataset person reidentification. *IEEE Transactions on Neural Networks and Learning Systems*.    [Available online](https://ieeexplore.ieee.org/abstract/document/9632271)
 * Yang, Y., Zhang, T., Cheng, J., Hou, Z., <b>Tiwari, P.</b>, & Pandey, H. M. (2020). Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification. *Neural Networks*, 128, 294-304.    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608020301702?casa_token=ob6Yju6erkIAAAAA:EaAtm8ZhxEZ8e5R6ppt0c21dCyYYy85nGRXx5ViYpWrx_QE6jOYQmIJCRPODLC58rNNRoOZmIg)
