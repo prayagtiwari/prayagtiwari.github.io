@@ -20,21 +20,27 @@ My Research Interest
 * Interested in interpretable/explainable and casual AI models.
 
 
-News
+Call for Papers
 ======
-
 * <b>[June 2023]</b> Call for papers "[Human-oriented 3D vision in the Metaverse](https://www.sciencedirect.com/journal/image-and-vision-computing/about/call-for-papers#human-oriented-3d-vision-in-the-metaverse)" is open for submission in Image and Vision Computing, Elsevier. <b>(Impact Factor- 3.86)</b>
 * <b>[May 2023]</b> Call for papers "[Transformer Models for Multi-source Visual Fusion and Understanding](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#transformer-models-for-multi-source-visual-fusion-and-understanding)" is open for submission in Information Fusion, Elsevier. <b>(Impact Factor- 17.564)</b>
+
+News and Media appearance
+======
 * <b>[May 2023]</b> Media appearance: [Aalto University Details Findings in Computing (Eeg Based Emotion Recognition: a Tutorial and Review)](http://ct.moreover.com/?a=50662144070&p=1gw&v=1&x=yV-5EvGDwkc-oCeNkC-VOw) by Computer News Today.
 * <b>[May 2023]</b> Media appearance: [Reports from Halmstad University Add New Data to Findings in Cancer Research (Explainable Quantum Clustering Method To Model Medical Data)](http://ct.moreover.com/?a=50846476815&p=1gw&v=1&x=EokuAL7F68AR3cCK32nyQA) by NewsRx Women's Health Daily.
 * <b>[April 2023]</b> Media appearance: [Investigators at Aalto University Report Findings in COVID-19 (Iomt: a Covid-19 Healthcare System Driven By Federated Learning and Blockchain)](http://ct.moreover.com/?a=50490848597&p=1gw&v=1&x=lZza3tspv21w15hKSP0OHQ) by NewsRx COVID-19 Daily.
 * <b>[April 2023]</b> Media appearance: [Findings from Aalto University Broaden Understanding of Machine Learning (Federated-learning Based Privacy Preservation and Fraud-enabled Blockchain Iomt System for Healthcare)](http://ct.moreover.com/?a=50500356797&p=1gw&v=1&x=uJA5AaW5MsshnfC_RyQznA) by Health Policy and Law Daily.
-* <b>[January 2023]</b> Paper titled "[Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116)" has been accepted in IEEE Transactions on Vehicular Technology. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
 * <b>[January 2023]</b> Media appearance: [New Data from Aalto University Illuminate Findings in Technology (Fully Homomorphic Enabled Secure Task Offloading and Scheduling System for Transport Applications)](http://ct.moreover.com/?a=49659972305&p=1gw&v=1&x=4O0492SPW4-zh8qRIQWo6g) by Tech Daily News
 * <b>[December 2022]</b> Media appearance: [Findings from Aalto University Update Knowledge of Mathematics (C-loss Based Higher Order Fuzzy Inference Systems for Identifying Dna N4-methylcytosine Sites)](http://ct.moreover.com/?a=49431495362&p=1gw&v=1&x=6AXgriIoXctXc0KTUTxblQ) by Math Daily News
 * <b>[November 2022]</b> Elevation to the grade of IEEE Senior member.
 * <b>[November 2022]</b> 2022 Best Paper Award: [Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification](https://www.sciencedirect.com/journal/neural-networks/about/awards), published in Neural Networks, volume 128, pp. 294-304, August 2020.
 * <b>[October 2022]</b> Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
+
+
+Recent publications
+======
+* <b>[January 2023]</b> Paper titled "[Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116)" has been accepted in IEEE Transactions on Vehicular Technology. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
 * <b>[October 2022]</b> Paper titled "[Shared subspace-based radial basis function neural network for identifying ncRNAs subcellular localization](https://www.sciencedirect.com/science/article/pii/S0893608022003768)" has been accepted in Neural Networks, Elsevier. <b>(Impact Factor- 9.657)</b>
 * <b>[September 2022]</b> Paper titled "[Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with application in gene selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777?via%3Dihub#!)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
 * <b>[July 2022]</b> Paper titled "[Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e)" has been accepted in Journal of Physics A: Mathematical and Theoretical. <b>(Impact Factor- 2.331)
@@ -49,7 +55,6 @@ News
 * <b>[Febraury 2022]</b> Paper titled "[C-loss based higher-order fuzzy inference systems for identifying DNA N4-methylcytosine sites](https://ieeexplore.ieee.org/abstract/document/9735344)" has been accepted in IEEE Transactions on Fuzzy Systems. <b>(Impact Factor- 12.253)</b>
 * 3 papers accepted in IEEE BIBM 2021.
 * <b>[October 2021]</b> Paper titled "[Deep learning for depression recognition with audiovisual cues: A review](https://www.sciencedirect.com/science/article/abs/pii/S1566253521002207)" has been accepted in Information Fusion, Elsevier. <b>(Impact Factor- 17.564)</b>
-
 
 Useful Links
 ======
