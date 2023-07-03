@@ -59,7 +59,7 @@ Recent publications
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 4200+, h-index: 30)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 4300+, h-index: 30)
   
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 2500+, h-index: 23)
   
