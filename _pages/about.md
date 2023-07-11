@@ -38,7 +38,7 @@ News and Media appearance
 * <b>[October 2022]</b> Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
 
 
-Recent Selected Articles
+Selected Articles
 ======
 * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
 * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301. <b>(Impact Factor- 2.331)
