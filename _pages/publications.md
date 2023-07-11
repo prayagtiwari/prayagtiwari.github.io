@@ -13,7 +13,7 @@ You can find the full list of my articles on [Google Scholar](https://scholar.go
 
 
 
-Quantum-based Articles
+Quantum Computing
 ======
 
 * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). Kernel method based on non-linear coherent states in quantum feature space. *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301. [Available online](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e/meta)
@@ -39,7 +39,7 @@ Quantum-based Articles
 Multimodal/Information Fusion
 ======
 * Qu Z, Li Y, <b>Tiwari, P.</b>. (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution).
-* Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*.
+* Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002270)
 * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523000040)
 * Zhang, Y., <b>Tiwari, P.</b>, Zheng, Q., El Saddik, A., & Hossain, M. S. (2022). A Multimodal Coupled Graph Attention Network for Joint Traffic Event Detection and Sentiment Classification. *IEEE Transactions on Intelligent Transportation Systems* (equal contribution). [Available online](https://ieeexplore.ieee.org/abstract/document/9928434)
 * Zhang, Y., <b>Tiwari, P.</b>, Rong, L., Chen, R., AlNajem, N. A., & Hossain, M. S. (2022). Affective interaction: Attentive representation learning for multi-modal sentiment classification. *ACM Transactions on Multimedia Computing, Communications and Applications*, 18(3s), 1-23.   [Available online](https://dl.acm.org/doi/full/10.1145/3527175)
@@ -83,6 +83,7 @@ Unsupervised Feature Selection
 Healthcare
 ======
 * Wang B, Xie Q, Pei J, <b>Tiwari, P.</b>, Li Z, & Fu J. (2023). Pre-trained Language Models in Biomedical Domain: A Systematic Survey. accepted in *ACM Computing Survey*.   [Available preprint](https://arxiv.org/abs/2110.05006)
+* Sun, L., Chen, Q., Zheng, M., Ning, X., Gupta, D., & <b>Tiwari, P.</b> (2023). Energy-efficient Online Continual Learning for Time Series Classification in Nanorobot-based Smart Health. IEEE Journal of Biomedical and Health Informatics.   [Available online](https://ieeexplore.ieee.org/abstract/document/10164249/)
 * <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613)
 * Rani, S., Kataria, A., Kumar, S., & <b>Tiwari, P.</b>. (2023). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. *Knowledge-Based Systems*, 110658.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123004082)
 * Bhatia, M., Meena, B., Rathi, V. K., <b>Tiwari, P.</b>, Jaiswal, A. K., Ansari, S. M.,Kumar, A., & Marttinen, P. (2023). A Novel Deep Learning based Model for Erythrocytes Classification and Quantification in Sickle Cell Disease. [Available preprint](https://arxiv.org/abs/2305.01663)
@@ -116,6 +117,7 @@ Healthcare
 
 Bioinformatics
 ======
+* Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002270)
 * Wang, L., <b>Tiwari, P.</b>, Ding, Y., & Guo, F. (2023). Weighted Fuzzy System for Identifying DNA N4-Methylcytosine Sites With Kernel Entropy Component Analysis. *IEEE Transactions on Artificial Intelligence*.  [Available online](https://ieeexplore.ieee.org/abstract/document/10098638)
 * Wang, L., Ding, Y., <b>Tiwari, P.</b>,Xu, J., Lu, W., Muhammad, K., de Albuquerquee, V.H.C. & Guo, F. (2023). A deep multiple kernel learning-based higher-order fuzzy inference system for identifying DNA N4-methylcytosine sites. *Information Sciences*, 630, 40-52.  [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523001652)
 * Guo, X., <b>Tiwari, P.</b>, Zou, Q., & Ding, Y. (2023). Subspace projection-based weighted echo state networks for predicting therapeutic peptides. *Knowledge-Based Systems*, 110307.  [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123000576)
