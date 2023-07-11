@@ -22,8 +22,10 @@ My Research Interest
 
 Call for Papers
 ======
-* <b>[June 2023]</b> Call for papers "[Human-oriented 3D vision in the Metaverse](https://www.sciencedirect.com/journal/image-and-vision-computing/about/call-for-papers#human-oriented-3d-vision-in-the-metaverse)" is open for submission in Image and Vision Computing, Elsevier. <b>(Impact Factor- 3.86)</b>
 * <b>[May 2023]</b> Call for papers "[Transformer Models for Multi-source Visual Fusion and Understanding](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#transformer-models-for-multi-source-visual-fusion-and-understanding)" is open for submission in Information Fusion, Elsevier. <b>(Impact Factor- 17.564)</b>
+* <b>[June 2023]</b> Call for papers "[Human-oriented 3D vision in the Metaverse](https://www.sciencedirect.com/journal/image-and-vision-computing/about/call-for-papers#human-oriented-3d-vision-in-the-metaverse)" is open for submission in Image and Vision Computing, Elsevier. <b>(Impact Factor- 3.86)</b>
+* <b>[June 2023]</b> Call for papers "[Visual Processing Techniques in Harsh Environments](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation/about/call-for-papers#visual-processing-techniques-in-harsh-environments)" is open for submission in Journal of Visual Communication and Image Representation, Elsevier. <b>(Impact Factor- 2.6)</b>
+
 
 News and Media appearance
 ======
@@ -41,10 +43,13 @@ News and Media appearance
 Selected Articles
 ======
 * Karami, S., Saberi-Movahed, F., Tiwari, P., Marttinen, P., & Vahdati, S. (2023). [Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance](https://www.sciencedirect.com/science/article/pii/S0893608023003295), *Neural Networks* (2023).  [[Source Code](https://github.com/saeedkarami2012/VCSDFS)]
+* Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). [A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S1566253523000040). *Information Fusion*. 
 * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)]
 * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301.
 * Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). [Contextualized Graph Embeddings for Adverse  Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf). In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*. 
 * Ji, S., Zhang, T., Ansari, L., Fu, J., <b>Tiwari, P.</b>, & Cambria, E. (2021). [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). *LREC 2022*.
+* Li, X., Zhang, Y., <b>Tiwari, P.</b>, Song, D., Hu, B., Yang, M., Zhao, Z., Kumar, N & Marttinen, P. (2022). [EEG based emotion recognition: A tutorial and review](https://dl.acm.org/doi/full/10.1145/3524499). *ACM Computing Surveys*, 55(4), 1-57.  
+* He, L., Niu, M., <b>Tiwari, P.</b>, Marttinen, P., Su, R., Jiang, J., Guo, C., Wang, H., Ding, S., Wang, Pan, X., & Dang, W. (2022). [Deep learning for depression recognition with audiovisual cues: A review](https://www.sciencedirect.com/science/article/pii/S1566253521002207). *Information Fusion*, 80, 56-86.   
 * <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). [DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S089360802030410X). *Neural Networks*, 135, 1-12.
 * Moreira, C., <b>Tiwari, P.</b>, Pandey, H. M., Bruza, P., & Wichert, A. (2020). [Quantum-like influence diagrams for decision-making](https://www.sciencedirect.com/science/article/pii/S0893608020302501). *Neural Networks*, 132, 190-210.
 * Upretty S, <b>Tiwari, P.</b>, Dehdashti S, Fell L, Song D, Bruza P, & Melucci M. [Quantum-like structure in multidimensional relevance judgements](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48), *European Conference on Information Retrieval (ECIR)* 2020.
