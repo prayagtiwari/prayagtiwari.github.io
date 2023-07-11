@@ -40,15 +40,16 @@ News and Media appearance
 
 Selected Articles
 ======
-* Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
-* <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301. <b>(Impact Factor- 2.331)
-* Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., <b>Tiwari, P.</b>, Oussalah, M., & Band, S. S. (2022). [Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with application in gene selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777?via%3Dihub#!). *Knowledge-Based Systems*, 256, 109884. <b>(Impact Factor- 8.139)</b>
-* <b>[June 2022]</b> Full paper titled "[Contextualized Graph Embeddings for Adverse  Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf)" has been accepted in ECML PKDD 2022.
-* <b>[June 2022]</b> Paper titled "[Reducing noisy annotations for depression estimation from facial images](https://www.sciencedirect.com/science/article/pii/S089360802200199X)" has been accepted in Neural Networks, Elsevier. <b>(Impact Factor- 9.657)</b>
-* <b>[June 2022]</b> Paper titled "[MLapSVM-LBS: Predicting DNA-binding proteins via a multiple Laplacian regularized support vector machine with local behavior similarity](https://www.sciencedirect.com/science/article/pii/S0950705122005834)" has been accepted in Knowledge-Based Systems, Elsevier. [[Source Code](https://github.com/prayagtiwari/MLapSVM-LBS)] <b>(Impact Factor- 8.139)</b>
-* <b>[April 2022]</b> Short paper titled "[MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/)" has been accepted in LREC 2022.
-* <b>[March 2022]</b> Paper titled "[EEG based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/abs/10.1145/3524499)" has been accepted in ACM Computing Surveys. <b>(Impact Factor- 14.324)</b>
-* <b>[October 2021]</b> Paper titled "[Deep learning for depression recognition with audiovisual cues: A review](https://www.sciencedirect.com/science/article/abs/pii/S1566253521002207)" has been accepted in Information Fusion, Elsevier. <b>(Impact Factor- 17.564)</b>
+* Karami S, Movahed FS, <b>Tiwari, P.</b>, Martinnen P, & Vahdati S (2023). [Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance](https://www.sciencedirect.com/science/article/pii/S0893608023003295), *Neural Networks* (2023).  [[Source Code](https://github.com/saeedkarami2012/VCSDFS)]
+* Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)]
+* <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301.
+* Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). [Contextualized Graph Embeddings for Adverse  Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf). In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*. 
+* Ji, S., Zhang, T., Ansari, L., Fu, J., <b>Tiwari, P.</b>, & Cambria, E. (2021). [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). *LREC 2022*.
+* <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). [DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S089360802030410X). *Neural Networks*, 135, 1-12.
+* Moreira, C., <b>Tiwari, P.</b>, Pandey, H. M., Bruza, P., & Wichert, A. (2020). [Quantum-like influence diagrams for decision-making](https://www.sciencedirect.com/science/article/pii/S0893608020302501). *Neural Networks*, 132, 190-210.
+* Upretty S, <b>Tiwari, P.</b>, Dehdashti S, Fell L, Song D, Bruza P, & Melucci M. [Quantum-like structure in multidimensional relevance judgements](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48), *European Conference on Information Retrieval (ECIR)* 2020.
+* <b>Tiwari, P.</b>, & Melucci, M. (2019). [Towards a quantum-inspired binary classifier](https://ieeexplore.ieee.org/abstract/document/8671690). *IEEE Access*, 7, 42354-42372.
+
 
 Useful Links
 ======
