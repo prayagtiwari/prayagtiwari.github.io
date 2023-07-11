@@ -40,7 +40,7 @@ News and Media appearance
 
 Selected Articles
 ======
-* Karami S, Movahed FS, <b>Tiwari, P.</b>, Martinnen P, & Vahdati S (2023). [Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance](https://www.sciencedirect.com/science/article/pii/S0893608023003295), *Neural Networks* (2023).  [[Source Code](https://github.com/saeedkarami2012/VCSDFS)]
+* Karami, S., Saberi-Movahed, F., Tiwari, P., Marttinen, P., & Vahdati, S. (2023). [Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance](https://www.sciencedirect.com/science/article/pii/S0893608023003295), *Neural Networks* (2023).  [[Source Code](https://github.com/saeedkarami2012/VCSDFS)]
 * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)]
 * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301.
 * Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). [Contextualized Graph Embeddings for Adverse  Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf). In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*. 
@@ -56,6 +56,6 @@ Useful Links
 
 [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 4300+, h-index: 30)
   
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 2500+, h-index: 23)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 2600+, h-index: 23)
   
 [Web of Science](https://www.webofscience.com/wos/author/record/436751)
