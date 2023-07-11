@@ -40,7 +40,7 @@ News and Media appearance
 
 Recent Selected Articles
 ======
-* <b>[January 2023]</b> Paper titled "[Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116)" has been accepted in IEEE Transactions on Vehicular Technology. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
+* Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] <b>(Impact Factor- 6.239)</b>
 * <b>[September 2022]</b> Paper titled "[Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with application in gene selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777?via%3Dihub#!)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
 * <b>[July 2022]</b> Paper titled "[Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e)" has been accepted in Journal of Physics A: Mathematical and Theoretical. <b>(Impact Factor- 2.331)
 * <b>[July 2022]</b> Paper titled "[Pre-trained language models with domain knowledge for biomedical extractive summarization](https://www.sciencedirect.com/science/article/pii/S0950705122007328)" has been accepted in Knowledge-Based Systems, Elsevier. <b>(Impact Factor- 8.139)</b>
