@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can find the full list of my articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
+You can find the full list of articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 <b>Topic-wise articles can be found below:</b>
@@ -17,7 +17,7 @@ Quantum Computing
 ======
 
 * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). Kernel method based on non-linear coherent states in quantum feature space. *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301. [Available online](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e/meta)
-* Qu Z, Li Y, <b>Tiwari, P.</b>. (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution).  
+* Qu Z, Li Y, <b>Tiwari, P.</b>. (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution).   [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002294)
 * Qu Z, Shi W, Liu B, Gupta D, <b>Tiwari, P.</b>. (2023). IoMT-based smart healthcare detection system driven by quantum blockchain and quantum neural network. *IEEE Journal of Biomedical and Health Informatics*. [Available online](https://ieeexplore.ieee.org/document/10172019)
 * Qu, Z., Meng, Y, Liu, B., Muhammad, G., <b>Tiwari, P.</b>. (2023). QB-IMD: A secure medical data processing system with privacy protection based on quantum blockchain for IoMT. *IEEE Internet of Things Journal*. [Available online](https://ieeexplore.ieee.org/document/10149070)
 * Qu, Z., Zhang, Z., Liu, B., <b>Tiwari, P.</b>, Ning, X., & Muhammad, K. (2023). Quantum detectable Byzantine agreement for distributed data trust management in blockchain. *Information Sciences*, 637, 118909. [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523004644)
@@ -38,7 +38,7 @@ Quantum Computing
 
 Multimodal/Information Fusion
 ======
-* Qu Z, Li Y, <b>Tiwari, P.</b>. (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution).
+* Qu Z, Li Y, <b>Tiwari, P.</b>. (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution). [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002294)
 * Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002270)
 * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523000040)
 * Zhang, Y., <b>Tiwari, P.</b>, Zheng, Q., El Saddik, A., & Hossain, M. S. (2022). A Multimodal Coupled Graph Attention Network for Joint Traffic Event Detection and Sentiment Classification. *IEEE Transactions on Intelligent Transportation Systems* (equal contribution). [Available online](https://ieeexplore.ieee.org/abstract/document/9928434)
