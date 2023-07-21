@@ -38,6 +38,7 @@ Quantum Computing
 
 Multimodal/Information Fusion
 ======
+* Zhang, Y., Yu, Y., Zhao, D., Li, Z., Wang, B., Hou, Y., <b>Tiwari, P.</b>, Qin, J (2023). Learning Multi-Task Commonness and Uniqueness for Multi-Modal Sarcasm Detection and Sentiment Analysis in Conversation. *IEEE Transactions on Artificial Intelligence*.
 * Qu Z, Li Y, <b>Tiwari, P.</b> (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution). [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002294)
 * Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002270)
 * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523000040)
