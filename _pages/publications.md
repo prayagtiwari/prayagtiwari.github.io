@@ -36,7 +36,7 @@ Quantum Computing
 
 
 
-Multimodal/Information Fusion
+Multimodal Learning/Information Fusion
 ======
 * Zhang, Y., Yu, Y., Zhao, D., Li, Z., Wang, B., Hou, Y., <b>Tiwari, P.</b>, Qin, J (2023). Learning Multi-Task Commonness and Uniqueness for Multi-Modal Sarcasm Detection and Sentiment Analysis in Conversation. *IEEE Transactions on Artificial Intelligence*.   [Available online](https://ieeexplore.ieee.org/document/10192323)
 * Qu Z, Li Y, <b>Tiwari, P.</b> (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution). [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002294)
@@ -84,7 +84,7 @@ Unsupervised Feature Selection
 
 Healthcare
 ======
-* Wang B, Xie Q, Pei J, <b>Tiwari, P.</b>, Li Z, & Fu J. (2023). Pre-trained Language Models in Biomedical Domain: A Systematic Survey. accepted in *ACM Computing Survey*.   [Available preprint](https://arxiv.org/abs/2110.05006)
+* Wang B, Xie Q, Pei J, <b>Tiwari, P.</b>, Li Z, & Fu J. (2023). Pre-trained Language Models in Biomedical Domain: A Systematic Survey. *ACM Computing Survey*.   [Available online](https://dl.acm.org/doi/10.1145/3611651)
 * Sun, L., Chen, Q., Zheng, M., Ning, X., Gupta, D., & <b>Tiwari, P.</b> (2023). Energy-efficient Online Continual Learning for Time Series Classification in Nanorobot-based Smart Health. IEEE Journal of Biomedical and Health Informatics.   [Available online](https://ieeexplore.ieee.org/abstract/document/10164249/)
 * <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613)
 * Rani, S., Kataria, A., Kumar, S., & <b>Tiwari, P.</b>. (2023). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. *Knowledge-Based Systems*, 110658.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123004082)
@@ -135,6 +135,7 @@ Bioinformatics
 
 Natural Language Processing
 ======
+* Yu F, Zhang H, <b>Tiwari, P.</b>,  & Wang B (2023). Natural Language Reasoning, A Survey.   [Available preprint](https://arxiv.org/abs/2303.14725)
 * Li J, Wu X, Liu X, Xie Q, <b>Tiwari, P.</b>,  & Wang B (2023).  Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk.  *61st Annual Meeting of the Association for Computational Linguistics  (ACL) 2023*.
 * Li, S., Sun, C., Xu, Z.,  <b>Tiwari, P.</b>, Liu, B., Gupta, D., ... & Wang, M. (2023). Toward Explainable Dialogue System Using Two-stage Response Generation. *ACM Transactions on Asian and Low-Resource Language Information Processing*, 22(3), 1-18.    [Available online](https://dl.acm.org/doi/full/10.1145/3551869)
 * <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning. *Neural Networks*, 135, 1-12.    [Available online](https://www.sciencedirect.com/science/article/pii/S089360802030410X)
