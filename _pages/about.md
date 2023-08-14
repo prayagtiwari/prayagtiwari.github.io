@@ -12,11 +12,11 @@ Hi! I’m Prayag, working as an Assistant Professor in Machine Learning at Halms
 
 My Research Interest
 ======
-* Broad interests in artificial intelligence, quantum computing, neural networks, graph neural networks, federated learning, reinforcement learning, cognitive science, healthcare, bioinformatics, and IoT. I am interested in bridging the gap between these distinct fields.
-* Quantum-based models, such as quantum classifiers, quantum kernel methods, quantum-like structures for judgment and decision-making, quantum clustering, and quantum neural networks. 
-* NLP tasks, i.e., knowledge graph reasoning, relation classification, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, sarcasm detection, text generation, topic modeling, question answering, dialogue system, etc.
-* Multi-modal fusion, multitask learning, and Computer Vision tasks, i.e., pedestrian attribute recognition, person re-identification, facial reenactment.
-* AI in healthcare/bioinformatics, i.e., term mining, biomedical document summarization,  cancer detection, multimodal medical image fusion, pneumonia detection, depression and emotion estimation, blood-cells detection, ECG, EEG, covid-19 detection, adverse drug event detection, gene selection, Identifying DNA & RNA, IoMT, security and privacy issues, etc.
+* Broad interests in artificial intelligence, quantum machine learning, deep learning, graph neural networks, federated learning, reinforcement learning, cognitive science, healthcare, bioinformatics, and IoT. I am interested in bridging the gap between these distinct fields.
+* Quantum-based models, such as quantum classifiers, quantum kernel methods, quantum-like structures for judgment and decision-making, quantum clustering, quantum neural networks, quantum generative models, and quantum computing.
+* AI in healthcare/bioinformatics, i.e., biomedical large language models, term mining, document summarization, cancer detection, multimodal image fusion, pneumonia detection, depression and emotion estimation, blood-cells detection, ECG/EEG, covid-19 detection, adverse drug event detection, gene selection, Identifying DNA \& RNA, IoMT, security and privacy issues, etc.
+* Natural Language Processing, i.e.,  knowledge graph reasoning, relation classification, term mining, text matching, entity recognition, learning word embedding, conversational sentiment analysis, sarcasm detection, text generation, topic modeling, question answering, dialogue system, etc.
+* Multi-modal/information fusion tasks using diverse modalities, including textual, visual, acoustic, EEG/ECG, and multi-sensor data.
 * Interested in interpretable/explainable and casual AI models.
 
 
