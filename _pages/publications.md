@@ -56,6 +56,7 @@ Multimodal Learning/Information Fusion
 
 Graph Neural Networks
 ======
+* Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization. *IEEE Journal of Biomedical and Health Informatics. 
 * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Alonso-Fernandez, F. (2023). Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting.  [Available preprint](https://arxiv.org/abs/2305.09703)
 * Zeyu, H., Yan, L., Wendi, F., Wei, Z., Alenezi, F., & <b>Tiwari, P.</b>. (2023). Causal Embedding of User Interest and Conformity for Long-tail Session-based Recommendations. *Information Sciences*, 119167.  [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523007521)
 * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting. *IEEE Transactions on Vehicular Technology*.  [Available online](https://ieeexplore.ieee.org/abstract/document/10032116)
@@ -87,7 +88,7 @@ Unsupervised Feature Selection
 Healthcare
 ======
 * Wang B, Xie Q, Pei J, <b>Tiwari, P.</b>, Li Z, & Fu J. (2023). Pre-trained Language Models in Biomedical Domain: A Systematic Survey. *ACM Computing Survey*.   [Available online](https://dl.acm.org/doi/10.1145/3611651)
-* Sun, L., Chen, Q., Zheng, M., Ning, X., Gupta, D., & <b>Tiwari, P.</b> (2023). Energy-efficient Online Continual Learning for Time Series Classification in Nanorobot-based Smart Health. IEEE Journal of Biomedical and Health Informatics.   [Available online](https://ieeexplore.ieee.org/abstract/document/10164249/)
+* Sun, L., Chen, Q., Zheng, M., Ning, X., Gupta, D., & <b>Tiwari, P.</b> (2023). Energy-efficient Online Continual Learning for Time Series Classification in Nanorobot-based Smart Health. *IEEE Journal of Biomedical and Health Informatics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10164249/)
 * <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613)
 * Rani, S., Kataria, A., Kumar, S., & <b>Tiwari, P.</b>. (2023). Federated learning for secure IoMT-applications in smart healthcare systems: A comprehensive review. *Knowledge-Based Systems*, 110658.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123004082)
 * Bhatia, M., Meena, B., Rathi, V. K., <b>Tiwari, P.</b>, Jaiswal, A. K., Ansari, S. M.,Kumar, A., & Marttinen, P. (2023). A Novel Deep Learning based Model for Erythrocytes Classification and Quantification in Sickle Cell Disease. [Available preprint](https://arxiv.org/abs/2305.01663)
