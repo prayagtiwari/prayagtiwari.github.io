@@ -123,6 +123,7 @@ Healthcare
 Bioinformatics
 ======
 * Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002270)
+* Xie H, Ding Y, Qian Y, <b>Tiwari, P.</b>, Guo F. (2023).Structured Sparse Regularization based Random Vector Functional Link Networks for DNA N4-methylcytosine sites prediction *Expert Systems with Applications*. [Available online](https://www.sciencedirect.com/science/article/pii/S0957417423016597),   [Available Code](https://github.com/OotakK/SSR-RVFL.git)
 * Wang, L., <b>Tiwari, P.</b>, Ding, Y., & Guo, F. (2023). Weighted Fuzzy System for Identifying DNA N4-Methylcytosine Sites With Kernel Entropy Component Analysis. *IEEE Transactions on Artificial Intelligence*.  [Available online](https://ieeexplore.ieee.org/abstract/document/10098638)
 * Wang, L., Ding, Y., <b>Tiwari, P.</b>,Xu, J., Lu, W., Muhammad, K., de Albuquerquee, V.H.C. & Guo, F. (2023). A deep multiple kernel learning-based higher-order fuzzy inference system for identifying DNA N4-methylcytosine sites. *Information Sciences*, 630, 40-52.  [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523001652)
 * Guo, X., <b>Tiwari, P.</b>, Zou, Q., & Ding, Y. (2023). Subspace projection-based weighted echo state networks for predicting therapeutic peptides. *Knowledge-Based Systems*, 110307.  [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123000576)
