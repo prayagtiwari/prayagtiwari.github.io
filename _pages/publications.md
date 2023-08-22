@@ -71,7 +71,7 @@ Graph Neural Networks
 
 Reinforcement Learning
 ======
-* <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613)
+* <b>Tiwari, P.</b>, Lakhan, A., Jhaveri, R. H., & Gronli, T. M. (2023). Consumer-centric internet of medical things for cyborg applications based on federated reinforcement learning. *IEEE Transactions on Consumer Electronics*.   [Available online](https://ieeexplore.ieee.org/abstract/document/10040613),  [Code](https://github.com/prayagtiwari/CIoMT)
 * <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning. *Neural Networks*, 135, 1-12.    [Available online](https://www.sciencedirect.com/science/article/pii/S089360802030410X)
 * Lakhan, A., Mohammed, M. A., Nedoma, J., Martinek, R., <b>Tiwari, P.</b>, & Kumar, N. (2023). DRLBTS: deep reinforcement learning-aware blockchain-based healthcare system. *Scientific Reports*, 13(1), 4124.  [Available online](https://www.nature.com/articles/s41598-023-29170-2)
 * Deng, D., Li, J., Jhaveri, R. H., <b>Tiwari, P.</b>, Ijaz, M. F., Ou, J., & Fan, C. (2022). Reinforcement Learning Based Optimization on Energy Efficiency in UAV Networks for IoT. *IEEE Internet of Things Journal*.   [Available online](https://ieeexplore.ieee.org/abstract/document/9920190)
@@ -80,7 +80,7 @@ Reinforcement Learning
 
 Unsupervised Feature Selection
 ======
-* Karami, S., Saberi-Movahed, F., Tiwari, P., Marttinen, P., & Vahdati, S. (2023). Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance, *Neural Networks* (2023).    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608023003295)
+* Karami, S., Saberi-Movahed, F., Tiwari, P., Marttinen, P., & Vahdati, S. (2023). Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance, *Neural Networks* (2023).    [Available online](https://www.sciencedirect.com/science/article/pii/S0893608023003295), [Code](https://github.com/SaeedKarami/VCSDFS)
 * Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., <b>Tiwari, P.</b>, Oussalah, M., & Band, S. S. (2022). Dual regularized unsupervised feature selection based on matrix factorization and minimum redundancy with application in gene selection. *Knowledge-Based Systems*, 256, 109884.   [Available online](https://www.sciencedirect.com/science/article/pii/S0950705122009777)
 
 
@@ -123,7 +123,7 @@ Healthcare
 Bioinformatics
 ======
 * Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002270)
-* Xie H, Ding Y, Qian Y, <b>Tiwari, P.</b>, Guo F. (2023).Structured Sparse Regularization based Random Vector Functional Link Networks for DNA N4-methylcytosine sites prediction *Expert Systems with Applications*. [Available online](https://www.sciencedirect.com/science/article/pii/S0957417423016597),   [Available Code](https://github.com/OotakK/SSR-RVFL.git)
+* Xie H, Ding Y, Qian Y, <b>Tiwari, P.</b>, Guo F. (2023).Structured Sparse Regularization based Random Vector Functional Link Networks for DNA N4-methylcytosine sites prediction *Expert Systems with Applications*. [Available online](https://www.sciencedirect.com/science/article/pii/S0957417423016597),   [Code](https://github.com/OotakK/SSR-RVFL.git)
 * Wang, L., <b>Tiwari, P.</b>, Ding, Y., & Guo, F. (2023). Weighted Fuzzy System for Identifying DNA N4-Methylcytosine Sites With Kernel Entropy Component Analysis. *IEEE Transactions on Artificial Intelligence*.  [Available online](https://ieeexplore.ieee.org/abstract/document/10098638)
 * Wang, L., Ding, Y., <b>Tiwari, P.</b>,Xu, J., Lu, W., Muhammad, K., de Albuquerquee, V.H.C. & Guo, F. (2023). A deep multiple kernel learning-based higher-order fuzzy inference system for identifying DNA N4-methylcytosine sites. *Information Sciences*, 630, 40-52.  [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523001652)
 * Guo, X., <b>Tiwari, P.</b>, Zou, Q., & Ding, Y. (2023). Subspace projection-based weighted echo state networks for predicting therapeutic peptides. *Knowledge-Based Systems*, 110307.  [Available online](https://www.sciencedirect.com/science/article/pii/S0950705123000576)
