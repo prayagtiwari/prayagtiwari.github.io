@@ -56,7 +56,7 @@ Multimodal Learning/Information Fusion
 
 Graph Neural Networks
 ======
-* Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization. *IEEE Journal of Biomedical and Health Informatics. 
+* Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization. *IEEE Journal of Biomedical and Health Informatics.   [Available online](https://ieeexplore.ieee.org/document/10227516)
 * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Alonso-Fernandez, F. (2023). Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting.  [Available preprint](https://arxiv.org/abs/2305.09703)
 * Zeyu, H., Yan, L., Wendi, F., Wei, Z., Alenezi, F., & <b>Tiwari, P.</b>. (2023). Causal Embedding of User Interest and Conformity for Long-tail Session-based Recommendations. *Information Sciences*, 119167.  [Available online](https://www.sciencedirect.com/science/article/pii/S0020025523007521)
 * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting. *IEEE Transactions on Vehicular Technology*.  [Available online](https://ieeexplore.ieee.org/abstract/document/10032116)
