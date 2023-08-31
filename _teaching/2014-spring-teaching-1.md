@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate course"
 collection: teaching
-type: "Undergraduate course"
+type: "Bachelor courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "RGPV"
 date: 2011-01-01
@@ -10,11 +10,17 @@ location: "Bhopal, India"
 
 Taught Engineering Mathematics-I,II,&III. I also taught Engineering Mechanics, Network Analysis, Control Theory, Signal Processing.
 
-Heading 1
+Engineering Mathematics-I,II,&III
 ======
 
-Heading 2
+Network Analysis
 ======
 
-Heading 3
+Control Theory
+======
+
+Signal Processing
+======
+
+Engineering Mechanics
 ======
