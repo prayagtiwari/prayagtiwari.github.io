@@ -8,7 +8,7 @@ date: 2011-01-01
 location: "Bhopal, India"
 ---
 
-Taught Engineering Mathematics-I,II,&III. I also taught Engineering Mechanics, Network Analysis, Control Theory, Signal Processing.
+I was involved in the design and teaching the following courses: 
 
 Engineering Mathematics-I,II,&III
 ======
