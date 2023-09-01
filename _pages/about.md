@@ -20,12 +20,6 @@ My Research Interest
 * Interested in interpretable/explainable and casual AI models.
 
 
-Call for Papers
-======
-* <b>[May 2023]</b> Call for papers "[Transformer Models for Multi-source Visual Fusion and Understanding](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#transformer-models-for-multi-source-visual-fusion-and-understanding)" is open for submission in Information Fusion, Elsevier. <b>(I.F.- 17.564)</b>
-* <b>[June 2023]</b> Call for papers "[Human-oriented 3D vision in the Metaverse](https://www.sciencedirect.com/journal/image-and-vision-computing/about/call-for-papers#human-oriented-3d-vision-in-the-metaverse)" is open for submission in Image and Vision Computing, Elsevier. <b>(I.F.- 3.86)</b>
-* <b>[June 2023]</b> Call for papers "[Visual Processing Techniques in Harsh Environments](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation/about/call-for-papers#visual-processing-techniques-in-harsh-environments)" is open for submission in Journal of Visual Communication and Image Representation, Elsevier. <b>(I.F.- 2.6)</b>
-
 
 News and Media appearance
 ======
@@ -38,6 +32,13 @@ News and Media appearance
 * <b>[November 2022]</b> Elevation to the grade of IEEE Senior member.
 * <b>[November 2022]</b> 2022 Best Paper Award: [Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification](https://www.sciencedirect.com/journal/neural-networks/about/awards), published in Neural Networks, volume 128, pp. 294-304, August 2020.
 * <b>[October 2022]</b> Top 2% of scientists around the world for the year (2022) based on [Elsevier database](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0bpdsb6fD4oxXBo-k0Tc4xd6AuLB3WcYECnu3ise7UJEvcPBtE4jHyAhM).
+
+
+Call for Papers
+======
+* <b>[May 2023]</b> Call for papers "[Transformer Models for Multi-source Visual Fusion and Understanding](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#transformer-models-for-multi-source-visual-fusion-and-understanding)" is open for submission in Information Fusion, Elsevier. <b>(I.F.- 17.564)</b>
+* <b>[June 2023]</b> Call for papers "[Human-oriented 3D vision in the Metaverse](https://www.sciencedirect.com/journal/image-and-vision-computing/about/call-for-papers#human-oriented-3d-vision-in-the-metaverse)" is open for submission in Image and Vision Computing, Elsevier. <b>(I.F.- 3.86)</b>
+* <b>[June 2023]</b> Call for papers "[Visual Processing Techniques in Harsh Environments](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation/about/call-for-papers#visual-processing-techniques-in-harsh-environments)" is open for submission in Journal of Visual Communication and Image Representation, Elsevier. <b>(I.F.- 2.6)</b>
 
 
 Selected Articles
