@@ -61,7 +61,7 @@ Selected Articles
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 4700+, h-index: 31)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 4800+, h-index: 32)
   
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 2800+, h-index: 24)
   
