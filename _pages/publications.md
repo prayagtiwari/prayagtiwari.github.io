@@ -41,6 +41,7 @@ Quantum Computing
 
 Multimodal Learning/Information Fusion
 ======
+* Ning X, Yu Z, Li L, Li W, <b>Tiwari, P.</b> (2023). DILF: Differentiable rendering-based multi-view Image-Language Fusion for zero-shot 3D shape understanding. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/pii/S1566253523003494),  [Code](https://github.com/yuzaiyang123/DILP)
 * Zhang, Y., Yu, Y., Zhao, D., Li, Z., Wang, B., Hou, Y., <b>Tiwari, P.</b>, Qin, J (2023). Learning Multi-Task Commonness and Uniqueness for Multi-Modal Sarcasm Detection and Sentiment Analysis in Conversation. *IEEE Transactions on Artificial Intelligence*.   [Available online](https://ieeexplore.ieee.org/document/10192323)
 * Qu Z, Li Y, <b>Tiwari, P.</b> (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution). [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002294)
 * Ding Y, <b>Tiwari, P.</b>, Guo F, Zou Q. (2023). Multi-Correntropy Fusion based Fuzzy System for Predicting DNA N4-methylcytosine Sites. *Information Fusion*. [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002270)
