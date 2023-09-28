@@ -17,6 +17,7 @@ Quantum Computing
 ======
 
 * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). Kernel method based on non-linear coherent states in quantum feature space. *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301. [Available online](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e/meta)
+* Qu Z, Shi W, <b>Tiwari, P.</b> (2023). Quantum conditional generative adversarial network based on patch method for abnormal electrocardiogram generation. *Computers in Biology and Medicine* (equal contribution).   [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002294)
 * Qu Z, Li Y, <b>Tiwari, P.</b> (2023). QNMF: A Quantum Neural Network Based Multimodal Fusion System for Intelligent Diagnosis. *Information Fusion* (equal contribution).   [Available online](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002294)
 * Qu Z, Chen Z, Ning X, <b>Tiwari, P.</b> (2023). QEPP: A Quantum Efficient Privacy Protection Protocol in 6G-Quantum Internet of Vehicles. *IEEE Transactions on Intelligent Vehicles*.      [Available online](https://ieeexplore.ieee.org/document/10221729)
 * Qu Z, Li Y, Liu B, Gupta D, <b>Tiwari, P.</b>. (2023). DTQFL: A Digital Twin-Assisted Quantum Federated Learning Algorithm for Intelligent Diagnosis in 5G Mobile Network. *IEEE Journal of Biomedical and Health Informatics*. [Available online](https://ieeexplore.ieee.org/document/10210652)
