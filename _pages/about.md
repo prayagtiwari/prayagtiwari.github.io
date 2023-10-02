@@ -23,6 +23,7 @@ My Research Interest
 
 News and Media appearance
 ======
+* <b>[Oct 2023]</b> Editorial Board: Received an invitation to join as an [Associate Editor of Neural Networks, Elsevier](http://www.journals.elsevier.com/neural-networks/) from 2024.
 * <b>[May 2023]</b> Media appearance: [Aalto University Details Findings in Computing (Eeg Based Emotion Recognition: a Tutorial and Review)](http://ct.moreover.com/?a=50662144070&p=1gw&v=1&x=yV-5EvGDwkc-oCeNkC-VOw) by Computer News Today.
 * <b>[May 2023]</b> Media appearance: [Reports from Halmstad University Add New Data to Findings in Cancer Research (Explainable Quantum Clustering Method To Model Medical Data)](http://ct.moreover.com/?a=50846476815&p=1gw&v=1&x=EokuAL7F68AR3cCK32nyQA) by NewsRx Women's Health Daily.
 * <b>[April 2023]</b> Media appearance: [Investigators at Aalto University Report Findings in COVID-19 (Iomt: a Covid-19 Healthcare System Driven By Federated Learning and Blockchain)](http://ct.moreover.com/?a=50490848597&p=1gw&v=1&x=lZza3tspv21w15hKSP0OHQ) by NewsRx COVID-19 Daily.
