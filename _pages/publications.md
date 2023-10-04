@@ -6,10 +6,27 @@ author_profile: true
 ---
 
 
-You can find the full list of articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
+<b>You can find the full list of articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate):</b>
 
 
 <b>Topic-wise articles can be found below:</b>
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="topic">
+        <h2 class="topic-title" onclick="toggleContent(1)">Topic 1</h2>
+        <div class="topic-content" id="content1">
+            Content for Topic 1 goes here.
+        </div>
+    </div>
+</body>
 
 
 
