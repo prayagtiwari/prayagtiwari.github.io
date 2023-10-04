@@ -12,14 +12,8 @@ author_profile: true
 <b>Topic-wise articles can be found below:</b>
 
 
-<div id="Quantum-Computing" style="display: none;">
-    <!-- 
-  
-* <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). Kernel method based on non-linear coherent states in quantum feature space. *Journal of Physics A: Mathematical and Theoretical*, 55(35), 355301. [Available online](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e/meta)
+<h2 onclick="toggleContent('quantum-computing-title')">Quantum Computing</h2>
 
-* Qu Z, Shi W, <b>Tiwari, P.</b> (2023). Quantum conditional generative adversarial network based on patch method for abnormal electrocardiogram generation. *Computers in Biology and Medicine* (equal contribution).   [Available online](https://www.sciencedirect.com/science/article/pii/S0010482523010144)
-  -->
-</div>
 
 
 
