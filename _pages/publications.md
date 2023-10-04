@@ -12,7 +12,10 @@ author_profile: true
 <b>Topic-wise articles can be found below:</b>
 
 
-<h2 onclick="toggleContent('quantum-computing-title')">Quantum Computing</h2>
+<div id="quantum-computing" style="display: none;">
+    <!-- Add your Quantum Computing content here -->
+</div>
+
 
 
 
