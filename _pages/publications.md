@@ -13,12 +13,7 @@ author_profile: true
 
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+
 <body>
     <div class="topic">
         <h2 class="topic-title" onclick="toggleContent(1)">Topic 1</h2>
