@@ -18,7 +18,7 @@ Research Interest
    * Applications in Healthcare, Bioinformatics, and Intelligent Systems
    * Interpretable, Explainable, and Causal models.
 * Quantum-based models
-   * Quantum classifiers, Quantum Kernels, Quantum Clustering, Quantum Neural Networks, Quantum Generative Models
+   * Quantum Classifiers, Quantum Kernels, Quantum Clustering, Quantum Neural Networks, Quantum Generative Models
    * Quantum-like structures for judgment and decision-making
    * Quantum Computing applications.
 * Internet of Things
