@@ -12,13 +12,6 @@ author_profile: true
 <b>Topic-wise articles can be found below:</b>
 
 
-<div id="quantum-computing" style="display: none;">
-    <!-- Add your Quantum Computing content here -->
-</div>
-
-
-
-
 
 
 Quantum Computing
