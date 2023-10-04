@@ -13,44 +13,6 @@ author_profile: true
 
 
 
-
-<script>
-    // Initialize Showdown converter
-    var converter = new showdown.Converter();
-
-    // Function to toggle content
-    function toggleContent(contentId) {
-        var content = document.getElementById(contentId);
-
-        if (content.style.display === "none") {
-            // Convert Markdown to HTML and insert it
-            content.innerHTML = converter.makeHtml(getMarkdownContent(contentId));
-            content.style.display = "block";
-        } else {
-            content.style.display = "none";
-        }
-    }
-
-    // Function to get Markdown content based on contentId
-    function getMarkdownContent(contentId) {
-        // You can fetch the Markdown content based on the contentId
-        // For example:
-        if (contentId === 'content1') {
-            return `
-* [Paper 1](link-to-paper1)
-* [Paper 2](link-to-paper2)
-* [Paper 3](link-to-paper3)
-`;
-        }
-        // Add more cases for other contentIds as needed
-    }
-</script>
-
-
-
-
-
-
 Quantum Computing
 ======
 
