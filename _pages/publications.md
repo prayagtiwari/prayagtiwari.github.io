@@ -12,7 +12,6 @@ author_profile: true
 <b>Topic-wise articles can be found below:</b>
 
 
-<script src="https://cdn.jsdelivr.net/npm/showdown@1.9.3/dist/showdown.min.js"></script>
 
 
 <div class="topic">
