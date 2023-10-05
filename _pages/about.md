@@ -54,7 +54,8 @@ Selected Articles
 * Multimodal & Multisource Fusion
   * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). [A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S1566253523000040). *Information Fusion*. 
 * Graph Neural Networks
-  * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] 
+  * Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). [Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization](https://ieeexplore.ieee.org/document/10227516). *IEEE Journal of Biomedical and Health Informatics*. 
+  *  Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] 
 * NLP & Bio NLP
   * Wang B, Xie Q, Pei J, <b>Tiwari, P.</b>, Li Z, & Fu J. (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). *ACM Computing Survey*.  
   * Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). [Contextualized Graph Embeddings for Adverse  Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf). In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*. 
