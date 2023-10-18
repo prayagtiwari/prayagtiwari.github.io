@@ -46,6 +46,8 @@ Call for Papers
 
 Selected Articles
 ======
+The topic-wise publication can be found in the [Publication](https://prayagtiwari.github.io/publications/) section, and full publication at [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
+
 * Quantum
   * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*.
   * <b>Tiwari, P.</b>, Zhang, L., Qu, Z., & Muhammad, G. (2024). [Quantum Fuzzy Neural Network for Multimodal Sentiment and Sarcasm Detection](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Information Fusion*. 
