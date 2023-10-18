@@ -48,23 +48,23 @@ Selected Articles
 ======
 The topic-wise publication can be found in the [Publication](https://prayagtiwari.github.io/publications/) section, and full publication at [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
 
-* Quantum
+* <b>Quantum</b>
   * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*.
   * <b>Tiwari, P.</b>, Zhang, L., Qu, Z., & Muhammad, G. (2024). [Quantum Fuzzy Neural Network for Multimodal Sentiment and Sarcasm Detection](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Information Fusion*. 
   * Moreira, C., <b>Tiwari, P.</b>, Pandey, H. M., Bruza, P., & Wichert, A. (2020). [Quantum-like influence diagrams for decision-making](https://www.sciencedirect.com/science/article/pii/S0893608020302501). *Neural Networks*.
   * Upretty S, <b>Tiwari, P.</b>, Dehdashti S, Fell L, Song D, Bruza P, & Melucci M (2020). [Quantum-like structure in multidimensional relevance judgements](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48), *European Conference on Information Retrieval (ECIR)*.
   * <b>Tiwari, P.</b>, & Melucci, M. (2019). [Towards a quantum-inspired binary classifier](https://ieeexplore.ieee.org/abstract/document/8671690). *IEEE Access*.
-* Multimodal & Multisource Fusion
+* <b>Multimodal & Multisource Fusion</b>
   * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). [A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S1566253523000040). *Information Fusion*. 
-* Graph Neural Networks
+* <b>Graph Neural Networks</b>
   * Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). [Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization](https://ieeexplore.ieee.org/document/10227516). *IEEE Journal of Biomedical and Health Informatics*. 
   *  Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] 
-* NLP & Bio NLP
+* <b>NLP & Bio NLP</b>
   * Wang B, Xie Q, Pei J, <b>Tiwari, P.</b>, Li Z, & Fu J. (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). *ACM Computing Survey*.  
   * Gao, Y., Ji, S., Zhang, T.,  <b>Tiwari, P.</b>, & Marttinen, P. (2022). [Contextualized Graph Embeddings for Adverse  Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf). In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*. 
   * Ji, S., Zhang, T., Ansari, L., Fu, J., <b>Tiwari, P.</b>, & Cambria, E. (2021). [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). *LREC 2022*.
   * <b>Tiwari, P.</b>, Zhu, H., & Pandey, H. M. (2021). [DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S089360802030410X). *Neural Networks*.
-* Healthcare
+* <b>Healthcare</b>
   * Li, X., Zhang, Y., <b>Tiwari, P.</b>, Song, D., Hu, B., Yang, M., Zhao, Z., Kumar, N & Marttinen, P. (2022). [EEG based emotion recognition: A tutorial and review](https://dl.acm.org/doi/full/10.1145/3524499). *ACM Computing Surveys*.  
   * He, L., Niu, M., <b>Tiwari, P.</b>, Marttinen, P., Su, R., Jiang, J., Guo, C., Wang, H., Ding, S., Wang, Pan, X., & Dang, W. (2022). [Deep learning for depression recognition with audiovisual cues: A review](https://www.sciencedirect.com/science/article/pii/S1566253521002207). *Information Fusion*.
   * Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., <b>Tiwari, P.</b>, Oussalah, M., & Band, S. S. (2022). [Dual regularized unsupervised feature selection based on matrix factorization and minimum redundancy with application in gene selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777). *Knowledge-Based Systems*, 256, 109884. 
