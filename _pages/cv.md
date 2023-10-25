@@ -80,6 +80,6 @@ Professional Activities as an Editorial Board/Reviewer
 * Guest Editor: Information Fusion, Image and Vision Computing
 * Associate Editor: Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Neuroscience, Computer Systems Science and Engineering 
 * Quantum Machine Intelligence, Scientific Report, NCAA
-* IEEE TNNLS, IEEE TCB, IEEE IoTJ, IEEE TII, IEEE TCBS, IEEE Access, IEEE TIFS, IEEE TFS, IEEE TAI, IEEE TEM, IEEE TSMC
+* IEEE TPAMI, IEEE TNNLS, IEEE TCB, IEEE IoTJ, IEEE TII, IEEE TCBS, IEEE Access, IEEE TIFS, IEEE TFS, IEEE TAI, IEEE TEM, IEEE TSMC
 * Neural Networks, Information Science, Knowledge-Based Systems, Cells@Pattern
 * ACM Computing Surveys, ACM TOIT, ACM TALLIP
