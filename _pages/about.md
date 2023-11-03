@@ -72,7 +72,7 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 5000+, h-index: 32)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 5100+, h-index: 33)
   
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 3000+, h-index: 25)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 3100+, h-index: 25)
   
