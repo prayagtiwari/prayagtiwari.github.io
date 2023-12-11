@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning"
+title: "Artificial Intelligence"
 collection: teaching
 type: "Masters course in Artificial Intelligence"
 permalink: /teaching/RL
