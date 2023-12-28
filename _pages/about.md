@@ -55,7 +55,8 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
   * Upretty S, <b>Tiwari, P.</b>, Dehdashti S, Fell L, Song D, Bruza P, & Melucci M (2020). [Quantum-like structure in multidimensional relevance judgements](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48), *European Conference on Information Retrieval (ECIR)*.
   * <b>Tiwari, P.</b>, & Melucci, M. (2019). [Towards a quantum-inspired binary classifier](https://ieeexplore.ieee.org/abstract/document/8671690). *IEEE Access*.
 * <b>Multimodal Fusion</b>
-  * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). [A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S1566253523000040). *Information Fusion*. 
+  * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). [A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S1566253523000040). *Information Fusion*.
+  * Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., <b>Tiwari, P.</b>, & Ding, Y. (2024). [AttentionMGT-DTA: A multi-modal drug-target affinity prediction using graph transformer and attention mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
 * <b>Graph Neural Networks</b>
   * Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). [Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization](https://ieeexplore.ieee.org/document/10227516). *IEEE Journal of Biomedical and Health Informatics*. 
   *  Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] 
@@ -72,7 +73,7 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 5200+, h-index: 34)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: 5700+, h-index: 35)
   
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 3200+, h-index: 26)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: 3500+, h-index: 27)
   
