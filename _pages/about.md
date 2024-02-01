@@ -25,6 +25,7 @@ Research Interest
 
 News and Media appearance
 ======
+* <b>[Feb 2024]</b> Promoted to Associate Professor (Senior Lecturer) at Halmstad University, Sweden.
 * <b>[Jan 2024]</b> Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board).
 * <b>[Nov 2023]</b> Editorial Board: Associate Editor of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board).
 * <b>[May 2023]</b> Media appearance: [Aalto University Details Findings in Computing (Eeg Based Emotion Recognition: a Tutorial and Review)](http://ct.moreover.com/?a=50662144070&p=1gw&v=1&x=yV-5EvGDwkc-oCeNkC-VOw) by Computer News Today.
