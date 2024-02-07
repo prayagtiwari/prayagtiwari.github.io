@@ -19,7 +19,12 @@ Education
 
 Professional Experience
 ======
-* Aug 2022- Ongoing: Assistant Professor
+
+* Jan 2024- Ongoing: Associate Professor (Senior Lecturer)
+  * [Halmstad University](https://www.hh.se/pdben?person=52C5C37B-703C-4A11-B31D-E70F516A08A2), Sweden
+  * Duties included: Research and Teaching in Machine Learning
+
+* Aug 2022- Jan 2024: Assistant Professor
   * [Halmstad University](https://www.hh.se/pdben?person=52C5C37B-703C-4A11-B31D-E70F516A08A2), Sweden
   * Duties included: Research and Teaching in Machine Learning
   
