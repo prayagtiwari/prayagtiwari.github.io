@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Email: prayag.tiwari@ieee.org, prayag.tiwari@aalto.fi, prayagforms@gmail.com
+Email: prayag.tiwari@ieee.org, prayag.tiwari@hh.se
 
 
