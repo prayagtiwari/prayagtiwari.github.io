@@ -31,12 +31,12 @@ author_profile: true
         body {
             width: 100%;
             margin: 0;
+            font-family: Arial, sans-serif; /* Example font family */
         }
 
         /* Optionally, set a background color or other styles for the body */
         body {
             background-color: #f0f0f0; /* Example background color */
-            font-family: Arial, sans-serif; /* Example font family */
         }
 
         /* Hide .topic-content by default */
@@ -54,9 +54,49 @@ author_profile: true
             font-weight: bold;
         }
 
-        /* Optionally, add more specific styles for other elements as needed */
+        /* Style for navigation menu */
+        nav {
+            background-color: #333; /* Set background color */
+            color: #fff; /* Set text color */
+            padding: 10px; /* Add padding for spacing */
+        }
+
+        nav ul {
+            list-style-type: none; /* Remove bullet points */
+        }
+
+        nav ul li {
+            display: inline; /* Display list items horizontally */
+            margin-right: 10px; /* Add right margin for spacing between items */
+        }
+
+        nav ul li a {
+            color: #fff; /* Set link text color */
+            text-decoration: none; /* Remove underline from links */
+        }
+
+        nav ul li a:hover {
+            text-decoration: underline; /* Add underline on hover */
+        }
     </style>
 </head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#talks">Talks</a></li>
+            <li><a href="#teaching">Teaching</a></li>
+            <li><a href="#blog">Blog Posts</a></li>
+            <li><a href="#cv">CV</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Your content goes here -->
+
+</body>
+
 
 
 <body>
