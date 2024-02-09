@@ -9,21 +9,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-    <style>
-      /* Add CSS styles here */
-      body {
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        overflow-x: auto; /* Enable horizontal scrolling */
-      }
-      .content {
-        max-width: 100%;
-        margin: 0 auto;
-        padding: 0 20px; /* Adjust padding as needed */
-      }
-    </style>
   </head>
 
   <body>
@@ -31,9 +16,7 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div class="content">
-      {{ content }}
-    </div>
+    {{ content }}
 
     <div class="page__footer">
       <footer>
