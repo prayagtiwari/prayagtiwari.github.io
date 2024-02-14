@@ -237,7 +237,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
@@ -254,6 +254,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
