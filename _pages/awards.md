@@ -10,7 +10,7 @@ redirect_from:
 
 Best Paper Award
 ======
-* 2022 Best Paper Award: ``Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification," published in Neural Networks (vol. 128, pp. 294-304, 2020) 
+* 2022 Best Paper Award: ``Cross-modality paired-images generation and augmentation for RGB-infrared person re-identification," published in Neural Networks (vol. 128, pp. 294-304, 2020). [Link](https://www.sciencedirect.com/journal/neural-networks/about/awards#announcement-of-the-neural-networks-2022-best-paper-award)
 
 
 Highly Cited Papers Award
