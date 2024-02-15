@@ -9,6 +9,9 @@ main:
   - title: "People"
     url: /people/          
 
+  - title: "Professional Activities"
+    url: /professional/  
+    
   - title: "Projects"
     url: /projects/   
 
