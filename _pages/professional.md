@@ -33,3 +33,17 @@ Reviewer
 * Neural Networks, Information Science, Knowledge-Based Systems, Information Processing and Management, Cells@Pattern
 * ACM Computing Surveys, ACM TOIT, ACM TALLIP
 * .....
+
+
+Professional Memberships
+======
+* IEEE Senior Member
+* ACM, AAAI, ACL, SIGIR
+
+
+Professional Memberships
+======
+* 10th Italian Information Retrieval Workshop, Padua, Italy.
+* International Workshop on Knowledge Graphs with 22nd IEEE International Conference on Data Mining.
+* IEEE GLOBECOM 2021 Workshop on Edge-AI and IoT for Connected Health, Madrid, Spain.
+* ....
