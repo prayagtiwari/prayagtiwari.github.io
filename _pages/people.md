@@ -36,3 +36,17 @@ Researchers
 Visitors
 ======
 * Pedro Foletto Pimenta, UFRGS Federal University
+
+
+Colloborators
+======
+* Amit Kumar Jaiswal, University College London
+* Shahram Dehdashti, Technical University of Munich
+* Pekka Marttinen, Aalto University
+* Peter Bruza, Queensland University of Technology
+* Benyou Wang, Chinese University of Hong Kong
+* Qianqian Xie, Yale University
+* Qiuchi Li, University of Copenhagen
+* Yijie Ding, University of Electronic Science and Technology of China
+* Xin Ning, Chinese Academy of Sciences
+* ....
