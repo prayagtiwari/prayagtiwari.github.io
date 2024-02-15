@@ -73,18 +73,3 @@ Publications
 
 You can find the full list of articles on [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
 
-
-Professional Memberships
-======
-* IEEE Senior member
-* ACM, AAAI, ACL, SIGIR
-
-Professional Activities as an Editorial Board/Reviewer
-======
-* PC Committee: KDD, ICLR, COLING, ICDM, ACL, EMNLP, ECML
-* Guest Editor: Information Fusion, Image and Vision Computing
-* Associate Editor: Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Neuroscience, Computer Systems Science and Engineering 
-* Quantum Machine Intelligence, Scientific Report, NCAA
-* IEEE TPAMI, IEEE TNNLS, IEEE TCB, IEEE IoTJ, IEEE TII, IEEE TCBS, IEEE Access, IEEE TIFS, IEEE TFS, IEEE TAI, IEEE TEM, IEEE TSMC
-* Neural Networks, Information Science, Knowledge-Based Systems, Cells@Pattern
-* ACM Computing Surveys, ACM TOIT, ACM TALLIP
