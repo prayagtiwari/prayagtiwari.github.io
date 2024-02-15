@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /supervision/
+permalink: /people/
 author_profile: true
 redirect_from:
-  - /teaching
+  - /people
 ---
 
 {% include base_path %}
