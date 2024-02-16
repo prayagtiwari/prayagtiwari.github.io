@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* First
+* [QUARTZ (Quantum Information Access and Retrieval Theory)](https://www.quartz-itn.eu/about) funded by the European Union's Horizon 2020 research and innovation programme.
+* 
