@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -9,6 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
+New Course Design
+======
+*  Quantum Machine Learning, PhD Course Lecture (7.5 credits), Sept 2024, Halmstad University.
+
+Teaching
+======
 * Artificial Intelligence Course - DT8042 (Master level, 7.5 credits), Halmstad University, Sweden, Fall 2023, Role: Lecturer
 * Data Mining Course - DT8013 (Master level, 7.5 credits), Halmstad University, Sweden, Fall 2022, Role: Lecturer
 * Artificial Intelligence Course - DT8042 (Master level, 7.5 credits), Halmstad University, Sweden, Fall 2022, Role: Lecturer
@@ -18,11 +23,6 @@ redirect_from:
 * Network Analysis, (Bachelor level), RGPV University, India 2012-2014, Role: Course Responsible, Examiner, Teacher (36 hours)
 * Engineering Mechanics, (Bachelor level), RGPV University, India 2012-2014, Role: Course Responsible, Examiner, Teacher (36 hours)
 * Control Theory, (Bachelor level), RGPV University, India 2012-2014, Role: Course Responsible, Examiner, Teacher (36 hours)
-
-
-New Course Design
-======
-*  Quantum Machine Learning, PhD Course Lecture (7.5 credits), Sept 2024, Halmstad University.
 
 
 Higher education pedagogical training
