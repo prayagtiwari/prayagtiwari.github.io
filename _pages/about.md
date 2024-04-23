@@ -80,5 +80,4 @@ Useful Links
 
 [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼6600, h-index: 37)
   
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193601962) (Citations: ∼4200, h-index: 30)
   
