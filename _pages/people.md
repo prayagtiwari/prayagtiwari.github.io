@@ -19,13 +19,11 @@ Master's students
 ======
 * Elias Vahlberg, HU
 * Hamed Haghjo, HU
-* Ola Maatouk, HU
-* Rohullah Khorami, HU
-* Fredrik Kortetjarvi, HU
-* Olen Shofiti, HU
-* Jazib Ahmed, HU
-* Mekhti Musaev, Aalto University
-* Krahn Maximillian, Aalto University
+* Rohullah Khorami, HU (currently Software Engineer at HMS)
+* Fredrik Kortetjarvi, HU (currently Data Scientist at SOS)
+* Mekhti Musaev, Aalto University (Currently Data Scientist at Symbio)
+* Krahn Maximillian, Aalto University (Currently at Harvard medical school, US)
+* Several students, Nanjing University of Information Science and Technology
 * ...
 
 Researchers
