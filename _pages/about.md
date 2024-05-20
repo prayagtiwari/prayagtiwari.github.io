@@ -15,7 +15,7 @@ Research Interest
 ======
 * Artificial Intelligence
    * Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning.
-   * Natural Language Processing (LLMs), Computer Vision, Multimodal and Multisource Learning
+   * Natural Language Processing /LLMs, Computer Vision, Multimodal and Multisource Learning
    * Applications in Healthcare, Bioinformatics, and Intelligent Systems
    * Interpretable, Explainable, and Causal models.
 * Quantum-based models
