@@ -36,3 +36,8 @@ Higher education pedagogical training
 * 4-Week Faculty Induction/Orientation Programme for “Faculty in Universities/Colleges/Institutes of Higher Education”, from 21 November – 20 December 2022, and obtained Grade A+, University of Delhi, India (6 ECTS).
 * HPC workshop “Legally secure examinations – practical solutions”, 2hr, 2023-06-13, Halmstad University.
 * Workshop on “Teaching Assistant as a Learning Instructor", Fall 2021, Aalto University, Finland. 
+
+Research supervisor training
+======
+
+* Doctoral Supervision Course, Examination Date: 2024-05, Halmstad University.
