@@ -11,7 +11,7 @@ redirect_from:
 
 PC Committee
 ======
-* CVPR, KDD, ICLR, COLING, ICDM, ACL, EMNLP, LREC
+* NeurIPS, CVPR, KDD, ICLR, ICDM, ACL, EMNLP, LREC, COLING,
 
 
 Associate & Guest Editor
