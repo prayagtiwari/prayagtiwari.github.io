@@ -58,8 +58,8 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
   * Moreira, C., <b>Tiwari, P.</b>, Pandey, H. M., Bruza, P., & Wichert, A. (2020). [Quantum-like influence diagrams for decision-making](https://www.sciencedirect.com/science/article/pii/S0893608020302501). *Neural Networks*.
   * Upretty S, <b>Tiwari, P.</b>, Dehdashti S, Fell L, Song D, Bruza P, & Melucci M (2020). [Quantum-like structure in multidimensional relevance judgements](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48), *European Conference on Information Retrieval (ECIR)*.
   * <b>Tiwari, P.</b>, & Melucci, M. (2019). [Towards a quantum-inspired binary classifier](https://ieeexplore.ieee.org/abstract/document/8671690). *IEEE Access*.
-* <b>Multimodal Fusion</b>
-  * Zhang, Y., Wang, J., Liu, Y., Rong, L., Zheng, Q., Song, D., <b>Tiwari, P.</b>, & Qin, J. (2023). [A Multitask learning model for multimodal sarcasm, sentiment and emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S1566253523000040). *Information Fusion*.
+* <b>Multimodal/Information Fusion</b>
+ * Qian, Y., Zheng, Z., <b>Tiwari, P.</b>, Ding, Y., & Zou, Q. (2024). [Multiple Kronecker RLS fusion-based link propagation for drug-side effect prediction](https://openreview.net/forum?id=LCPzaR9mML). *TMLR*.
   * Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., <b>Tiwari, P.</b>, & Ding, Y. (2024). [AttentionMGT-DTA: A multi-modal drug-target affinity prediction using graph transformer and attention mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
 * <b>Graph Neural Networks</b>
   * Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). [Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization](https://ieeexplore.ieee.org/document/10227516). *IEEE Journal of Biomedical and Health Informatics*. 
