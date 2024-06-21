@@ -14,8 +14,8 @@ Hi! I’m Prayag, working as an Associate Professor (Senior Lecturer) in Machine
 Research Interest
 ======
 * Artificial Intelligence
-   * Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning.
-   * Natural Language Processing /LLMs, Computer Vision, Multimodal and Multisource Learning
+   * Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning, Feature Selection.
+   * Natural Language Processing /LLMs, Computer Vision, Multimodal and Multisource Fusion
    * Applications in Healthcare, Bioinformatics, and Intelligent Systems
    * Interpretable, Explainable, and Causal models.
 * Quantum-based models
@@ -78,6 +78,6 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼7300, h-index: 38)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼7400, h-index: 38)
   
   
