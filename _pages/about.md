@@ -52,18 +52,18 @@ Selected Articles
 ======
 The topic-wise publication can be found in the [Publication](https://prayagtiwari.github.io/publications/) section, and full publication at [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)
 
-* <b>Quantum</b>
+* <b>Quantum ML</b>
   * <b>Tiwari, P.</b>, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*.
-  * <b>Tiwari, P.</b>, Zhang, L., Qu, Z., & Muhammad, G. (2024). [Quantum Fuzzy Neural Network for Multimodal Sentiment and Sarcasm Detection](https://www.sciencedirect.com/science/article/pii/S1566253523004013). *Information Fusion*. 
+  * <b>Tiwari, P.</b>, Zhang, L., Qu, Z., & Muhammad, G. (2024). [Quantum Fuzzy Neural Network for Multimodal Sentiment and Sarcasm Detection](https://www.sciencedirect.com/science/article/pii/S1566253523004013). *Information Fusion*.
+  * Qu, Z., Zhang, L., & <b>Tiwari, P.</b> (2024). [Quantum Fuzzy Federated Learning for Privacy Protection in Intelligent Information Processing](https://ieeexplore.ieee.org/document/10572363). *IEEE Transactions on Fuzzy Systems*. 
   * Moreira, C., <b>Tiwari, P.</b>, Pandey, H. M., Bruza, P., & Wichert, A. (2020). [Quantum-like influence diagrams for decision-making](https://www.sciencedirect.com/science/article/pii/S0893608020302501). *Neural Networks*.
   * Upretty S, <b>Tiwari, P.</b>, Dehdashti S, Fell L, Song D, Bruza P, & Melucci M (2020). [Quantum-like structure in multidimensional relevance judgements](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_48), *European Conference on Information Retrieval (ECIR)*.
-  * <b>Tiwari, P.</b>, & Melucci, M. (2019). [Towards a quantum-inspired binary classifier](https://ieeexplore.ieee.org/abstract/document/8671690). *IEEE Access*.
 * <b>Multimodal/Information Fusion</b>
-   * Qian, Y., Zheng, Z., <b>Tiwari, P.</b>, Ding, Y., & Zou, Q. (2024). [Multiple Kronecker RLS fusion-based link propagation for drug-side effect prediction](https://openreview.net/forum?id=LCPzaR9mML). *Transactions on Machine Learning Research (TMLR)*.
-    * Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., <b>Tiwari, P.</b>, & Ding, Y. (2024). [AttentionMGT-DTA: A multi-modal drug-target affinity prediction using graph transformer and attention mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
+  * Qian, Y., Zheng, Z., <b>Tiwari, P.</b>, Ding, Y., & Zou, Q. (2024). [Multiple Kronecker RLS fusion-based link propagation for drug-side effect prediction](https://openreview.net/forum?id=LCPzaR9mML). *Transactions on Machine Learning Research (TMLR)*.
+  * Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., <b>Tiwari, P.</b>, & Ding, Y. (2024). [AttentionMGT-DTA: A multi-modal drug-target affinity prediction using graph transformer and attention mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
 * <b>Graph Neural Networks</b>
-  * Xie, Q., <b>Tiwari, P.</b>, & Ananiadou, S. (2023). [Knowledge-enhanced Graph Topic Transformer for Explainable Biomedical Text Summarization](https://ieeexplore.ieee.org/document/10227516). *IEEE Journal of Biomedical and Health Informatics*. 
-  *  Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*. [[Source Code](https://github.com/gorgen2020/SDGCN)] 
+  * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Fernandez, F.A. (2024). [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting](https://arxiv.org/abs/2305.09703). *IEEE Transactions on Neural Networks and Learning Systems*.
+  * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*.
 * <b>(Bio-)NLP</b>
   * Yu, F., Zhang, H., <b>Tiwari, P.</b>, & Wang, B. (2024). [Natural Language Reasoning, A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). *ACM Computing Survey*.  
   * Wang, B., Xie, Q., Pei, J., <b>Tiwari, P.</b>, Li, Z., & Fu, J. (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). *ACM Computing Survey*.  
