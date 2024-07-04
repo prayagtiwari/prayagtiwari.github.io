@@ -24,15 +24,14 @@ Research Interest
    * Quantum Computing applications.
 * Internet of Things
 
-News and Media appearance
+News
 ======
+* <b>[Jun 2024]</b> 1 paper has been accepted by [TMLR](https://openreview.net/forum?id=LCPzaR9mML).
 * <b>[Feb 2024]</b> Promoted to Associate Professor (Senior Lecturer) at Halmstad University, Sweden.
 * <b>[Jan 2024]</b> Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board).
 * <b>[Nov 2023]</b> Editorial Board: Associate Editor of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board).
-* <b>[May 2023]</b> Media appearance: [Aalto University Details Findings in Computing (Eeg Based Emotion Recognition: a Tutorial and Review)](http://ct.moreover.com/?a=50662144070&p=1gw&v=1&x=yV-5EvGDwkc-oCeNkC-VOw) by Computer News Today.
+* <b>[May 2023]</b> 1 paper has been accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/).
 * <b>[May 2023]</b> Media appearance: [Reports from Halmstad University Add New Data to Findings in Cancer Research (Explainable Quantum Clustering Method To Model Medical Data)](http://ct.moreover.com/?a=50846476815&p=1gw&v=1&x=EokuAL7F68AR3cCK32nyQA) by NewsRx Women's Health Daily.
-* <b>[April 2023]</b> Media appearance: [Investigators at Aalto University Report Findings in COVID-19 (Iomt: a Covid-19 Healthcare System Driven By Federated Learning and Blockchain)](http://ct.moreover.com/?a=50490848597&p=1gw&v=1&x=lZza3tspv21w15hKSP0OHQ) by NewsRx COVID-19 Daily.
-* <b>[April 2023]</b> Media appearance: [Findings from Aalto University Broaden Understanding of Machine Learning (Federated-learning Based Privacy Preservation and Fraud-enabled Blockchain Iomt System for Healthcare)](http://ct.moreover.com/?a=50500356797&p=1gw&v=1&x=uJA5AaW5MsshnfC_RyQznA) by Health Policy and Law Daily.
 
 
 
