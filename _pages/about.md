@@ -27,7 +27,7 @@ Research Interest
 News
 ======
 * <b>[Jun 2024]</b> 1 paper has been accepted by [TMLR](https://openreview.net/forum?id=LCPzaR9mML).
-* <b>[May 2024]</b> 1 paper has been accepted by [IEEE TNNLS](https://arxiv.org/abs/2305.09703).
+* <b>[May 2024]</b> 2 papers have been accepted by [IEEE TNNLS](https://arxiv.org/abs/2305.09703) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363).
 * <b>[Feb 2024]</b> Promoted to Associate Professor (Senior Lecturer) at Halmstad University, Sweden.
 * <b>[Jan 2024]</b> Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board).
 * <b>[Nov 2023]</b> Editorial Board: Associate Editor of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board).
@@ -66,6 +66,6 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 Useful Links
 ======
 
-[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼7400, h-index: 38)
+[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼7500, h-index: 38)
   
   
