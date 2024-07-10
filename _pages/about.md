@@ -27,7 +27,7 @@ Research Interest
 News
 ======
 * <b>[Jun 2024]</b> 1 paper has been accepted by [TMLR](https://openreview.net/forum?id=LCPzaR9mML).
-* <b>[May 2024]</b> 2 papers have been accepted by [IEEE TNNLS](https://arxiv.org/abs/2305.09703) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363).
+* <b>[May 2024]</b> 2 papers have been accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363).
 * <b>[Feb 2024]</b> Promoted to Associate Professor (Senior Lecturer) at Halmstad University, Sweden.
 * <b>[Jan 2024]</b> Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board).
 * <b>[Nov 2023]</b> Editorial Board: Associate Editor of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board).
@@ -50,7 +50,7 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
   * Qian, Y., Zheng, Z., <b>Tiwari, P.</b>, Ding, Y., & Zou, Q. (2024). [Multiple Kronecker RLS fusion-based link propagation for drug-side effect prediction](https://openreview.net/forum?id=LCPzaR9mML). *Transactions on Machine Learning Research (TMLR)*.
   * Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., <b>Tiwari, P.</b>, & Ding, Y. (2024). [AttentionMGT-DTA: A multi-modal drug-target affinity prediction using graph transformer and attention mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
 * <b>Graph Neural Networks</b>
-  * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Fernandez, F.A. (2024). [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting](https://arxiv.org/abs/2305.09703). *IEEE Transactions on Neural Networks and Learning Systems*.
+  * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Fernandez, F.A. (2024). [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting](https://ieeexplore.ieee.org/document/10589693). *IEEE Transactions on Neural Networks and Learning Systems*.
   * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*.
 * <b>(Bio-)NLP</b>
   * Yu, F., Zhang, H., <b>Tiwari, P.</b>, & Wang, B. (2024). [Natural Language Reasoning, A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). *ACM Computing Survey*.  
