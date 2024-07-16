@@ -26,6 +26,7 @@ Research Interest
 
 News
 ======
+* <b>[Jul 2024]</b> 1 paper has been accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995).
 * <b>[Jul 2024]</b> 1 paper has been accepted by [TMLR](https://openreview.net/forum?id=LNvbgBFPMt).
 * <b>[Jun 2024]</b> 1 paper has been accepted by [TMLR](https://openreview.net/forum?id=LCPzaR9mML).
 * <b>[May 2024]</b> 2 papers have been accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363).
