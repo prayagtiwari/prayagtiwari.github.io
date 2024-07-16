@@ -52,8 +52,8 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
   * Qian, Y., Zheng, Z., <b>Tiwari, P.</b>, Ding, Y., & Zou, Q. (2024). [Multiple Kronecker RLS fusion-based link propagation for drug-side effect prediction](https://openreview.net/forum?id=LCPzaR9mML). *Transactions on Machine Learning Research (TMLR)*.
   * Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., <b>Tiwari, P.</b>, & Ding, Y. (2024). [AttentionMGT-DTA: A multi-modal drug-target affinity prediction using graph transformer and attention mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
 * <b>Graph Neural Networks</b>
+  * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., & Byttner, S.(2024). [Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://arxiv.org/abs/2405.10995). *CIKM 2024*.
   * Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., Byttner, S., & Fernandez, F.A. (2024). [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting](https://ieeexplore.ieee.org/document/10589693). *IEEE Transactions on Neural Networks and Learning Systems*.
-  * Liang, G., Kintak, U., Ning, X., <b>Tiwari, P.</b>, Nowaczyk, S., & Kumar, N. (2023). [Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/10032116). *IEEE Transactions on Vehicular Technology*.
 * <b>(Bio-)NLP</b>
   * Yu, F., Zhang, H., <b>Tiwari, P.</b>, & Wang, B. (2024). [Natural Language Reasoning, A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). *ACM Computing Survey*.  
   * Wang, B., Xie, Q., Pei, J., <b>Tiwari, P.</b>, Li, Z., & Fu, J. (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). *ACM Computing Survey*.  
