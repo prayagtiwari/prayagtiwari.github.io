@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+
 
 Hi! I’m Prayag, working as an Associate Professor (Senior Lecturer) in Machine Learning at Halmstad University, Sweden.
 
