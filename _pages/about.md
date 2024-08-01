@@ -73,7 +73,7 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 ### Healthcare
 - Li, X., Zhang, Y., **Tiwari, P.**, Song, D., Hu, B., Yang, M., Zhao, Z., Kumar, N., & Marttinen, P. (2022). [EEG Based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/full/10.1145/3524499). *ACM Computing Surveys*.  
 - He, L., Niu, M., **Tiwari, P.**, Marttinen, P., Su, R., Jiang, J., Guo, C., Wang, H., Ding, S., Wang, Pan, X., & Dang, W. (2022). [Deep Learning for Depression Recognition with Audiovisual Cues: A Review](https://www.sciencedirect.com/science/article/pii/S1566253521002207). *Information Fusion*.
-- Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., **Tiwari, P.**, Oussalah, M., & Band, S. S. (2022). [Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with Application in Gene Selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777). *Knowledge-Based Systems*,
+- Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., **Tiwari, P.**, Oussalah, M., & Band, S. S. (2022). [Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with Application in Gene Selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777). *Knowledge-Based Systems*.
 
 ---
 ## Useful Links
