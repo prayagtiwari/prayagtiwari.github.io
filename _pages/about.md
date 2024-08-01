@@ -11,7 +11,11 @@ redirect_from:
 
 
 
+# About Me
+
 Hi! I’m Prayag, working as an Associate Professor (Senior Lecturer) in Machine Learning at Halmstad University, Sweden.
+
+---
 
 ## Research Interest
 
@@ -28,6 +32,8 @@ Hi! I’m Prayag, working as an Associate Professor (Senior Lecturer) in Machine
 
 ### Internet of Things
 
+---
+
 ## News
 - **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)
 - **[Jul 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=LNvbgBFPMt)
@@ -37,6 +43,8 @@ Hi! I’m Prayag, working as an Associate Professor (Senior Lecturer) in Machine
 - **[Jan 2024]** Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)
 - **[Nov 2023]** Editorial Board: Associate Editor of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board)
 - **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)
+
+---
 
 ## Selected Articles
 
@@ -67,8 +75,9 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 ### Healthcare
 - Li, X., Zhang, Y., **Tiwari, P.**, Song, D., Hu, B., Yang, M., Zhao, Z., Kumar, N., & Marttinen, P. (2022). [EEG Based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/full/10.1145/3524499). *ACM Computing Surveys*.  
 - He, L., Niu, M., **Tiwari, P.**, Marttinen, P., Su, R., Jiang, J., Guo, C., Wang, H., Ding, S., Wang, Pan, X., & Dang, W. (2022). [Deep Learning for Depression Recognition with Audiovisual Cues: A Review](https://www.sciencedirect.com/science/article/pii/S1566253521002207). *Information Fusion*.
-- Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., **Tiwari, P.**, Oussalah, M., & Band, S. S. (2022). [Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with Application in Gene Selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777). *Knowledge-Based Systems*, 256, 109884.
+- Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., **Tiwari, P.**, Oussalah, M., & Band, S. S. (2022). [Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with Application in Gene Selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777). *Knowledge-Based Systems*,
 
+---
 ## Useful Links
 
 - [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼7700, h-index: 39)
