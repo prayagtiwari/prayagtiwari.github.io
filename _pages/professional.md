@@ -37,6 +37,7 @@ Reviewer
 * IEEE TPAMI, IEEE TNNLS, IEEE TCB, IEEE IoTJ, IEEE TII, IEEE TCBS, IEEE Access, IEEE TIFS, IEEE TFS, IEEE TAI, IEEE TEM, IEEE TSMC
 * Neural Networks, Information Science, Knowledge-Based Systems, Information Processing and Management, Cells@Pattern
 * ACM Computing Surveys, ACM TOIT, ACM TALLIP
+* Quantum
 * .....
 
 Media appearance
