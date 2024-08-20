@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Hi! I’m Prayag, working as an Associate Professor (Senior Lecturer) in Machine Learning at Halmstad University, Sweden.
+Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halmstad University, Sweden.
 
 ---
 
