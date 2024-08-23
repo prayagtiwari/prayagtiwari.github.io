@@ -55,7 +55,7 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 - Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., **Tiwari, P.**, & Ding, Y. (2024). [AttentionMGT-DTA: A Multi-Modal Drug-Target Affinity Prediction Using Graph Transformer and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
 
 ### Graph Neural Networks
-- Liang, G., **Tiwari, P.**, Nowaczyk, S., & Byttner, S. (2024). [Physics-Incorporated Graph Neural Network for Multivariate Time Series Imputation](https://arxiv.org/abs/2405.10995). *CIKM 2024*.
+- Liang, G., **Tiwari, P.**, Nowaczyk, S., & Byttner, S. (2024). [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://arxiv.org/abs/2405.10995). *CIKM 2024*.
 - Liang, G., **Tiwari, P.**, Nowaczyk, S., Byttner, S., & Fernandez, F. A. (2024). [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-Temporal Forecasting](https://ieeexplore.ieee.org/document/10589693). *IEEE Transactions on Neural Networks and Learning Systems*.
 
 ### (Bio-)NLP
