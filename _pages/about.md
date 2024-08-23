@@ -17,7 +17,7 @@ Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halms
 
 ## Research Interest
 
-### Artificial Intelligence
+
 - Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning, Unsupervised Feature Selection
 - Natural Language Processing, Large Language Models, Computer Vision, Multimodal and Multisource Fusion
 - Applications in Healthcare, Bioinformatics, and Intelligent Systems
