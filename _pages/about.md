@@ -22,6 +22,7 @@ Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halms
 - Natural Language Processing, Large Language Models, Computer Vision, Multimodal and Multisource Fusion
 - Applications in Healthcare, Bioinformatics, and Intelligent Systems
 - Explainable, Interpretable, and Causal Models
+- Internet of Things
 
 
 
