@@ -29,11 +29,12 @@ Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halms
 ---
 
 ## News
+- **[Sept 2024]** Promoted to Associate Professor (Docent) at Halmstad University, Sweden
 - **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)
 - **[Jul 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=LNvbgBFPMt)
 - **[Jun 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=LCPzaR9mML)
 - **[May 2024]** 2 papers accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363)
-- **[Feb 2024]** Promoted to Associate Professor (Senior Lecturer) at Halmstad University, Sweden
+- **[Feb 2024]** Promoted to Senior Lecturer at Halmstad University, Sweden
 - **[Jan 2024]** Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)
 - **[Nov 2023]** Editorial Board: Associate Editor of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board)
 - **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)
@@ -74,4 +75,4 @@ The topic-wise publication can be found in the [Publication](https://prayagtiwar
 ---
 ## Useful Links
 
-- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼8100, h-index: 41)
+- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼8200, h-index: 42)
