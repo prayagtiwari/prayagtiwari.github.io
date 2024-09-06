@@ -29,6 +29,7 @@ Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halms
 ---
 
 ## News
+- **[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden.
 - **[Sept 2024]** Promoted to Associate Professor (Docent) at Halmstad University, Sweden
 - **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)
 - **[Jul 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=LNvbgBFPMt)
