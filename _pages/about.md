@@ -33,8 +33,7 @@ Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halms
 - **[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden.
 - **[Sept 2024]** Promoted to Associate Professor (Docent) at Halmstad University, Sweden
 - **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)
-- **[Jul 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=LNvbgBFPMt)
-- **[Jun 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=LCPzaR9mML)
+- **[Jul 2024]** 2 papers accepted by TMLR ([paper 1](https://openreview.net/forum?id=LNvbgBFPMt), [paper 2](https://openreview.net/forum?id=LCPzaR9mML))
 - **[May 2024]** 2 papers accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363)
 - **[Feb 2024]** Promoted to Senior Lecturer at Halmstad University, Sweden
 - **[Jan 2024]** Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)
