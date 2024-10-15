@@ -8,12 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-New Course Design
-======
-*  Quantum Machine Learning, PhD Course Lecture (7.5 credits), Sept 2024, Halmstad University.
+
 
 Teaching
 ======
+* Quantum Machine Learning, - FOIT019  (PhD level, 7.5 credits), Halmstad University, Sweden, Fall 2024, Role: (Course Responsible)[https://www.hh.se/english/research/doctoral-courses/quantum-machine-learning.html]
 * Artificial Intelligence Course - DT8042 (Master level, 7.5 credits), Halmstad University, Sweden, Fall 2023, Role: Lecturer
 * Data Mining Course - DT8013 (Master level, 7.5 credits), Halmstad University, Sweden, Fall 2022, Role: Lecturer
 * Artificial Intelligence Course - DT8042 (Master level, 7.5 credits), Halmstad University, Sweden, Fall 2022, Role: Lecturer
