@@ -29,6 +29,7 @@ Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halms
 ---
 
 ## News
+- **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)
 - **[Sept 2024]** 1 paper accepted by Nature Biomedical Innovations.
 - **[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden.
 - **[Sept 2024]** Promoted to Associate Professor (Docent) at Halmstad University, Sweden
@@ -76,4 +77,4 @@ Topic-wise publication can be found in the [Publication](https://prayagtiwari.gi
 ---
 ## Useful Links
 
-- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼8700, h-index: 43)
+- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼9000, h-index: 44)
