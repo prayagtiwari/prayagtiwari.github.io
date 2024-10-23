@@ -59,15 +59,15 @@ Topic-wise publication can be found in the [Publication](https://prayagtiwari.gi
 - Wu, H., Liu, J., Jiang, T., Zou, Q., Qi, S., Cui, Z., **Tiwari, P.**, & Ding, Y. (2024). [AttentionMGT-DTA: A Multi-Modal Drug-Target Affinity Prediction Using Graph Transformer and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*. 
 
 ### Graph Neural Networks
-- Liang, G., **Tiwari, P.**, Nowaczyk, S., & Byttner, S. (2024). [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://arxiv.org/abs/2405.10995). *CIKM 2024*.
+- Liang, G., **Tiwari, P.**, Nowaczyk, S., & Byttner, S. (2024). [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://dl.acm.org/doi/10.1145/3627673.3679775). *CIKM 2024*.
 - Liang, G., **Tiwari, P.**, Nowaczyk, S., Byttner, S., & Fernandez, F. A. (2024). [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-Temporal Forecasting](https://ieeexplore.ieee.org/document/10589693). *IEEE Transactions on Neural Networks and Learning Systems*.
 
 ### (Bio-)NLP
+- Zhan, S., Mo, F., **Tiwari, P.**, Wang, B., Li, Q., Nie, JY,. Simonsen, JG. (2024). [Mixture of Latent Experts Using Tensor Products](https://openreview.net/forum?id=SgxeJW4DGk). *Transactions on Machine Learning Research (TMLR)*.
 - Yu, F., Zhang, H., **Tiwari, P.**, & Wang, B. (2024). [Natural Language Reasoning: A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). *ACM Computing Survey*.  
 - Wang, B., Xie, Q., Pei, J., **Tiwari, P.**, Li, Z., & Fu, J. (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). *ACM Computing Survey*.  
 - Gao, Y., Ji, S., Zhang, T., **Tiwari, P.**, & Marttinen, P. (2022). [Contextualized Graph Embeddings for Adverse Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf). In Proceedings of *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*. 
 - Ji, S., Zhang, T., Ansari, L., Fu, J., **Tiwari, P.**, & Cambria, E. (2021). [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). *LREC 2022*.
-- **Tiwari, P.**, Zhu, H., & Pandey, H. M. (2021). [DAPath: Distance-Aware Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S089360802030410X). *Neural Networks*.
 
 ### Healthcare
 - Li, X., Zhang, Y., **Tiwari, P.**, Song, D., Hu, B., Yang, M., Zhao, Z., Kumar, N., & Marttinen, P. (2022). [EEG Based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/full/10.1145/3524499). *ACM Computing Surveys*.  
