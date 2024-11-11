@@ -77,4 +77,4 @@ Topic-wise publication can be found in the [Publication](https://prayagtiwari.gi
 ---
 ## Useful Links
 
-- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼9000, h-index: 45)
+- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼9200, h-index: 45)
