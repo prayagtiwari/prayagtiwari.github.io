@@ -11,41 +11,42 @@ redirect_from:
 
 
 
-Hi! I’m Prayag, working as an Associate Professor in Machine Learning at Halmstad University, Sweden.
+# Welcome!
+
+Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden.
 
 ---
 
-## Research Interest
+## Research Interests
 
-
-- Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning, Unsupervised Feature Selection
-- Natural Language Processing, Large Language Models, Computer Vision, Multimodal and Multisource Fusion
-- Applications in Healthcare, Bioinformatics, and Intelligent Systems
-- Explainable, Interpretable, and Causal Models
-- Internet of Things
-
-
+- **Quantum Machine Learning**, **Deep Learning**, **Graph Neural Networks**, **Federated Learning**, **Reinforcement Learning**, **Unsupervised Feature Selection**  
+- **Natural Language Processing**, **Large Language Models**, **Computer Vision**, **Multimodal and Multisource Fusion**  
+- **Applications**: Healthcare, Bioinformatics, and Intelligent Systems  
+- **Model Design**: Explainable, Interpretable, and Causal Models  
+- **Internet of Things**
 
 ---
 
 ## News
-- **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)
-- **[Sept 2024]** 1 paper accepted by Nature Biomedical Innovations.
-- **[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden.
-- **[Sept 2024]** Promoted to Associate Professor (Docent) at Halmstad University, Sweden
-- **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)
-- **[Jul 2024]** 2 papers accepted by TMLR ([paper 1](https://openreview.net/forum?id=LNvbgBFPMt), [paper 2](https://openreview.net/forum?id=LCPzaR9mML))
-- **[May 2024]** 2 papers accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363)
-- **[Feb 2024]** Promoted to Senior Lecturer at Halmstad University, Sweden
-- **[Jan 2024]** Editorial Board: Associate Editor of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)
-- **[Nov 2023]** Editorial Board: Associate Editor of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board)
-- **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)
+- **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)  
+- **[Sept 2024]** 1 paper accepted by *Nature Biomedical Innovations*  
+- **[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden  
+- **[Sept 2024]** Promoted to **Associate Professor (Docent)** at Halmstad University, Sweden  
+- **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)  
+- **[Jul 2024]** 2 papers accepted by TMLR ([paper 1](https://openreview.net/forum?id=LNvbgBFPMt), [paper 2](https://openreview.net/forum?id=LCPzaR9mML))  
+- **[May 2024]** 2 papers accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363)  
+- **[Feb 2024]** Promoted to **Senior Lecturer** at Halmstad University, Sweden  
+- **[Jan 2024]** Joined the Editorial Board as **Associate Editor** of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)  
+- **[Nov 2023]** Joined the Editorial Board as **Associate Editor** of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board)  
+- **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)  
 
 ---
 
+
 ## Selected Articles
 
-Topic-wise publication can be found in the [Publication](https://prayagtiwari.github.io/publications/) section, and full publication at [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate).
+Explore topic-wise publications in the [Publication Section](https://prayagtiwari.github.io/publications/).  
+For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### Quantum ML
 - **Tiwari, P.**, Dehdashti, S., Safty, KH., Bruza, P., & Notzel, J. (2024). [Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels](https://arxiv.org/abs/2407.13809).
