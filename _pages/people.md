@@ -8,43 +8,50 @@ redirect_from:
 
 {% include base_path %}
 
-PhD students
-======
-* Vincenzo Buono, HU
-* Canberk Özen, HU
-* Talha Hanif Butt, HU
+# Academic Contributions and Collaborations
 
+## PhD Students
+- **Vincenzo Buono** – Halmstad University (HU)  
+- **Canberk Özen** – Halmstad University (HU)  
+- **Talha Hanif Butt** – Halmstad University (HU)  
 
-Master's students
-======
-* Elias Vahlberg, HU
-* Hamed Haghjo, HU
-* Rohullah Khorami, HU (currently Software Engineer at HMS)
-* Fredrik Kortetjarvi, HU (currently Data Scientist at SOS)
-* Mekhti Musaev, Aalto University (Currently Data Scientist at Symbio)
-* Krahn Maximillian, Aalto University (Currently at Harvard medical school, US)
-* Several students, Nanjing University of Information Science and Technology
-* ...
+---
 
-Researchers
-======
-* Guojun Liang, HU
+## Master's Students
+- **Elias Vahlberg** – Halmstad University (HU)  
+- **Hamed Haghjo** – Halmstad University (HU)  
+- **Rohullah Khorami** – Halmstad University (HU)  
+  *Currently: Software Engineer at HMS*  
+- **Fredrik Kortetjarvi** – Halmstad University (HU)  
+  *Currently: Data Scientist at SOS*  
+- **Mekhti Musaev** – Aalto University  
+  *Currently: Data Scientist at Symbio*  
+- **Krahn Maximillian** – Aalto University  
+  *Currently: Researcher at Harvard Medical School, US*  
+- **Several Students** – Nanjing University of Information Science and Technology  
+- ...  
 
+---
 
-Visitors
-======
-* Pedro Foletto Pimenta, UFRGS Federal University
+## Researchers
+- **Guojun Liang** – Halmstad University (HU)  
 
+---
 
-Colloborators
-======
-* Amit Kumar Jaiswal, University College London
-* Shahram Dehdashti, Technical University of Munich
-* Pekka Marttinen, Aalto University
-* Peter Bruza, Queensland University of Technology
-* Benyou Wang, Chinese University of Hong Kong
-* Qianqian Xie, Yale University
-* Qiuchi Li, University of Copenhagen
-* Yijie Ding, University of Electronic Science and Technology of China
-* Xin Ning, Chinese Academy of Sciences
-* ....
+## Visitors
+- **Pedro Foletto Pimenta** – UFRGS Federal University  
+
+---
+
+## Collaborators
+- **Amit Kumar Jaiswal** – University College London  
+- **Shahram Dehdashti** – Technical University of Munich  
+- **Pekka Marttinen** – Aalto University  
+- **Peter Bruza** – Queensland University of Technology  
+- **Benyou Wang** – Chinese University of Hong Kong  
+- **Qianqian Xie** – Yale University  
+- **Qiuchi Li** – University of Copenhagen  
+- **Yijie Ding** – University of Electronic Science and Technology of China  
+- **Xin Ning** – Chinese Academy of Sciences  
+- ...  
+
