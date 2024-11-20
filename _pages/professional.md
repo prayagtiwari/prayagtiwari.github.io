@@ -11,7 +11,7 @@ redirect_from:
 
 # Professional Contributions and Recognitions
 
-## Program Committee (PC) Member
+## PC Member
 - **NeurIPS**, **CVPR**, **KDD**, **ICLR**, **AISTATS**, **ICDM**, **ACL**, **EMNLP**, **LREC**, **COLING**
 
 ---
