@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-# Teaching
 
 ## Courses Taught
 
