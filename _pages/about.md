@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-title: "About me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,6 @@ redirect_from:
 
 
 
-# Welcome!
 
 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden.
 
