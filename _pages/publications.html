@@ -61,8 +61,6 @@ author_profile: true
 
 
 
-<body>
-
     
 <h1 class="topic-title" onclick="toggleContent('quantum-content')">
     Quantum Computing <span class="arrow">&#9660;</span>
@@ -685,20 +683,34 @@ author_profile: true
     </div>
         
         
-<script>
-    function toggleContent(contentId) {
-        const contentElement = document.getElementById(contentId);
-        const arrow = contentElement.previousElementSibling.querySelector('.arrow');
+    <script>
+        function toggleContent(contentId) {
+            const contentElement = document.getElementById(contentId);
+            const arrow = contentElement.previousElementSibling.querySelector("span");
 
-        if (contentElement.style.display === 'none' || !contentElement.style.display) {
-            contentElement.style.display = 'block';
-            arrow.classList.add('rotate');
-        } else {
-            contentElement.style.display = 'none';
-            arrow.classList.remove('rotate');
+            if (contentElement.style.display === "none" || !contentElement.style.display) {
+                contentElement.style.display = "block";
+                arrow.classList.add("rotate");
+            } else {
+                contentElement.style.display = "none";
+                arrow.classList.remove("rotate");
+            }
         }
-    }
-</script>
+
+        // Ensure all content is hidden on page load
+        document.addEventListener("DOMContentLoaded", function () {
+            const allContent = document.querySelectorAll(".topic-content");
+            allContent.forEach((content) => {
+                content.style.display = "none";
+            });
+
+            // Ensure all arrows are reset
+            const allArrows = document.querySelectorAll(".topic-title span");
+            allArrows.forEach((arrow) => {
+                arrow.classList.remove("rotate");
+            });
+        });
+    </script>
 
 
 </body>
