@@ -693,28 +693,37 @@ author_profile: true
         
         
 <script>
+    // Function to toggle content visibility
     function toggleContent(contentId) {
         const contentElement = document.getElementById(contentId);
         const arrow = contentElement.previousElementSibling.querySelector('.arrow');
 
         if (contentElement.style.display === "none" || contentElement.style.display === "") {
-            contentElement.style.display = "block";
+            contentElement.style.display = "block"; // Show the content
             arrow.innerHTML = "&#9650;"; // Upward arrow
         } else {
-            contentElement.style.display = "none";
+            contentElement.style.display = "none"; // Hide the content
             arrow.innerHTML = "&#9660;"; // Downward arrow
         }
     }
 
-    // Ensure all content is hidden by default
+    // Ensure all content is hidden by default on page load
     window.onload = function() {
         const allContent = document.querySelectorAll('.topic-content');
         const allArrows = document.querySelectorAll('.topic-title .arrow');
 
-        allContent.forEach(content => (content.style.display = "none"));
-        allArrows.forEach(arrow => (arrow.innerHTML = "&#9660;")); // Set default downward arrow
+        // Hide all content sections
+        allContent.forEach(content => {
+            content.style.display = "none";
+        });
+
+        // Set all arrows to point downward
+        allArrows.forEach(arrow => {
+            arrow.innerHTML = "&#9660;";
+        });
     };
 </script>
+
 
 </body>
 </html>
