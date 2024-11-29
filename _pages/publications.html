@@ -15,24 +15,45 @@ author_profile: true
     
 <!DOCTYPE html>
 <html lang="en">
-
-    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quantum Computing</title>
+    <title>Publications</title>
     <style>
-        /* Add CSS styles here */
+        /* Style for toggling content visibility */
         .topic-content {
             display: none;
+            margin: 10px 0;
         }
-        /* Style for list items */
-        .topic-content li {
-            font-weight: normal; /* Set font weight to normal */
+
+        /* General styling for headers */
+        h1 {
+            cursor: pointer;
+            margin: 15px 0;
+            font-size: 20px;
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
         }
-        /* Style for your name */
-        .topic-content li b {
-            font-weight: bold; /* Set font weight to bold */
+
+        /* Style for article links */
+        .topic-content a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        .topic-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Style for the toggle arrow */
+        .topic-title span {
+            float: right;
+            font-size: 18px;
+            transition: transform 0.2s ease;
+        }
+
+        .topic-title span.rotate {
+            transform: rotate(180deg);
         }
     </style>
 </head>
@@ -43,8 +64,9 @@ author_profile: true
 <body>
 
     
-    <h1><b>Quantum Computing</b></h1>
-<div class="topic-title" onclick="toggleContent('quantum-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+<h1 class="topic-title" onclick="toggleContent('quantum-content')">
+    Quantum Computing <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="quantum-content">
 
 
@@ -134,9 +156,10 @@ author_profile: true
 
         
 
-    <h1>Multimodal Fusion</h1>
-<div class="topic-title" onclick="toggleContent('Multimodal-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
-<div class="topic-content" id="Multimodal-content">
+<h1 class="topic-title" onclick="toggleContent('multimodal-content')">
+    Multimodal Fusion <span class="arrow">&#9660;</span>
+</h1>
+<div class="topic-content" id="multimodal-content">
 
 <ul>
 
@@ -191,11 +214,13 @@ author_profile: true
         <ul>
     </div>
 
-
-            
-     <h1>Graph Neural Networks</h1>
-<div class="topic-title" onclick="toggleContent('GNN-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+<h1 class="topic-title" onclick="toggleContent('GNN-content')">
+    Graph Neural Networks <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="GNN-content">
+            
+
+    
 <ul>
 <li>
     Liang, G., <b>Tiwari, P.</b>, Nowaczyk, S., & Byttner, S. (2024). Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation. <i>CIKM 2024</i>. <a href="https://arxiv.org/abs/2405.10995">Available online</a>
@@ -244,10 +269,12 @@ author_profile: true
     </div>
 
 
-            
-       <h1>Reinforcement Learning</h1>
-<div class="topic-title" onclick="toggleContent('RL-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+<h1 class="topic-title" onclick="toggleContent('RL-content')">
+    Reinforcement Learning <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="RL-content">
+            
+ 
 <ul>
 
 <li>
@@ -268,12 +295,14 @@ author_profile: true
     <ul>
     </div>
 
+<h1 class="topic-title" onclick="toggleContent('UL-content')">
+    Unsupervised Feature Selection <span class="arrow">&#9660;</span>
+</h1>
+<div class="topic-content" id="UL-content">
 
 
-       <h1>Unsupervised Feature Selection</h1>
-<div class="topic-title" onclick="toggleContent('unsupervised-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
-<div class="topic-content" id="unsupervised-content">
-<ul>
+
+    <ul>
 
 <li>
     <b>Tiwari, P.</b>, Movahed, F. S., Karami, S., Saberi-Movahed, F., Lehmann, J., & Vahdati, S.(2024). A Self-Representation Learning Method for Unsupervised Feature Selection using Feature Space Basis. <i>Transactions on Machine Learning Research (TMLR)</i>. <a href="https://openreview.net/forum?id=LNvbgBFPMt">Available online</a>  <a href=" https://github.com/FaridSaberi/GRSSLFS">Code</a>
@@ -297,11 +326,15 @@ author_profile: true
     </div>
 
         
-
-       <h1>Healthcare</h1>
-<div class="topic-title" onclick="toggleContent('healthcare-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+<h1 class="topic-title" onclick="toggleContent('healthcare-content')">
+    Healthcare <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="healthcare-content">
-<ul>
+
+
+
+
+    <ul>
 
 <li>
     Wang, G., Zhou, M., Ning, X., <b>Tiwari, P.</b>, Zhu, H., Yang, G., & Yap, C. H. (2024). US2Mask: Image-to-mask generation learning via a conditional GAN for cardiac ultrasound image segmentation. <i>Computers in Biology and Medicine</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0010482524003664">Available online</a>
@@ -438,11 +471,15 @@ author_profile: true
     </div>
 
 
-
-       <h1>Bioinformatics</h1>
-<div class="topic-title" onclick="toggleContent('bioinformatics-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+<h1 class="topic-title" onclick="toggleContent('bioinformatics-content')">
+    Bioinformatics <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="bioinformatics-content">
-<ul>
+        
+
+
+
+    <ul>
     <li>
     Qian, Y., Zheng, Z., <b>Tiwari, P.</b>, Ding, Y., Zou, Q. (2024). Multiple Kronecker RLS fusion-based link propagation for drug-side effect prediction. <i>Transactions on Machine Learning Research (TMLR)</i>. <a href="https://openreview.net/forum?id=LCPzaR9mML&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">Available online</a>  <a href="https://github.com/QYuQing/MKronRLSF-LP">Code</a>
     </li> 
@@ -507,9 +544,13 @@ author_profile: true
         
 
 
-       <h1>Natural Language Processing</h1>
-<div class="topic-title" onclick="toggleContent('NLP-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+<h1 class="topic-title" onclick="toggleContent('NLP-content')">
+    Natural Language Processing <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="NLP-content">
+
+        
+
 
 <ul>
     
@@ -579,9 +620,12 @@ author_profile: true
     </div>
 
 
-           <h1>Computer Vision</h1>
-<div class="topic-title" onclick="toggleContent('cv-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+<h1 class="topic-title" onclick="toggleContent('cv-content')">
+   Computer Vision <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="cv-content">
+
+        
 
 <ul>
     
@@ -612,9 +656,14 @@ author_profile: true
     </div>
 
 
-               <h1>Intelligent System</h1>
-<div class="topic-title" onclick="toggleContent('intelligent-content')">Click to Show/Hide Content <span class="arrow">&#9660;</span></div>
+
+<h1 class="topic-title" onclick="toggleContent('intelligent-content')">
+   Intelligent System <span class="arrow">&#9660;</span>
+</h1>
 <div class="topic-content" id="intelligent-content">
+    
+        
+
 
 <ul>
     <li>
@@ -636,16 +685,20 @@ author_profile: true
     </div>
         
         
-    <script>
-        function toggleContent(contentId) {
-            var contentElement = document.getElementById(contentId);
+<script>
+    function toggleContent(contentId) {
+        const contentElement = document.getElementById(contentId);
+        const arrow = contentElement.previousElementSibling.querySelector('.arrow');
 
-            if (contentElement.style.display === "none" || contentElement.style.display === "") {
-                contentElement.style.display = "block";
-            } else {
-                contentElement.style.display = "none";
-            }
+        if (contentElement.style.display === 'none' || !contentElement.style.display) {
+            contentElement.style.display = 'block';
+            arrow.classList.add('rotate');
+        } else {
+            contentElement.style.display = 'none';
+            arrow.classList.remove('rotate');
         }
-    </script>
+    }
+</script>
+
 </body>
 </html>
