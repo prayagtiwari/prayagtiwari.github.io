@@ -20,42 +20,49 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Publications</title>
     <style>
-        /* Style for toggling content visibility */
-        .topic-content {
-            display: none;
-            margin: 10px 0;
-        }
+    /* General styling for headers */
+    h1 {
+        cursor: pointer;
+        margin: 15px 0;
+        font-size: 20px;
+        color: #2c3e50;
+        border-bottom: 2px solid #3498db;
+        font-weight: bold;
+    }
 
-        /* General styling for headers */
-        h1 {
-            cursor: pointer;
-            margin: 15px 0;
-            font-size: 20px;
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-        }
+    /* Style for publication content */
+    .topic-content li {
+        font-weight: normal; /* Ensure content text is not bold */
+        margin-bottom: 10px;
+    }
 
-        /* Style for article links */
-        .topic-content a {
-            color: #3498db;
-            text-decoration: none;
-        }
+    /* Make specific parts of the content bold */
+    .topic-content li b {
+        font-weight: bold; /* Author names in bold */
+    }
 
-        .topic-content a:hover {
-            text-decoration: underline;
-        }
+    /* Style for links */
+    .topic-content a {
+        color: #3498db;
+        text-decoration: none;
+    }
 
-        /* Style for the toggle arrow */
-        .topic-title span {
-            float: right;
-            font-size: 18px;
-            transition: transform 0.2s ease;
-        }
+    .topic-content a:hover {
+        text-decoration: underline;
+    }
 
-        .topic-title span.rotate {
-            transform: rotate(180deg);
-        }
-    </style>
+    /* Style for the toggle arrow */
+    .topic-title span {
+        float: right;
+        font-size: 18px;
+        transition: transform 0.2s ease;
+    }
+
+    .topic-title span.rotate {
+        transform: rotate(180deg);
+    }
+</style>
+
 </head>
 
 
