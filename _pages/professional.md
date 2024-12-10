@@ -37,17 +37,17 @@ redirect_from:
   *"[Zero Trust Edge and Federated Learning for Consumer Internet of Things](https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/February_2024/TCE_SS_CFP_Zero_Trust_Edge_and_Federated_Learning_for_Consumer_Internet_of_Things.pdf)"*  
   **IEEE Transactions on Consumer Electronics** *(Impact Factor: 4.3)*
 
-- **[May 2023]** Call for papers:  
+- ~~**[May 2023]** Call for papers:  
   *"[Transformer Models for Multi-source Visual Fusion and Understanding](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#transformer-models-for-multi-source-visual-fusion-and-understanding)"*  
-  **Information Fusion**, Elsevier *(Impact Factor: 17.564)*
+  **Information Fusion**, Elsevier *(Impact Factor: 17.564)*~~
 
-- **[June 2023]** Call for papers:  
+- ~~**[June 2023]** Call for papers:  
   *"[Human-oriented 3D Vision in the Metaverse](https://www.sciencedirect.com/journal/image-and-vision-computing/about/call-for-papers#human-oriented-3d-vision-in-the-metaverse)"*  
-  **Image and Vision Computing**, Elsevier *(Impact Factor: 3.86)*
+  **Image and Vision Computing**, Elsevier *(Impact Factor: 3.86)*~~
 
-- **[June 2023]** Call for papers:  
+- ~~**[June 2023]** Call for papers:  
   *"[Visual Processing Techniques in Harsh Environments](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation/about/call-for-papers#visual-processing-techniques-in-harsh-environments)"*  
-  **Journal of Visual Communication and Image Representation**, Elsevier *(Impact Factor: 2.6)*
+  **Journal of Visual Communication and Image Representation**, Elsevier *(Impact Factor: 2.6)*~~
 
 ---
 
