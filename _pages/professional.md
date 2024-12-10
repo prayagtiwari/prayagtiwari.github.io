@@ -28,6 +28,11 @@ redirect_from:
 ---
 
 ## Call for Papers
+- **[Dec 2024]** Call for papers:  
+  *"[Special Session: Quantum Machine Learning Algorithms and Applications](https://sites.google.com/view/qml-ijcnn-2025/home)"*  
+  **IJCNN 2025 Special Session**
+  **Submission Deadline: January 15, 2025**
+
 - **[Feb 2024]** Call for papers:  
   *"[Zero Trust Edge and Federated Learning for Consumer Internet of Things](https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/February_2024/TCE_SS_CFP_Zero_Trust_Edge_and_Federated_Learning_for_Consumer_Internet_of_Things.pdf)"*  
   **IEEE Transactions on Consumer Electronics** *(Impact Factor: 4.3)*
