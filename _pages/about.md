@@ -30,7 +30,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 - **[Dec 2024]** 1 paper accepted by *AAAI 2024* 
 - **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)  
 - **[Sept 2024]** 1 paper accepted by *Nature Biomedical Innovations*  
-- ~~ **[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden~~  
+- ~~**[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden~~ 
 - **[Sept 2024]** Promoted to **Associate Professor (Docent)** at Halmstad University, Sweden  
 - **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)  
 - **[Jul 2024]** 2 papers accepted by TMLR ([paper 1](https://openreview.net/forum?id=LNvbgBFPMt), [paper 2](https://openreview.net/forum?id=LCPzaR9mML))  
