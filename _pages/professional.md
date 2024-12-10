@@ -33,9 +33,9 @@ redirect_from:
   **IJCNN 2025 Special Session**, 
   **Submission Deadline: January 15, 2025**
 
-- **[Feb 2024]** Call for papers:  
+- ~~**[Feb 2024]** Call for papers:  
   *"[Zero Trust Edge and Federated Learning for Consumer Internet of Things](https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/February_2024/TCE_SS_CFP_Zero_Trust_Edge_and_Federated_Learning_for_Consumer_Internet_of_Things.pdf)"*  
-  **IEEE Transactions on Consumer Electronics** *(Impact Factor: 4.3)*
+  **IEEE Transactions on Consumer Electronics** *(Impact Factor: 4.3)*~~
 
 - ~~**[May 2023]** Call for papers:  
   *"[Transformer Models for Multi-source Visual Fusion and Understanding](https://www.sciencedirect.com/journal/information-fusion/about/call-for-papers#transformer-models-for-multi-source-visual-fusion-and-understanding)"*  
