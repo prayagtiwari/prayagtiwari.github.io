@@ -30,7 +30,7 @@ redirect_from:
 ## Call for Papers
 - **[Dec 2024]** Call for papers:  
   *"[Special Session: Quantum Machine Learning Algorithms and Applications](https://sites.google.com/view/qml-ijcnn-2025/home)"*  
-  **IJCNN 2025 Special Session**
+  **IJCNN 2025 Special Session**, 
   **Submission Deadline: January 15, 2025**
 
 - **[Feb 2024]** Call for papers:  
