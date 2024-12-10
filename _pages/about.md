@@ -49,7 +49,8 @@ Explore topic-wise publications in the [Publication Section](https://prayagtiwar
 For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### Quantum ML
-- **Tiwari, P.**, Dehdashti, S., Safty, KH., Bruza, P., & Notzel, J. (2024). [Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels](https://arxiv.org/abs/2407.13809).
+- **Tiwari, P.**, Dehdashti, S., Safty, KH., Bruza, P., & Notzel, J. (2025). [Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels](https://arxiv.org/abs/2407.13809).
+- Yao, B., **Tiwari, P.**, Li, Q. (2025). [Self-supervised pre-trained neural network for quantum natural language processing](https://www.sciencedirect.com/science/article/abs/pii/S089360802400933X). *Neural Networks*.
 - **Tiwari, P.**, Dehdashti, S., Obeid, A. K., Marttinen, P., & Bruza, P. (2022). [Kernel Method based on Non-Linear Coherent States in Quantum Feature Space](https://iopscience.iop.org/article/10.1088/1751-8121/ac818e). *Journal of Physics A: Mathematical and Theoretical*.
 - **Tiwari, P.**, Zhang, L., Qu, Z., & Muhammad, G. (2024). [Quantum Fuzzy Neural Network for Multimodal Sentiment and Sarcasm Detection](https://www.sciencedirect.com/science/article/pii/S1566253523004013). *Information Fusion*.
 - Qu, Z., Zhang, L., & **Tiwari, P.** (2024). [Quantum Fuzzy Federated Learning for Privacy Protection in Intelligent Information Processing](https://ieeexplore.ieee.org/document/10572363). *IEEE Transactions on Fuzzy Systems*.
