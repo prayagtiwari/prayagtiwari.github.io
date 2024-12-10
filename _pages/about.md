@@ -80,4 +80,4 @@ For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=e
 ---
 ## Useful Links
 
-- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼9400, h-index: 46)
+- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼9600, h-index: 46)
