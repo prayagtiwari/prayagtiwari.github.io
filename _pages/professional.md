@@ -12,7 +12,7 @@ redirect_from:
 # Professional Contributions and Recognitions
 
 ## PC Member
-- **NeurIPS**, **CVPR**, **KDD**, **ICLR**, **AISTATS**, **ICDM**, **ACL**, **EMNLP**, **LREC**, **COLING**
+- **NeurIPS**, **ICLR**, **ICML**, **CVPR**, **KDD**, **AISTATS**, **ICDM**, **ACL**, **EMNLP**, **LREC**, **COLING**
 
 ---
 
