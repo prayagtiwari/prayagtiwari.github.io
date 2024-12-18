@@ -20,6 +20,10 @@ redirect_from:
 
 ### Master Level
 - **Artificial Intelligence Course** (DT8042) – 7.5 credits  
+  **Halmstad University, Sweden** – Fall 2024  
+  Role: Lecturer
+  
+- **Artificial Intelligence Course** (DT8042) – 7.5 credits  
   **Halmstad University, Sweden** – Fall 2023  
   Role: Lecturer
 
