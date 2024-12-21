@@ -27,6 +27,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ---
 
 ## News
+- **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://arxiv.org/abs/2409.08917)
 - **[Dec 2024]** 1 paper accepted by *AAAI 2025*
 - **[Dec 2024]** Special Session: [Quantum Machine Learning Algorithms and Applications, IJCNN 2025](https://sites.google.com/view/qml-ijcnn-2025/home)
 - **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)  
