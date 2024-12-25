@@ -4,13 +4,6 @@ layout: archive
 title: "Welcome!"
 excerpt: "About me"
 author_profile: true
-header:
-  image: /images/profile.png # Replace with your image path
-  image_description: "A brief description of your banner image"
-  # Optional: Add text overlay
-  # overlay_color: "#000"
-  # overlay_filter: "0.5" # Adjust opacity
-  # overlay_text: "Your Name or a Catchy Title"
 redirect_from: 
   - /about/
   - /about.html
