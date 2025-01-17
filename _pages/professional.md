@@ -17,7 +17,8 @@ redirect_from:
 ---
 
 ## Associate & Guest Editor
-- **Neural Networks**, Elsevier  
+- **Neural Networks**, Elsevier
+- **IEEE Transactions on Fuzzy Systems**
 - **Information Fusion**, Elsevier  
 - **Alexandria Engineering Journal**, Elsevier  
 - **IEEE Transactions on Consumer Electronics**  
@@ -52,7 +53,7 @@ redirect_from:
 ---
 
 ## Reviewer
-- **Journals**: Nature Communication, Nature Precision Oncology, Quantum Machine Intelligence, Scientific Reports, NCAA  
+- **Journals**: Nature Communication, Nature Precision Oncology,  Nature Digital Medicine, Quantum Machine Intelligence, Scientific Reports, NCAA  
 - **IEEE**: TPAMI, TNNLS, TCB, IoTJ, TII, TCBS, Access, TIFS, TFS, TAI, TEM, TSMC  
 - **Elsevier**: Neural Networks, Information Science, Knowledge-Based Systems, Information Processing and Management, Cells@Pattern  
 - **ACM**: Computing Surveys, TOIT, TALLIP  
