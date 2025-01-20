@@ -27,6 +27,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ---
 
 ## News
+- **[Jan 2025]** 2 papers accepted by *WWW 2025*
 - **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
 - **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://arxiv.org/abs/2409.08917)
 - **[Dec 2024]** 1 paper accepted by *AAAI 2025*
@@ -82,4 +83,4 @@ For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=e
 ---
 ## Useful Links
 
-- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼10000, h-index: 47)
+- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼10200, h-index: 48)
