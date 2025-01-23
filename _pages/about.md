@@ -27,6 +27,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ---
 
 ## News
+- **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://arxiv.org/abs/2405.08460)
 - **[Jan 2025]** 2 papers accepted by *WWW 2025*
 - **[Jan 2025]** Workshop: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
 - **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
