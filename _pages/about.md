@@ -54,7 +54,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ## Selected Articles
 
 Explore topic-wise publications in the [Publication Section](https://prayagtiwari.github.io/publications/).  
-For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate).
+For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) **(Citations: ∼11100, h-index: 50)**
 
 ### Quantum ML
 - **Tiwari, P.**, Dehdashti, S., Safty, KH., Bruza, P., & Notzel, J. (2025). [Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels](https://arxiv.org/abs/2407.13809).
@@ -84,7 +84,3 @@ For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=e
 - He, L., Niu, M., **Tiwari, P.**, Marttinen, P., Su, R., Jiang, J., Guo, C., Wang, H., Ding, S., Wang, Pan, X., & Dang, W. (2022). [Deep Learning for Depression Recognition with Audiovisual Cues: A Review](https://www.sciencedirect.com/science/article/pii/S1566253521002207). *Information Fusion*.
 - Saberi-Movahed, F., Rostami, M., Berahmand, K., Karami, S., **Tiwari, P.**, Oussalah, M., & Band, S. S. (2022). [Dual Regularized Unsupervised Feature Selection Based on Matrix Factorization and Minimum Redundancy with Application in Gene Selection](https://www.sciencedirect.com/science/article/pii/S0950705122009777). *Knowledge-Based Systems*.
 
----
-## Useful Links
-
-- [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼11100, h-index: 50)
