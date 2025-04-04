@@ -54,7 +54,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ## Selected Articles
 
 Explore topic-wise publications in the [Publication Section](https://prayagtiwari.github.io/publications/).  
-For a full list, visit [Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) **(Citations: ∼11200, h-index: 50)**
+For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)(Citations: ∼11200, h-index: 50)**
 
 ### Quantum ML
 - **Tiwari, P.**, Dehdashti, S., Safty, KH., Bruza, P., & Notzel, J. (2025). [Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels](https://arxiv.org/abs/2407.13809).
