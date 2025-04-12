@@ -27,7 +27,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ---
 
 ## News
-- **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)
+- **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://cvpr.thecvf.com/virtual/2025/poster/32900)
 - **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://arxiv.org/abs/2405.08460)
 - **[Jan 2025]** 2 papers accepted by *WWW 2025* ([preprint 1](https://arxiv.org/abs/2402.07470), [preprint 2](https://arxiv.org/abs/2409.12739))
 - **[Jan 2025]** Workshop: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
