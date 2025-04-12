@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼11200, H-index: 50)** for my research publications.
+Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼11300, H-index: 50)** for my research publications.
 
 ---
 
@@ -34,7 +34,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 - **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
 - **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home)
 - **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://arxiv.org/abs/2409.08917)
-- **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://arxiv.org/abs/2504.02454)
+- **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32810)
 - ~~**[Dec 2024]** Special Session: [Quantum Machine Learning Algorithms and Applications, IJCNN 2025](https://sites.google.com/view/qml-ijcnn-2025/home)~~
 - **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)  
 - **[Sept 2024]** 1 paper accepted by [Nature Biomedical Innovations](https://www.nature.com/articles/s44385-024-00003-9)  
