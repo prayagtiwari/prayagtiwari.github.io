@@ -29,7 +29,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ## News
 - **[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
 - **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://cvpr.thecvf.com/virtual/2025/poster/32900)
-- **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://arxiv.org/abs/2405.08460)
+- **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)
 - **[Jan 2025]** 2 papers accepted by *WWW 2025* ([paper 1](https://arxiv.org/abs/2402.07470), [paper 2](https://arxiv.org/abs/2409.12739))
 - **[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
 - **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
