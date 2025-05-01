@@ -34,7 +34,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 - **[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
 - **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
 - **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home)
-- **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://arxiv.org/abs/2409.08917)
+- **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888912/)
 - **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32810)
 - ~~**[Dec 2024]** Special Session: [Quantum Machine Learning Algorithms and Applications, IJCNN 2025](https://sites.google.com/view/qml-ijcnn-2025/home)~~
 - **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)  
