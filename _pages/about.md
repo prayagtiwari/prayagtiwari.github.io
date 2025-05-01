@@ -27,7 +27,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ---
 
 ## News
-- **[May 2025]** 2 paper accepted by  *ICML 2025*
+- **[May 2025]** 2 papers accepted by  [ICML 2025](https://icml.cc/Conferences/2025)
 - **[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
 - **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://cvpr.thecvf.com/virtual/2025/poster/32900)
 - **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)
