@@ -82,7 +82,7 @@ For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl
 
 
 ### Healthcare & Bioinformatics
-- Qian Y., Zheng Z., **Tiwari P.**, Ding Y., & Zou Q. (2024). [Multiple Kronecker RLS Fusion-Based Link Propagation for Drug-Side Effect Prediction](https://openreview.net/forum?id=LCPzaR9mML). *Transactions on Machine Learning Research (TMLR)*.
+- Qian Y., Zheng Z., **Tiwari P.**, Ding Y., & Zou Q. (2024). [Multiple Kronecker RLS Fusion-Based Link Propagation for Drug-Side Effect Prediction](https://openreview.net/forum?id=LCPzaR9mML). *TMLR 2024*.
 - Wu H., Liu J., Jiang T., Zou Q., Qi S., Cui Z., **Tiwari P.**, & Ding Y. (2024). [AttentionMGT-DTA: A Multi-Modal Drug-Target Affinity Prediction Using Graph Transformer and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). *Neural Networks*.
 - Wang B., Xie Q., Pei J., **Tiwari P.**, Li Z., Fu J. (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). *ACM Computing Survey*.  
 - Li X., Zhang Y., **Tiwari P.**, Song D., Hu B., Yang M., Zhao Z., Kumar N., Marttinen P. (2022). [EEG Based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/full/10.1145/3524499). *ACM Computing Surveys*. 
