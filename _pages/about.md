@@ -60,12 +60,12 @@ For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl
 
 
 ### Large Language Models, Computer Vision & Multimodal Learning
-- Wang C., Fang X., **Tiwari P.** (2025). [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
-- Wang C., He S., Fang X., Han J., Liu Z., Ning X., Li W., **Tiwari P.** (2025). [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **CVPR 2025**.
-- Wang C., He S., Fang X., Wu M., Lam SK., **Tiwari P.** (2025). [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
-- Zhu C., Chen N., Gao Y., Zhang Y., **Tiwari P.**, Wang B. (2025). [Is Your LLM Outdated? A Deep Look at Temporal Generalization](https://aclanthology.org/2025.naacl-long.381/).  **NAACL 2025**.
-- Zhan S., Mo F., **Tiwari P.**, Wang B., Li Q., Nie JY,. Simonsen JG. (2024). [Mixture of Latent Experts Using Tensor Products](https://openreview.net/forum?id=SgxeJW4DGk). **TMLR 2024**.
-- Yu F., Zhang H., **Tiwari P.**, & Wang B. (2024). [Natural Language Reasoning: A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). **ACM Computing Survey**.  
+- Wang C., Fang X., **Tiwari P.** [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
+- Wang C., He S., Fang X., Han J., Liu Z., Ning X., Li W., **Tiwari P.** [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **CVPR 2025**.
+- Wang C., He S., Fang X., Wu M., Lam SK., **Tiwari P.** [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
+- Zhu C., Chen N., Gao Y., Zhang Y., **Tiwari P.**, Wang B. [Is Your LLM Outdated? A Deep Look at Temporal Generalization](https://aclanthology.org/2025.naacl-long.381/).  **NAACL 2025**.
+- Zhan S., Mo F., **Tiwari P.**, Wang B., Li Q., Nie JY,. Simonsen JG. [Mixture of Latent Experts Using Tensor Products](https://openreview.net/forum?id=SgxeJW4DGk). **TMLR 2024**.
+- Yu F., Zhang H., **Tiwari P.**, & Wang B. [Natural Language Reasoning: A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). **ACM Computing Survey 2024**.  
 
 
 ### Quantum ML
