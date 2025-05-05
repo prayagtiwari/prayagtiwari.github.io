@@ -68,7 +68,7 @@ For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl
 - Yu F., Zhang H., **Tiwari P.**, & Wang B. [Natural Language Reasoning: A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). **ACM Computing Survey 2024**.
 - Ji S., Zhang T., Ansari L., Fu J., **Tiwari P.**, Cambria E. (2021). [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). **LREC 2022**.
 
-### Graph Neural Networks & Diffusion Models
+### Graph Neural Networks
 - Wang Y., Tan S., Shen J., Xu Y., Song H., Xu Q., **Tiwari P.**, Xu M. [Enhancing Graph Contrastive Learning for Protein Graphs from Perspective of Invariance](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
 - Liang G, Abiri N, Hashemi AS, Lundström J, Byttner S, **Tiwari P.** [Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/10888912/). **ICASSP 2025**.
 - Liang G., **Tiwari P.**, Nowaczyk S., & Byttner S. (2024). [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://dl.acm.org/doi/10.1145/3627673.3679775). **CIKM 2024**.
