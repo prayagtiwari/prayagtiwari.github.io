@@ -58,8 +58,6 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 Explore topic-wise publications in the [Publication Section](https://prayagtiwari.github.io/publications/).  
 For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)**
 
-_Quick links:_ [LLMs & Vision](#large-language-models-computer-vision--multimodal-learning) · [GNNs](#graph-neural-networks) · [Quantum ML](#quantum-ml) · [Healthcare](#healthcare--bioinformatics)
-
 
 ### 🔹Large Language Models, Computer Vision & Multimodal Learning
 - Wang C, Fang X, **Tiwari P** [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
