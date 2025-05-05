@@ -58,7 +58,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 For a full publications list, visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)**
 
 
-### 🔹Large Language Models, Computer Vision & Multimodal Learning
+### 🔹 Large Language Models, Computer Vision & Multimodal Learning
 - Wang C, Fang X, **Tiwari P** [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
 - Wang C, He S, Fang X, Han J, Liu Z, Ning X, Li W, **Tiwari P** [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **CVPR 2025**.
 - Wang C, He S, Fang X, Wu M, Lam SK, **Tiwari P** [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
@@ -66,7 +66,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 - Zhan S, Mo F, **Tiwari P**, Wang B, Li Q, Nie JY, Simonsen JG [Mixture of Latent Experts Using Tensor Products](https://openreview.net/forum?id=SgxeJW4DGk). **TMLR 2024**.
 - Yu F, Zhang H, **Tiwari P**, & Wang B [Natural Language Reasoning: A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). **ACM Computing Survey 2024**.
 
-### 🔹Graph Neural Networks
+### 🔹 Graph Neural Networks
 - Wang Y, Tan S, Shen J, Xu Y, Song H, Xu Q, **Tiwari P**, Xu M [Enhancing Graph Contrastive Learning for Protein Graphs from Perspective of Invariance](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
 - Liang G, Abiri N, Hashemi AS, Lundström J, Byttner S, **Tiwari P** [Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/10888912/). **ICASSP 2025**.
 - Liang G, **Tiwari P**, Nowaczyk S, & Byttner S (2024) [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://dl.acm.org/doi/10.1145/3627673.3679775). **CIKM 2024**.
