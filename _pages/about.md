@@ -55,8 +55,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 
 ## Selected Articles
 
-Explore topic-wise publications in the [Publication Section](https://prayagtiwari.github.io/publications/).  
-For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)**
+For a full publications list, visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)**
 
 
 ### 🔹Large Language Models, Computer Vision & Multimodal Learning
