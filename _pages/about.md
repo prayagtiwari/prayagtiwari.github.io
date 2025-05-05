@@ -66,7 +66,7 @@ For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl
 - Zhu C., Chen N., Gao Y., Zhang Y., **Tiwari P.**, Wang B. [Is Your LLM Outdated? A Deep Look at Temporal Generalization](https://aclanthology.org/2025.naacl-long.381/).  **NAACL 2025**.
 - Zhan S., Mo F., **Tiwari P.**, Wang B., Li Q., Nie JY,. Simonsen JG. [Mixture of Latent Experts Using Tensor Products](https://openreview.net/forum?id=SgxeJW4DGk). **TMLR 2024**.
 - Yu F., Zhang H., **Tiwari P.**, & Wang B. [Natural Language Reasoning: A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). **ACM Computing Survey 2024**.
-- Ji S., Zhang T., Ansari L., Fu J., **Tiwari P.**, Cambria E. (2021). [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). **LREC 2022**.
+
 
 ### Graph Neural Networks
 - Wang Y., Tan S., Shen J., Xu Y., Song H., Xu Q., **Tiwari P.**, Xu M. [Enhancing Graph Contrastive Learning for Protein Graphs from Perspective of Invariance](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
@@ -87,4 +87,5 @@ For a full list, visit **[Google Scholar](https://scholar.google.it/citations?hl
 - Liao Q, Zhang Y, Chu Y, Ding Y, Liu Z, Zhao X, Wang Y, Wan J, Ding Y, **Tiwari P.**, Zou Q . (2025). [Application of Artificial Intelligence In Drug-target Interactions Prediction: A Review](https://www.nature.com/articles/s44385-024-00003-9). **Nature Biomedical Innovations**.
 - Wu H., Liu J., Jiang T., Zou Q., Qi S., Cui Z., **Tiwari P.**, & Ding Y. (2024). [AttentionMGT-DTA: A Multi-Modal Drug-Target Affinity Prediction Using Graph Transformer and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). **Neural Networks**.
 - Wang B., Xie Q., Pei J., **Tiwari P.**, Li Z., Fu J. (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). **ACM Computing Survey**.  
-- Li X., Zhang Y., **Tiwari P.**, Song D., Hu B., Yang M., Zhao Z., Kumar N., Marttinen P. (2022). [EEG Based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/full/10.1145/3524499). **ACM Computing Surveys**. 
+- Li X., Zhang Y., **Tiwari P.**, Song D., Hu B., Yang M., Zhao Z., Kumar N., Marttinen P. (2022). [EEG Based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/full/10.1145/3524499). **ACM Computing Surveys**.
+- Ji S., Zhang T., Ansari L., Fu J., **Tiwari P.**, Cambria E. (2021). [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). **LREC 2022**.
