@@ -19,7 +19,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ## Research Interests
 
 - **Quantum Machine Learning**, **Deep Learning**, **Graph Neural Networks**, **Federated Learning**, **Reinforcement Learning**, **Unsupervised Feature Selection**  
-- **Large Language Models**, **Computer Vision**, **Multimodal and Multisource Fusion**  
+- **Large Language Models**, **Computer Vision**, **Multimodal and Multisource Learning**  
 - **Applications**: Healthcare, Bioinformatics, and Intelligent Systems  
 - **Model Design**: Explainable, Interpretable, and Causal Models  
 - **Internet of Things**
