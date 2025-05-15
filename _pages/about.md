@@ -59,7 +59,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 
 
 ### 🔹 Large Language Models, Computer Vision & Multimodal Learning
-- Wang C, Fang X, **Tiwari P**. [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
+- Wang C, Fang X, **Tiwari P**. [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://icml.cc/virtual/2025/poster/46124).  **ICML 2025**.
 - Wang C, He S, Fang X, Han J, Liu Z, Ning X, Li W, **Tiwari P**. [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **CVPR 2025**.
 - Wang C, He S, Fang X, Wu M, Lam SK, **Tiwari P**. [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
 - Zhu C, Chen N, Gao Y, Zhang Y, **Tiwari P**, Wang B. [Is Your LLM Outdated? A Deep Look at Temporal Generalization](https://aclanthology.org/2025.naacl-long.381/).  **NAACL 2025**.
@@ -67,7 +67,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 - Yu F, Zhang H, **Tiwari P**, & Wang B. [Natural Language Reasoning: A Survey](https://dl.acm.org/doi/abs/10.1145/3664194). **ACM Computing Survey 2024**.
 
 ### 🔹 Graph Neural Networks
-- Wang Y, Tan S, Shen J, Xu Y, Song H, Xu Q, **Tiwari P**, Xu M. [Enhancing Graph Contrastive Learning for Protein Graphs from Perspective of Invariance](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **ICML 2025**.
+- Wang Y, Tan S, Shen J, Xu Y, Song H, Xu Q, **Tiwari P**, Xu M. [Enhancing Graph Contrastive Learning for Protein Graphs from Perspective of Invariance](https://icml.cc/virtual/2025/poster/44491).  **ICML 2025**.
 - Liang G, Abiri N, Hashemi AS, Lundström J, Byttner S, **Tiwari P**. [Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/10888912/). **ICASSP 2025**.
 - Liang G, **Tiwari P**, Nowaczyk S, Byttner S. [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://dl.acm.org/doi/10.1145/3627673.3679775). **CIKM 2024**.
 - Liang G, **Tiwari P**, Nowaczyk S, Byttner S, Fernandez FA. [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-Temporal Forecasting](https://ieeexplore.ieee.org/document/10589693). **IEEE TNNLS**.
