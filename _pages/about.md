@@ -29,7 +29,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ## News
 - **[May 2025]** 2 papers accepted by   **ICML 2025** ([paper 1](https://icml.cc/virtual/2025/poster/46124), [paper 2](https://icml.cc/virtual/2025/poster/44491))
 - **[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
-- **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://cvpr.thecvf.com/virtual/2025/poster/32900)
+- **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html)
 - **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)
 - **[Jan 2025]** 3 papers accepted by **WWW 2025** ([paper 1](https://dl.acm.org/doi/10.1145/3701716.3715528), [paper 2](https://dl.acm.org/doi/10.1145/3701716.3715518), [paper 3](https://dl.acm.org/doi/10.1145/3701716.3717752))
 - **[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
@@ -60,7 +60,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 
 ### 🔹 Large Language Models, Computer Vision & Multimodal Learning
 - Wang C, Fang X, **Tiwari P**. [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://icml.cc/virtual/2025/poster/46124).  **ICML 2025**.
-- Wang C, He S, Fang X, Han J, Liu Z, Ning X, Li W, **Tiwari P**. [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://cvpr.thecvf.com/virtual/2025/poster/32900).  **CVPR 2025**.
+- Wang C, He S, Fang X, Han J, Liu Z, Ning X, Li W, **Tiwari P**. [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html).  **CVPR 2025**.
 - Wang C, He S, Fang X, Wu M, Lam SK, **Tiwari P**. [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
 - Zhu C, Chen N, Gao Y, Zhang Y, **Tiwari P**, Wang B. [Is Your LLM Outdated? A Deep Look at Temporal Generalization](https://aclanthology.org/2025.naacl-long.381/).  **NAACL 2025**.
 - Zhan S, Mo F, **Tiwari P**, Wang B, Li Q, Nie JY, Simonsen JG. [Mixture of Latent Experts Using Tensor Products](https://openreview.net/forum?id=SgxeJW4DGk). **TMLR 2024**.
