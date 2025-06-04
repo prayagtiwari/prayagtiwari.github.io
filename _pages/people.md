@@ -11,9 +11,9 @@ redirect_from:
 # Academic Contributions and Collaborations
 
 ## PhD Students
+- **Alireza Molavi** – Halmstad University (HU)
 - **Vincenzo Buono** – Halmstad University (HU)  
-- **Canberk Özen** – Halmstad University (HU)  
-- **Talha Hanif Butt** – Halmstad University (HU)  
+- **Canberk Özen** – Halmstad University (HU)   
 
 ---
 
@@ -38,6 +38,11 @@ redirect_from:
 
 ---
 
+## Former Researchers
+- **Talha Hanif Butt** – Halmstad University (HU) 
+
+---
+
 ## Visitors
 - **Pedro Foletto Pimenta** – UFRGS Federal University  
 
@@ -54,4 +59,5 @@ redirect_from:
 - **Yijie Ding** – University of Electronic Science and Technology of China  
 - **Xin Ning** – Chinese Academy of Sciences  
 - ...  
+
 
