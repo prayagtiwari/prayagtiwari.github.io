@@ -27,28 +27,28 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 ---
 
 ## News
--📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([paper 1](https://icml.cc/virtual/2025/poster/46124), [paper 2](https://icml.cc/virtual/2025/poster/44491))
--📣**[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
--📣 **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html)
--📣 **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)
--📣 **[Jan 2025]** 3 papers accepted by **WWW 2025** ([paper 1](https://dl.acm.org/doi/10.1145/3701716.3715528), [paper 2](https://dl.acm.org/doi/10.1145/3701716.3715518), [paper 3](https://dl.acm.org/doi/10.1145/3701716.3717752))
--📣 **[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
--📣 **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
--📣 **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home)
--📣 **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888912/)
--📣 **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32810)
--📣 ~~**[Dec 2024]** Special Session: [Quantum Machine Learning Algorithms and Applications, IJCNN 2025](https://sites.google.com/view/qml-ijcnn-2025/home)~~
--📣 **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)  
--📣 **[Sept 2024]** 1 paper accepted by [Nature Biomedical Innovations](https://www.nature.com/articles/s44385-024-00003-9)  
--📣 ~~**[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden~~ 
--📣 **[Sept 2024]** Promoted to **Associate Professor (Docent)** at Halmstad University, Sweden  
--📣 **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)  
--📣 **[Jul 2024]** 2 papers accepted by TMLR ([paper 1](https://openreview.net/forum?id=LNvbgBFPMt), [paper 2](https://openreview.net/forum?id=LCPzaR9mML))  
--📣 **[May 2024]** 2 papers accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363)  
--📣 **[Feb 2024]** Promoted to **Senior Lecturer** at Halmstad University, Sweden  
--📣 **[Jan 2024]** Joined the Editorial Board as **Associate Editor** of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)  
--📣 **[Nov 2023]** Joined the Editorial Board as **Associate Editor** of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board)  
--📣 **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)  
+- 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([paper 1](https://icml.cc/virtual/2025/poster/46124), [paper 2](https://icml.cc/virtual/2025/poster/44491))
+- 📣**[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
+- 📣 **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html)
+- 📣 **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)
+- 📣 **[Jan 2025]** 3 papers accepted by **WWW 2025** ([paper 1](https://dl.acm.org/doi/10.1145/3701716.3715528), [paper 2](https://dl.acm.org/doi/10.1145/3701716.3715518), [paper 3](https://dl.acm.org/doi/10.1145/3701716.3717752))
+- 📣 **[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
+- 📣 **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
+- 📣 **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home)
+- 📣 **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888912/)
+- 📣 **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32810)
+- 📣 ~~**[Dec 2024]** Special Session: [Quantum Machine Learning Algorithms and Applications, IJCNN 2025](https://sites.google.com/view/qml-ijcnn-2025/home)~~
+- 📣 **[Oct 2024]** 1 paper accepted by [TMLR](https://openreview.net/forum?id=SgxeJW4DGk)  
+- 📣 **[Sept 2024]** 1 paper accepted by [Nature Biomedical Innovations](https://www.nature.com/articles/s44385-024-00003-9)  
+- 📣 ~~**[Sept 2024]** Hiring PhD Candidate in Multimodal Large Language Models (LLM) for Healthcare at Halmstad University, Sweden~~ 
+- 📣 **[Sept 2024]** Promoted to **Associate Professor (Docent)** at Halmstad University, Sweden  
+- 📣 **[Jul 2024]** 1 paper accepted by [CIKM 2024](https://arxiv.org/abs/2405.10995)  
+- 📣 **[Jul 2024]** 2 papers accepted by TMLR ([paper 1](https://openreview.net/forum?id=LNvbgBFPMt), [paper 2](https://openreview.net/forum?id=LCPzaR9mML))  
+- 📣 **[May 2024]** 2 papers accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363)  
+- 📣 **[Feb 2024]** Promoted to **Senior Lecturer** at Halmstad University, Sweden  
+- 📣 **[Jan 2024]** Joined the Editorial Board as **Associate Editor** of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)  
+- 📣 **[Nov 2023]** Joined the Editorial Board as **Associate Editor** of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board)  
+- 📣 **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)  
 
 ---
 
