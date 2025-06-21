@@ -28,7 +28,7 @@ Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad U
 
 ## News
 - 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([paper 1](https://icml.cc/virtual/2025/poster/46124), [paper 2](https://icml.cc/virtual/2025/poster/44491))
-- 📣**[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
+- 📣 **[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
 - 📣 **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html)
 - 📣 **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)
 - 📣 **[Jan 2025]** 3 papers accepted by **WWW 2025** ([paper 1](https://dl.acm.org/doi/10.1145/3701716.3715528), [paper 2](https://dl.acm.org/doi/10.1145/3701716.3715518), [paper 3](https://dl.acm.org/doi/10.1145/3701716.3717752))
