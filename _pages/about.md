@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼12000, H-index: 52)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼12000, H-index: 52)** for my research publications.
 
 ---
 
