@@ -25,12 +25,6 @@ redirect_from:
 * ✨ Internet of Things
 
 
----
-
-{% include news_ticker.html %}
-
----
-
 
 ---
 
