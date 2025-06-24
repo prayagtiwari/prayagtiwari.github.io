@@ -24,6 +24,74 @@ redirect_from:
 * ⚙️ Model Design: Explainable, Interpretable, and Causal Models
 * ✨ Internet of Things
 
+
+
+
+
+
+---
+
+<div class="news-ticker-container">
+  <div class="news-ticker">
+    <p>📣 **[May 2025]** 2 papers accepted by ICML 2025 ([DyPolySeg](https://openreview.net/forum?id=BGDSSSJWot), [Invariance-Enhanced Protein GCL](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i))</p>
+    <p>📣 **[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)</p>
+    <p>📣 **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html)</p>
+    <p>📣 **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)</p>
+    <p>📣 **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)</p>
+  </div>
+</div>
+
+<style>
+/* Add this CSS within a <style> tag or in your theme's CSS file */
+.news-ticker-container {
+  height: 100px; /* Adjust height as needed */
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #eee; /* Optional: adds a border */
+  padding: 10px;
+  background-color: #f9f9f9; /* Optional: adds a background */
+}
+
+.news-ticker {
+  position: absolute;
+  width: 100%;
+  animation: scroll-up 20s linear infinite; /* Adjust duration for speed */
+  padding-left: 0; /* Remove default list padding if any */
+  margin-top: 0; /* Remove default margin */
+}
+
+.news-ticker p {
+  margin-bottom: 5px; /* Spacing between news items */
+  line-height: 1.4;
+  white-space: nowrap; /* Keep items on a single line */
+}
+
+/* Keyframes for the scrolling animation */
+@keyframes scroll-up {
+  0% {
+    transform: translateY(100%); /* Start from bottom */
+  }
+  100% {
+    transform: translateY(-100%); /* Scroll to top */
+  }
+}
+
+/* Pause on hover (optional) */
+.news-ticker-container:hover .news-ticker {
+  animation-play-state: paused;
+}
+</style>
+
+---
+
+
+
+
+
+
+
+
+
 ---
 
 ## News
