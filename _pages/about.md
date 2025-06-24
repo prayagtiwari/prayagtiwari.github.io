@@ -16,13 +16,13 @@ redirect_from:
 
 ---
 
-## Research Interests
+### My Research Interests
 
-- 💡 **Quantum Machine Learning**, **Deep Learning**, **Graph Neural Networks**, **Federated Learning**, **Reinforcement Learning**, **Unsupervised Feature Selection**&nbsp;&nbsp;
-- 🔍 **Large Language Models**, **Computer Vision**, and **Multimodal Learning**&nbsp;&nbsp;
-- 🎯 **Applications**: Healthcare, Bioinformatics, and Intelligent Systems  
-- 🎯 **Model Design**: Explainable, Interpretable, and Causal Models  
-- ✨ **Internet of Things**
+* 💡 Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning, Unsupervised Feature Selection
+* 🔍 Large Language Models, Computer Vision, and Multimodal Learning
+* 🎯 Applications: Healthcare, Bioinformatics, and Intelligent Systems
+* ⚙️ Model Design: Explainable, Interpretable, and Causal Models
+* ✨ Internet of Things
 
 ---
 
