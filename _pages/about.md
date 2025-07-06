@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼12500, H-index: 52)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼12500, H-index: 53)** for my research publications.
 
 ---
 
@@ -29,6 +29,7 @@ redirect_from:
 ---
 
 ## News
+- 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://acmmm2025.org/)
 - 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([DyPolySeg](https://openreview.net/forum?id=BGDSSSJWot), [Invariance-Enhanced Protein GCL](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i))
 - 📣 **[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
 - 📣 **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html)
