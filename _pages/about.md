@@ -31,11 +31,12 @@ redirect_from:
 ## News
 - 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://acmmm2025.org/)
 - 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([DyPolySeg](https://openreview.net/forum?id=BGDSSSJWot), [Invariance-Enhanced Protein GCL](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i))
-- 📣 **[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)
+- 📣 **[May 2025]** ICDM Workshop Organizer: [Graph-Augmented LLMs (GaLM): Bridging Language and Structured Knowledge, ICDM 2025](https://iitbhu.ac.in/cf/jcsic/activities/workshops/GaLM)
+- 📣 ~~**[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)~~
 - 📣 **[Feb 2025]** 1 paper accepted by [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html)
 - 📣 **[Jan 2025]** 1 paper accepted by [NAACL 2025](https://aclanthology.org/2025.naacl-long.381/)
 - 📣 **[Jan 2025]** 3 papers accepted by **WWW 2025** ([paper 1](https://dl.acm.org/doi/10.1145/3701716.3715528), [paper 2](https://dl.acm.org/doi/10.1145/3701716.3715518), [paper 3](https://dl.acm.org/doi/10.1145/3701716.3717752))
-- 📣 **[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)
+- 📣 ~~**[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)~~
 - 📣 **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
 - 📣 **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home)
 - 📣 **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888912/)
