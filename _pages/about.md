@@ -29,6 +29,7 @@ redirect_from:
 ---
 
 ## News
+- 📣 **[Aug 2025]** Serving as an Area Chair in  [AAAI 2025](https://aaai.org/conference/aaai/aaai-26/)
 - 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://acmmm2025.org/accepted-regular-papers/)
 - 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([DyPolySeg](https://openreview.net/forum?id=BGDSSSJWot), [Invariance-Enhanced Protein GCL](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i))
 - 📣 **[May 2025]** ICDM Workshop Organizer: [Graph-Augmented LLMs (GaLM): Bridging Language and Structured Knowledge, ICDM 2025](https://iitbhu.ac.in/cf/jcsic/activities/workshops/GaLM)
