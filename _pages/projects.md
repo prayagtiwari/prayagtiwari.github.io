@@ -8,7 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-
+### Explainable Multimodal LLM for Proactive Detection of Image-Borne Threats
+**Date:** Aug 2025  
+**Budget:** 3M SEK  
+**Details:**
+- Funded by *Cybercampus Sverige Strategies*.
+- **Principal Investigator (PI)** from Halmstad University in collaboration with other partners.
 
 ### MLMCare: Medical Multimodal Large Language Model for Health Care
 **Date:** March 2024  
