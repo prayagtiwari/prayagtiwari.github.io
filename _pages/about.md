@@ -29,7 +29,7 @@ redirect_from:
 ---
 
 ## News
-- 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://neurips.cc)
+- 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/115811)
 - 📣 **[Sept 2025]** Serving as an Area Chair in [ICLR 2026](https://iclr.cc/Conferences/2026) & [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 - 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://acmmm2025.org/accepted-regular-papers/)
 - 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([DyPolySeg](https://openreview.net/forum?id=BGDSSSJWot), [Invariance-Enhanced Protein GCL](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i))
