@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼13500, H-index: 56)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼13800, H-index: 56)** for my research publications.
 
 ---
 
@@ -29,6 +29,7 @@ redirect_from:
 ---
 
 ## News
+- 📣 **[Oct 2025]** 1 paper accepted by **Nature Communications**
 - 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/115811)
 - 📣 **[Sept 2025]** Serving as an Area Chair in [ICLR 2026](https://iclr.cc/Conferences/2026) & [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 - 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://acmmm2025.org/accepted-regular-papers/)
