@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼13800, H-index: 56)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼14000, H-index: 57)** for my research publications.
 
 ---
 
@@ -66,6 +66,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 
 
 ###  Large Language Models, Computer Vision & Multimodal Learning
+- 📌 Wang C, He S, Fang S, Hu Z, Huang JH, Shen Y, **Tiwari P**. [Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation](https://neurips.cc/virtual/2025/poster/115811).  **NeurIPS 2025**.
 - 📌 Wang C, Fang X, **Tiwari P**. [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://openreview.net/forum?id=BGDSSSJWot).  **ICML 2025**.
 - 📌 Wang C, He S, Fang X, Han J, Liu Z, Ning X, Li W, **Tiwari P**. [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html).  **CVPR 2025**.
 - 📌 Wang C, He S, Fang X, Wu M, Lam SK, **Tiwari P**. [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
