@@ -32,7 +32,7 @@ redirect_from:
 - 📣 **[Oct 2025]** 1 paper accepted by **Nature Communications**
 - 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/115811)
 - 📣 **[Sept 2025]** Serving as an Area Chair in [ICLR 2026](https://iclr.cc/Conferences/2026) & [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
-- 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://acmmm2025.org/accepted-regular-papers/)
+- 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755005)
 - 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([DyPolySeg](https://openreview.net/forum?id=BGDSSSJWot), [Invariance-Enhanced Protein GCL](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i))
 - 📣 **[May 2025]** ICDM Workshop Organizer: [Graph-Augmented LLMs (GaLM): Bridging Language and Structured Knowledge, ICDM 2025](https://iitbhu.ac.in/cf/jcsic/activities/workshops/GaLM)
 - 📣 ~~**[April 2025]** IEEE Quantum Week Workshop Organizer: [Quantum Computing and Reinforcement Learning, 2025](https://2025.qcrl.io)~~
