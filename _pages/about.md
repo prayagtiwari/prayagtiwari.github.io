@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼14000, H-index: 57)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼14400, H-index: 58)** for my research publications.
 
 ---
 
@@ -30,9 +30,9 @@ redirect_from:
 
 ## News
 
-### Recent News
+- 📣 **[Nov 2025]** 2 papers accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 - 📣 **[Oct 2025]** 1 paper accepted by **Nature Communications**
-- 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/115811)
+- 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://openreview.net/forum?id=r8zHRmM4uE)
 - 📣 **[Sept 2025]** Serving as an Area Chair in [ICLR 2026](https://iclr.cc/Conferences/2026) & [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 - 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755005)
 - 📣 **[May 2025]** 2 papers accepted by   **ICML 2025** ([DyPolySeg](https://openreview.net/forum?id=BGDSSSJWot), [Invariance-Enhanced Protein GCL](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i))
@@ -74,7 +74,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 
 
 ###  Large Language Models, Computer Vision & Multimodal Learning
-- 📌 Wang C, He S, Fang S, Hu Z, Huang JH, Shen Y, **Tiwari P**. [Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation](https://neurips.cc/virtual/2025/poster/115811).  **NeurIPS 2025**.
+- 📌 Wang C, He S, Fang S, Hu Z, Huang JH, Shen Y, **Tiwari P**. [Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation](https://openreview.net/forum?id=r8zHRmM4uE).  **NeurIPS 2025**.
 - 📌 Wang C, Fang X, **Tiwari P**. [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://openreview.net/forum?id=BGDSSSJWot).  **ICML 2025**.
 - 📌 Wang C, He S, Fang X, Han J, Liu Z, Ning X, Li W, **Tiwari P**. [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html).  **CVPR 2025**.
 - 📌 Wang C, He S, Fang X, Wu M, Lam SK, **Tiwari P**. [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
