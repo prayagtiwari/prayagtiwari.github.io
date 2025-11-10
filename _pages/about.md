@@ -29,6 +29,8 @@ redirect_from:
 ---
 
 ## News
+
+### Recent News
 - 📣 **[Oct 2025]** 1 paper accepted by **Nature Communications**
 - 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/115811)
 - 📣 **[Sept 2025]** Serving as an Area Chair in [ICLR 2026](https://iclr.cc/Conferences/2026) & [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
