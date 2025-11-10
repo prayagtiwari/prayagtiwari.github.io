@@ -44,9 +44,9 @@ redirect_from:
 - 📣 ~~**[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks,  ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home)~~
 - 📣 **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)  
 
-<details>
+<details markdown="1">
   <summary>Old News</summary>
-  
+
 - 📣 **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home)
 - 📣 **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888912/)
 - 📣 **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32810)
