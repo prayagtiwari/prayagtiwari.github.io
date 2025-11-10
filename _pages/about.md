@@ -46,6 +46,7 @@ redirect_from:
 
 <details>
   <summary>Old News</summary>
+  
 - 📣 **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home)
 - 📣 **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888912/)
 - 📣 **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32810)
@@ -61,6 +62,7 @@ redirect_from:
 - 📣 **[Jan 2024]** Joined the Editorial Board as **Associate Editor** of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board)  
 - 📣 **[Nov 2023]** Joined the Editorial Board as **Associate Editor** of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board)  
 - 📣 **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/)  
+
 </details>
 
 ---
