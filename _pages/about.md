@@ -30,8 +30,8 @@ redirect_from:
 
 ## News
 
+- 📣 **[Nov 2025]** 1 paper accepted by **Nature Communications**
 - 📣 **[Nov 2025]** 2 papers accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
-- 📣 **[Oct 2025]** 1 paper accepted by **Nature Communications**
 - 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://openreview.net/forum?id=r8zHRmM4uE)
 - 📣 **[Sept 2025]** Serving as an Area Chair in [ICLR 2026](https://iclr.cc/Conferences/2026) & [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 - 📣 **[July 2025]** 1 paper accepted by [ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3755005)
