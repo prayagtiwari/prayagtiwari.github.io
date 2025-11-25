@@ -10,10 +10,11 @@ redirect_from:
 
 # Academic Contributions and Collaborations
 
-## PhD Students
-- **Alireza Molavi** – Halmstad University (HU)
-- **Vincenzo Buono** – Halmstad University (HU)  
-- **Canberk Özen** – Halmstad University (HU)   
+## Current PhD Students (Halmstad University)
+- **Sivadinesh Ponrajan**(Main supervisor) – LLMs Security (Nov 2025 --)
+- **Alireza Molavi**(Main supervisor) – LLMs for Healthcare (April 2025 --)
+- **Vincenzo Buono**(Co-supervisor) – Explainable Vision Models (Aug 2023 --) 
+- **Canberk Özen**(Co-supervisor) – GNNs for Predictive Maintenance (Aug 2023 --)   
 
 ---
 
