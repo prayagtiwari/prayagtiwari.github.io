@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼14700, H-index: 58)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼14800, H-index: 58)** for my research publications.
 
 ---
 
@@ -96,6 +96,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 - 📌 Moreira C, **Tiwari P**, Pandey HM, Bruza P, & Wichert A (2020). [Quantum-like Influence Diagrams for Decision-Making](https://www.sciencedirect.com/science/article/pii/S0893608020302501). **Neural Networks**
 
 ###  Healthcare & Bioinformatics
+- 📌 Lin G, Zhang X, Ren Z, Zou Q, **Tiwari P**, Zhou C, Ding Y (2025). [TAPB: An Interventional Debiasing Framework for Alleviating Target Prior Bias in Drug-Target Interaction Prediction](https://www.nature.com/articles/s41467-025-66915-1). **Nature Communications**.
 - 📌 Liao Q, Zhang Y, Chu Y, Ding Y, Liu Z, Zhao X, Wang Y, Wan J, Ding Y, **Tiwari P**, Zou Q (2025). [Application of Artificial Intelligence In Drug-target Interactions Prediction: A Review](https://www.nature.com/articles/s44385-024-00003-9). **Nature Biomedical Innovations**.
 - 📌 Wu H, Liu J, Jiang T, Zou Q, Qi S, Cui Z, **Tiwari P**, & Ding Y (2024). [AttentionMGT-DTA: A Multi-Modal Drug-Target Affinity Prediction Using Graph Transformer and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). **Neural Networks**.
 - 📌 Wang B, Xie Q, Pei J, **Tiwari P**, Li Z, Fu J (2023). [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). **ACM Computing Survey**.  
