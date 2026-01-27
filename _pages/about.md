@@ -34,7 +34,7 @@ redirect_from:
 - 📣 **[Nov 2025]** 1 paper accepted by [Nature Communications](https://www.nature.com/articles/s41467-025-66915-1)
 - 📣 **[Nov 2025]** 2 papers accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) (including [1 Oral paper](https://arxiv.org/abs/2601.10157))
 - 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://openreview.net/forum?id=r8zHRmM4uE)
-- 
+  
 <details markdown="1">
   <summary>Old News</summary>
 
