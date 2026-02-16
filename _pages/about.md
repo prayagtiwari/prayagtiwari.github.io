@@ -31,7 +31,7 @@ redirect_from:
 ## News
 
 - 📣 **[Jan 2026]** 2 papers accepted by   **ICLR 2026** ([𝐃𝐀𝐑𝐄](https://openreview.net/forum?id=BQASoLmREU), [𝐍𝐮𝐫𝐕𝐚𝐥𝐮𝐞𝐬](https://openreview.net/forum?id=ZTAvANYFL5))
--  **[Jan 2026]** Opponent for PhD thesis at University of Skövde, Sweden ([Product Recognition with OCR Text]([https://openreview.net/forum?id=BQASoLmREU](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364)))
+-  **[Jan 2026]** Opponent for PhD thesis at University of Skövde, Sweden ([Product Recognition with OCR Text](https://openreview.net/forum?id=BQASoLmREU](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364))
 - 📣 **[Nov 2025]** 1 paper accepted by [Nature Communications](https://www.nature.com/articles/s41467-025-66915-1)
 - 📣 **[Nov 2025]** 2 papers accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) (including [1 Oral paper](https://arxiv.org/abs/2601.10157))
 - 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://openreview.net/forum?id=r8zHRmM4uE)
