@@ -30,6 +30,7 @@ redirect_from:
 
 ## News
 
+- 📣 **[Feb 2026]** Joined as an **Action Editor** of [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/editorial-board.html)
 - 📣 **[Jan 2026]** 2 papers accepted by   **ICLR 2026** ([DARE](https://openreview.net/forum?id=BQASoLmREU), [NurValues](https://openreview.net/forum?id=ZTAvANYFL5))
 - 📣 **[Jan 2026]** Opponent for PhD thesis title [Product Recognition with OCR Text](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364) at University of Skövde, Sweden.
 - 📣 **[Nov 2025]** 1 paper accepted by [Nature Communications](https://www.nature.com/articles/s41467-025-66915-1)
