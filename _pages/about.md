@@ -29,7 +29,7 @@ redirect_from:
 ---
 
 ## News
-
+- 📣 **[March 2026]** Invited FinAI Research [Talk at](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/Financial_Misinformation_Detection.pdf) **Morgan Stanley**
 - 📣 **[Feb 2026]** 1 paper accepted by  **CVPR 2026**
 - 📣 **[Feb 2026]** Joined as an **Action Editor** of [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/editorial-board.html)
 - 📣 **[Jan 2026]** 2 papers accepted by   **ICLR 2026** ([DARE](https://openreview.net/forum?id=BQASoLmREU), [NurValues](https://openreview.net/forum?id=ZTAvANYFL5))
