@@ -19,19 +19,23 @@ redirect_from:
   Role: [Course Responsible](https://www.hh.se/english/research/doctoral-courses/quantum-machine-learning.html)
 
 ### Master Level
-- **Artificial Intelligence Course** (DT8042) – 7.5 credits  
+- **Learning Systems** (DT8008) – 7.5 credits  
+  **Halmstad University, Sweden** – Winter 2026  
+  Role: Lecturer
+  
+- **Artificial Intelligence** (DT8042) – 7.5 credits  
   **Halmstad University, Sweden** – Fall 2024  
   Role: Lecturer
   
-- **Artificial Intelligence Course** (DT8042) – 7.5 credits  
+- **Artificial Intelligence** (DT8042) – 7.5 credits  
   **Halmstad University, Sweden** – Fall 2023  
   Role: Lecturer
 
-- **Data Mining Course** (DT8013) – 7.5 credits  
+- **Data Mining** (DT8013) – 7.5 credits  
   **Halmstad University, Sweden** – Fall 2022  
   Role: Lecturer  
 
-- **Artificial Intelligence Course** (DT8042) – 7.5 credits  
+- **Artificial Intelligence** (DT8042) – 7.5 credits  
   **Halmstad University, Sweden** – Fall 2022  
   Role: Lecturer  
 
