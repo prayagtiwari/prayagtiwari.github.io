@@ -11,12 +11,16 @@ redirect_from:
 
 # Professional Contributions and Recognitions
 
+## Area Chair
+- **ICLR 2026**, **AAAI 2026**
+
 ## PC Member
-- **NeurIPS**, **ICLR**, **ICML**, **CVPR**, **KDD**, **AISTATS**, **ICDM**, **ACL**, **EMNLP**, **LREC**, **COLING**
+- **NeurIPS**, **ICLR**, **ICML**, **CVPR**, **KDD**, **AISTATS**, **ICDM**, **ACL**, **EMNLP**, **LREC**, **COLING**, **ACM MM**
 
 ---
 
 ## Associate & Guest Editor
+- **Transactions on Machine Learning Research (TMLR)**
 - **Neural Networks**, Elsevier
 - **IEEE Transactions on Fuzzy Systems**
 - **Information Fusion**, Elsevier  
