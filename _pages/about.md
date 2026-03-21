@@ -35,7 +35,7 @@ redirect_from:
 - 📣 **[Jan 2026]** 2 papers accepted by   **ICLR 2026** ([DARE](https://openreview.net/forum?id=BQASoLmREU), [NurValues](https://openreview.net/forum?id=ZTAvANYFL5))
 - 📣 **[Jan 2026]** Opponent for PhD thesis title [Product Recognition with OCR Text](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364) at University of Skövde, Sweden.
 - 📣 **[Nov 2025]** 1 paper accepted by [Nature Communications](https://www.nature.com/articles/s41467-025-66915-1)
-- 📣 **[Nov 2025]** 2 papers accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) (including [1 Oral paper](https://arxiv.org/abs/2601.10157))
+- 📣 **[Nov 2025]** 2 papers accepted by [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/37929) (including [1 Oral paper](https://ojs.aaai.org/index.php/AAAI/article/view/37096))
 - 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://openreview.net/forum?id=r8zHRmM4uE)
   
 <details markdown="1">
@@ -86,7 +86,7 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 - 📌 Zhu C, Chen N, Gao Y, Zhang Y, **Tiwari P**, Wang B. [Is Your LLM Outdated? A Deep Look at Temporal Generalization](https://aclanthology.org/2025.naacl-long.381/).  **NAACL 2025**.
 
 ###  Graph Neural Networks
-- 📌 Wang Y, Shen J, Wu Z, Xu Y, Tan S, Xu M, Wang C, Song Z, **Tiwari P**. [MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://arxiv.org/abs/2601.10157).  **AAAI 2026**.
+- 📌 Wang Y, Shen J, Wu Z, Xu Y, Tan S, Xu M, Wang C, Song Z, **Tiwari P**. [MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/37096).  **AAAI 2026**.
 - 📌 Wang Y, Tan S, Shen J, Xu Y, Song H, Xu Q, **Tiwari P**, Xu M. [Enhancing Graph Contrastive Learning for Protein Graphs from Perspective of Invariance](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i).  **ICML 2025**.
 - 📌 Liang G, Abiri N, Hashemi AS, Lundström J, Byttner S, **Tiwari P**. [Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/10888912/). **ICASSP 2025**.
 - 📌 Liang G, **Tiwari P**, Nowaczyk S, Byttner S. [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://dl.acm.org/doi/10.1145/3627673.3679775). **CIKM 2024**.
