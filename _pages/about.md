@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼16300, H-index: 62)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼16400, H-index: 62)** for my research publications.
 
 ---
 
@@ -29,8 +29,9 @@ redirect_from:
 ---
 
 ## News
-- 📣 **[Mar 2026]** Invited FinAI Research [Talk at](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/Financial_Misinformation_Detection.pdf) **Morgan Stanley**
+- 📣 **[Apr 2026]** 5 papers accepted by  **ACL 2026**
 - 📣 **[Mar 2026]** Serving as an Area Chair in [NeurIPS 2026](https://neurips.cc/)
+- 📣 **[Mar 2026]** Invited FinAI Research [Talk at](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/Financial_Misinformation_Detection.pdf) **Morgan Stanley**
 - 📣 **[Feb 2026]** 1 paper accepted by  **CVPR 2026**
 - 📣 **[Feb 2026]** Joined as an **Action Editor** of [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/editorial-board.html)
 - 📣 **[Jan 2026]** 2 papers accepted by   **ICLR 2026** ([DARE](https://openreview.net/forum?id=BQASoLmREU), [NurValues](https://openreview.net/forum?id=ZTAvANYFL5))
