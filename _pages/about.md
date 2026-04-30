@@ -22,7 +22,6 @@ redirect_from:
 * 🔍 Large Language Models, Computer Vision, and Multimodal Learning
 * 🎯 Applications: Healthcare, Bioinformatics, and Intelligent Systems
 * ⚙️ Model Design: Explainable, Interpretable, and Causal Models
-* ✨ Internet of Things
 
 
 
