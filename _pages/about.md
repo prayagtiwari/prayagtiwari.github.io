@@ -18,7 +18,7 @@ redirect_from:
 
 ### My Research Interests
 
-- 💡 **AI & Machine Learning:** Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning, and Unsupervised Feature Selection
+- 💡 **Machine Learning:** Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning, and Unsupervised Feature Selection
 - 🔍 **Multimodal AI:** Large Language Models, Computer Vision, and Multimodal Learning
 - 🎯 **Applications:** Healthcare, Bioinformatics, and Intelligent Systems
 - ⚙️ **Trustworthy AI:** Explainable, Interpretable, Safe, and Causal Models
