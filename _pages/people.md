@@ -11,8 +11,8 @@ redirect_from:
 # Academic Contributions and Collaborations
 
 ## Current PhD Students (Halmstad University)
-- **Sivadinesh Ponrajan** (Main supervisor) – LLMs Security (Nov 2025 --)
-- **Alireza Molavi** (Main supervisor) – LLMs for Healthcare (April 2025 --)
+- **Sivadinesh Ponrajan** (Main supervisor) – Safe and Robust VLMs (Nov 2025 --)
+- **Alireza Molavi** (Main supervisor) – LLMs in Healthcare (April 2025 --)
 - **Vincenzo Buono** (Co-supervisor) – Explainable Vision Models (Aug 2023 --) 
 
 ---
