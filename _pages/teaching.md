@@ -21,7 +21,7 @@ redirect_from:
 ### Master Level
 - **Learning Systems** (DT8008) – 7.5 credits  
   **Halmstad University, Sweden** – Winter 2026  
-  Role: Lecturer
+  Role: Course Responsible
   
 - **Artificial Intelligence** (DT8042) – 7.5 credits  
   **Halmstad University, Sweden** – Fall 2024  
