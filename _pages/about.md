@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼18000, H-index: 64)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼18100, H-index: 64)** for my research publications.
 
 ---
 
@@ -28,6 +28,7 @@ redirect_from:
 ---
 
 ## News
+- 📣 **[Aug 2026]** Serving as an Area Chair in [ICLR 2027](https://iclr.cc/Conferences/2027/index.html)
 - 📣 **[June 2026]** Serving as an Area Chair in [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
 - 📣 **[May 2026]** 5 papers accepted by  **ICML 2026** ([SCC](https://openreview.net/forum?id=TM7PjLDZTr),[SpecFlow](https://openreview.net/forum?id=g2yb3LhW4L),[S-SPPO](https://openreview.net/forum?id=uVZUAKrA1t),[DPR-Net](https://openreview.net/forum?id=EdzZDEjpQe),[TopAdapter](https://openreview.net/forum?id=aml4ddsbKL))
 - 📣 **[Apr 2026]** Serving as an Area Chair in [NeurIPS 2026](https://neurips.cc/)
@@ -82,17 +83,18 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 
 
 ###  Large Language Models, Computer Vision & Multimodal Learning
+- 📌 Liu J, Du J, Liu X, Wang C, **Tiwari P**, Xu M.. [Self-Calibrated Consistency can Fight Back for Adversarial Robustness in Vision-Language Models](https://openreview.net/forum?id=TM7PjLDZTr).  **ICML 2026**.
+- 📌 Wang C, He S, Fang S, Li W, Shen Y, Xu M, Sun Z, **Tiwari P**. [TopAdapter: Topology-Aware Prompt Tuning for Efficient Point Cloud Understanding](https://openreview.net/forum?id=aml4ddsbKL).  **ICML 2026**.
 - 📌 Shen Y, Bi Q, Wang Z, Yang Z, Wang C, Zhang Z, **Tiwari P**, Pimentel AD, Pathania A. [Efficient Multimodal Spatial Reasoning via Dynamic and Asymmetric Routing](https://openreview.net/forum?id=BQASoLmREU).  **ICLR 2026**.
 - 📌 Wang C, He S, Fang S, Hu Z, Huang JH, Shen Y, **Tiwari P**. [Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation](https://openreview.net/forum?id=r8zHRmM4uE).  **NeurIPS 2025**.
 - 📌 Wang C, Fang X, **Tiwari P**. [DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://openreview.net/forum?id=BGDSSSJWot).  **ICML 2025**.
 - 📌 Wang C, He S, Fang X, Han J, Liu Z, Ning X, Li W, **Tiwari P**. [Point Clouds Meets Physics: Dynamic Acoustic Field Fitting Network for Point Cloud Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Point_Clouds_Meets_Physics_Dynamic_Acoustic_Field_Fitting_Network_for_CVPR_2025_paper.html).  **CVPR 2025**.
 - 📌 Wang C, He S, Fang X, Wu M, Lam SK, **Tiwari P**. [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32810).  **AAAI 2025**.
-- 📌 Zhu C, Chen N, Gao Y, Zhang Y, **Tiwari P**, Wang B. [Is Your LLM Outdated? A Deep Look at Temporal Generalization](https://aclanthology.org/2025.naacl-long.381/).  **NAACL 2025**.
 
 ###  Graph Neural Networks
+- 📌 Wang Y, Gu Z, Mao K, Shao M, Xu M, **Tiwari P**, Shao J, Zhao Q. [Streaming Video Crime Anticipation with Spatio-Temporal Causal Reasoning](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Streaming_Video_Crime_Anticipation_with_Spatio-Temporal_Causal_Reasoning_CVPR_2026_paper.html).  **CVPR 2026**.
 - 📌 Wang Y, Shen J, Wu Z, Xu Y, Tan S, Xu M, Wang C, Song Z, **Tiwari P**. [MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://ojs.aaai.org/index.php/AAAI/article/view/37096).  **AAAI 2026**.
 - 📌 Wang Y, Tan S, Shen J, Xu Y, Song H, Xu Q, **Tiwari P**, Xu M. [Enhancing Graph Contrastive Learning for Protein Graphs from Perspective of Invariance](https://openreview.net/forum?id=g2hucDbOJt&noteId=Q8e14paM1i).  **ICML 2025**.
-- 📌 Liang G, Abiri N, Hashemi AS, Lundström J, Byttner S, **Tiwari P**. [Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/10888912/). **ICASSP 2025**.
 - 📌 Liang G, **Tiwari P**, Nowaczyk S, Byttner S. [Higher-order Spatio-temporal Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation](https://dl.acm.org/doi/10.1145/3627673.3679775). **CIKM 2024**.
 - 📌 Liang G, **Tiwari P**, Nowaczyk S, Byttner S, Fernandez FA. [Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-Temporal Forecasting](https://ieeexplore.ieee.org/document/10589693). **IEEE TNNLS**.
 - 📌 Gao Y, Ji S, Zhang T, **Tiwari P**,  Marttinen P. [Contextualized Graph Embeddings for Adverse Drug Event Detection](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_626.pdf). **ECML 2022**.
