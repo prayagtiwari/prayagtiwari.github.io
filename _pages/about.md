@@ -104,12 +104,10 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 - 📌 Lin G, Zhang X, Ren Z, Zou Q, **Tiwari P**, Zhou C, Ding Y. [TAPB: An Interventional Debiasing Framework for Alleviating Target Prior Bias in Drug-Target Interaction Prediction](https://www.nature.com/articles/s41467-025-66915-1). **Nature Communications**, 2025.
 - 📌 Liao Q, Zhang Y, Chu Y, Ding Y, Liu Z, Zhao X, Wang Y, Wan J, Ding Y, **Tiwari P**, Zou Q. [Application of Artificial Intelligence In Drug-target Interactions Prediction: A Review](https://www.nature.com/articles/s44385-024-00003-9). **Nature Biomedical Innovations**, 2025 .
 - 📌 Wu H, Liu J, Jiang T, Zou Q, Qi S, Cui Z, **Tiwari P**, & Ding Y. [AttentionMGT-DTA: A Multi-Modal Drug-Target Affinity Prediction Using Graph Transformer and Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S089360802300641X). **Neural Networks**, 2024.
-- 📌 Wang B, Xie Q, Pei J, **Tiwari P**, Li Z, Fu J. [Pre-trained Language Models in Biomedical Domain: A Systematic Survey](https://dl.acm.org/doi/10.1145/3611651). **ACM Computing Survey**, 2023.  
-- 📌 Li X, Zhang Y, **Tiwari P**, Song D, Hu B, Yang M, Zhao Z, Kumar N, Marttinen P (2022). [EEG Based Emotion Recognition: A Tutorial and Review](https://dl.acm.org/doi/full/10.1145/3524499). **ACM Computing Surveys**, 2022.
-- 📌 Ji S, Zhang T, Ansari L, Fu J, **Tiwari P**, Cambria E. [MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare](https://aclanthology.org/2022.lrec-1.778/). **LREC 2022**.
 
-###  Quantum ML
+
+###  Quantum Machine Learning
 - 📌 **Tiwari P**, Dehdashti S, Safty KH, Bruza P, Notzel J. [Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels](https://arxiv.org/abs/2407.13809).
 - 📌 Yao B, **Tiwari P**, Li Q. [Self-supervised pre-trained neural network for quantum natural language processing](https://www.sciencedirect.com/science/article/abs/pii/S089360802400933X). **Neural Networks**, 2025.
 - 📌 Qu Z, Zhang L, & **Tiwari P**. [Quantum Fuzzy Federated Learning for Privacy Protection in Intelligent Information Processing](https://ieeexplore.ieee.org/document/10572363). **IEEE Transactions on Fuzzy Systems**, 2024.
-- 📌 Moreira C, **Tiwari P**, Pandey HM, Bruza P, & Wichert A. [Quantum-like Influence Diagrams for Decision-Making](https://www.sciencedirect.com/science/article/pii/S0893608020302501). **Neural Networks**, 2020.
+
