@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼18100, H-index: 64)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼12100, H-index: 64)** for my research publications.
 
 ---
 
@@ -29,6 +29,7 @@ redirect_from:
 
 ## News
 - 📣 **[Aug 2026]** Serving as an Area Chair in [ICLR 2027](https://iclr.cc/Conferences/2027/index.html)
+- 📣 **[Aug 2026]** Joined as an **Associate Editor** of [Quantum Machine Intelligence](https://link.springer.com/journal/42484/editorial-board)
 - 📣 **[June 2026]** Serving as an Area Chair in [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
 - 📣 **[May 2026]** 5 papers accepted by  **ICML 2026** ([SCC](https://openreview.net/forum?id=TM7PjLDZTr),[SpecFlow](https://openreview.net/forum?id=g2yb3LhW4L),[S-SPPO](https://openreview.net/forum?id=uVZUAKrA1t),[DPR-Net](https://openreview.net/forum?id=EdzZDEjpQe),[TopAdapter](https://openreview.net/forum?id=aml4ddsbKL))
 - 📣 **[Apr 2026]** Serving as an Area Chair in [NeurIPS 2026](https://neurips.cc/)
