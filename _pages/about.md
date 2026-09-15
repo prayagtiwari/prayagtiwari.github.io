@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼18400, H-index: 65)** for my research publications.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate) (Citations: ∼18500, H-index: 65)** for my research publications.
 
 ---
 
@@ -108,8 +108,8 @@ For a full publications list, visit **[Google Scholar](https://scholar.google.it
 
 
 ###  Quantum Machine Learning
+- 📌 Kundu A, Jaiswal AK, Feld S, **Tiwari P**. [Generative Replay Mitigates Sample Starvation in Quantum Architecture Search](https://arxiv.org/abs/2609.11248).
 - 📌 Meli, N.K., Birdal, T.,  **Tiwari P**, Golyanik, V. and Moeller, M. [Bernstein-Vazirani Networks: Quantum Machine Learning by Interference](https://arxiv.org/abs/2608.19043).
 - 📌 **Tiwari P**, Dehdashti S, Safty KH, Bruza P, Notzel J. [Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels](https://arxiv.org/abs/2407.13809).
 - 📌 Yao B, **Tiwari P**, Li Q. [Self-supervised pre-trained neural network for quantum natural language processing](https://www.sciencedirect.com/science/article/abs/pii/S089360802400933X). **Neural Networks**, 2025.
-- 📌 Qu Z, Zhang L, & **Tiwari P**. [Quantum Fuzzy Federated Learning for Privacy Protection in Intelligent Information Processing](https://ieeexplore.ieee.org/document/10572363). **IEEE Transactions on Fuzzy Systems**, 2024.
 
