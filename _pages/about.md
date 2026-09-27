@@ -28,6 +28,7 @@ redirect_from:
 ---
 
 ## News
+- 📣 **[Sept 2026]** 2 papers accepted by  **NeurIPS 2026**
 - 📣 **[Aug 2026]** Serving as an Area Chair in [ICLR 2027](https://iclr.cc/Conferences/2027/index.html)
 - 📣 **[Aug 2026]** Joined as an **Associate Editor** of [Quantum Machine Intelligence](https://link.springer.com/journal/42484/editorial-board)
 - 📣 **[June 2026]** Serving as an Area Chair in [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
