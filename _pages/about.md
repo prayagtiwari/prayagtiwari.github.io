@@ -28,6 +28,7 @@ redirect_from:
 ---
 
 ## News
+- 📣 **[Oct 2026]** Serving as an Area Chair in [ICML 2027](https://icml.cc/Conferences/FutureMeetings)
 - 📣 **[Sept 2026]** 2 papers accepted by  **NeurIPS 2026** (including [1 Oral paper](https://arxiv.org/abs/2605.16371))
 - 📣 **[Sept 2026]** Serving as an Area Chair in [AISTATS 2027](https://virtual.aistats.org/Conferences/2027/CallForPapers)
 - 📣 **[Aug 2026]** Serving as an Area Chair in [ICLR 2027](https://iclr.cc/Conferences/2027/index.html)
