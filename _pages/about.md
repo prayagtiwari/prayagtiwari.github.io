@@ -28,7 +28,7 @@ redirect_from:
 ---
 
 ## News
-- 📣 **[Oct 2026]** ** Invited FinAI Research [Talk at](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/CanWeTrustLLMsInFinance.pdf) **FinNLP-2026 Workshop, co-located with EMNLP 2026**
+- 📣 **[Oct 2026]** ** Invited FinAI Research [Talk at](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/CanWeTrustLLMsInFinance.pdf) **FinNLP-2026 Workshop, EMNLP 2026**
 - 📣 **[Oct 2026]** Serving as an Area Chair in [ICML 2027](https://icml.cc/Conferences/FutureMeetings)
 - 📣 **[Sept 2026]** 2 papers accepted by  **NeurIPS 2026** (including [1 Oral paper](https://arxiv.org/abs/2605.16371))
 - 📣 **[Sept 2026]** Serving as an Area Chair in [AISTATS 2027](https://virtual.aistats.org/Conferences/2027/CallForPapers)
