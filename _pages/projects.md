@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Explainable Multimodal LLM for Proactive Detection of Image-Borne Threats
+### [Explainable Multimodal LLM for Proactive Detection of Image-Borne Threats](https://www.hh.se/english/research/research-programmes/firp---future-industry-research-programme/research-projects-firp/explainable-multimodal-llm-for-proactive-detection-of-image-borne-threats.html)
 **Date:** Aug 2025  
 **Budget:** 5M SEK  
 **Details:**
@@ -22,7 +22,7 @@ redirect_from:
 - Funded by *Carl Bennet AB*.
 - **Principal Investigator (PI)** from Halmstad University in collaboration with the Chinese University of Hong Kong (CUHK), Shenzhen.
 
-### AIMed: Optimising Treatment Regimens using Computer Systems for People Living with Dementia
+### [AIMed: Optimising Treatment Regimens using Computer Systems for People Living with Dementia](https://www.phc.ox.ac.uk/research/groups-and-centres/cprd/aimed)
 **Date:** February 2024  
 **Budget:** £224k  
 **Details:**
