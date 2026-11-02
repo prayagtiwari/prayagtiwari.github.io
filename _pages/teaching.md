@@ -15,10 +15,17 @@ redirect_from:
 
 ### Doctoral Level
 - **Quantum Machine Learning** (FOIT019) – PhD Level (7.5 credits)  
+  **Halmstad University, Sweden** – Winter 2027 
+  Role: [Course Responsible](https://www.hh.se/english/education/courses/quantum-machine-learning.html)
+
+- **Quantum Machine Learning** (FOIT019) – PhD Level (7.5 credits)  
   **Halmstad University, Sweden** – Fall 2024  
   Role: [Course Responsible](https://www.hh.se/english/research/doctoral-courses/quantum-machine-learning.html)
 
 ### Master Level
+- **Learning Systems** (DT8008) – 7.5 credits  
+  **Halmstad University, Sweden** – Winter 2027  
+  
 - **Learning Systems** (DT8008) – 7.5 credits  
   **Halmstad University, Sweden** – Winter 2026  
   Role: Course Responsible
