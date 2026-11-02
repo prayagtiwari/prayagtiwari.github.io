@@ -21,3 +21,6 @@ The common lesson: in every case, the model is missing a way to check its answer
 Workshop programme: [FinNLP-2026](https://sigfintech.github.io/finnlp2026/program.html) · HERCULEAN: [paper](https://arxiv.org/abs/2605.14355), [data](https://huggingface.co/datasets/TheFinAI/Herculean), [code](https://github.com/xueqingpeng/trading-analysis), [leaderboard](https://xueqingpeng.github.io/herculean)
 
 
+[Download presentation here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/CanWeTrustLLMsInFinance.pdf)
+
+
