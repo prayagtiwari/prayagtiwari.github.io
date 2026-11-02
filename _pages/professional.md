@@ -12,7 +12,7 @@ redirect_from:
 # Professional Contributions and Recognitions
 
 ## Area Chair
-- **ICLR 2026**, **AAAI 2026**
+- **NeurIPS**, **ICML**, **ICLR**, **AAAI 2026**, **AISTATS**, **ACL ARR**
 
 ## PC Member
 - **NeurIPS**, **ICLR**, **ICML**, **CVPR**, **KDD**, **AISTATS**, **ICDM**, **ACL**, **EMNLP**, **LREC**, **COLING**, **ACM MM**
@@ -21,6 +21,7 @@ redirect_from:
 
 ## Associate & Guest Editor
 - **Transactions on Machine Learning Research (TMLR)**
+- **Quantum Machine Intelligence**, Springer
 - **Neural Networks**, Elsevier
 - **IEEE Transactions on Fuzzy Systems**
 - **Information Fusion**, Elsevier  
@@ -28,15 +29,15 @@ redirect_from:
 - **IEEE Transactions on Consumer Electronics**  
 - **Image and Vision Computing**, Elsevier  
 - **Journal of Visual Communication and Image Representation**, Elsevier  
-- **Frontiers in Artificial Intelligence**
+
 
 ---
 
 ## Call for Papers
-- **[Dec 2024]** Call for papers:  
+- ~~**[Dec 2024]** Call for papers:  
   *"[Special Session: Quantum Machine Learning Algorithms and Applications](https://sites.google.com/view/qml-ijcnn-2025/home)"*  
   **IJCNN 2025 Special Session**, 
-  **Submission Deadline: January 15, 2025**
+  **Submission Deadline: January 15, 2025**~~
 
 - ~~**[Feb 2024]** Call for papers:  
   *"[Zero Trust Edge and Federated Learning for Consumer Internet of Things](https://ctsoc.ieee.org/images/TCE_FILES/Approved_CFP/February_2024/TCE_SS_CFP_Zero_Trust_Edge_and_Federated_Learning_for_Consumer_Internet_of_Things.pdf)"*  
