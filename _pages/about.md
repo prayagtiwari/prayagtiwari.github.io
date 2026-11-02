@@ -28,25 +28,25 @@ redirect_from:
 ---
 
 ## News
-- 📣 **[Oct 2026]** ** Invited FinAI Research [Talk at](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/CanWeTrustLLMsInFinance.pdf) **FinNLP-2026 Workshop, EMNLP 2026**
-- 📣 **[Oct 2026]** Serving as an Area Chair in [ICML 2027](https://icml.cc/Conferences/FutureMeetings)
-- 📣 **[Sept 2026]** 2 papers accepted by  **NeurIPS 2026** (including [1 Oral paper](https://arxiv.org/abs/2605.16371))
-- 📣 **[Sept 2026]** Serving as an Area Chair in [AISTATS 2027](https://virtual.aistats.org/Conferences/2027/CallForPapers)
-- 📣 **[Aug 2026]** Serving as an Area Chair in [ICLR 2027](https://iclr.cc/Conferences/2027/index.html)
-- 📣 **[Aug 2026]** Joined as an **Associate Editor** of [Quantum Machine Intelligence](https://link.springer.com/journal/42484/editorial-board)
-- 📣 **[June 2026]** Serving as an Area Chair in [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
-- 📣 **[May 2026]** 5 papers accepted by  **ICML 2026** ([SCC](https://openreview.net/forum?id=TM7PjLDZTr),[SpecFlow](https://openreview.net/forum?id=g2yb3LhW4L),[S-SPPO](https://openreview.net/forum?id=uVZUAKrA1t),[DPR-Net](https://openreview.net/forum?id=EdzZDEjpQe),[TopAdapter](https://openreview.net/forum?id=aml4ddsbKL))
-- 📣 **[Apr 2026]** Serving as an Area Chair in [NeurIPS 2026](https://neurips.cc/)
-- 📣 **[Apr 2026]** 5 papers accepted by  **ACL 2026**
-- 📣 **[Apr 2026]** Ranked 37th nationally among computer science researchers by [Research.com](https://research.com/u/prayag-tiwari)
-- 📣 **[Mar 2026]** Invited FinAI Research [Talk at](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/Financial_Misinformation_Detection.pdf) **Morgan Stanley**
-- 📣 **[Feb 2026]** 1 paper accepted by  [CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Streaming_Video_Crime_Anticipation_with_Spatio-Temporal_Causal_Reasoning_CVPR_2026_paper.html)
-- 📣 **[Feb 2026]** Joined as an **Action Editor** of [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/editorial-board.html)
-- 📣 **[Jan 2026]** 2 papers accepted by   **ICLR 2026** ([DARE](https://openreview.net/forum?id=BQASoLmREU), [NurValues](https://openreview.net/forum?id=ZTAvANYFL5))
-- 📣 **[Jan 2026]** Opponent for PhD thesis title [Product Recognition with OCR Text](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364) at University of Skövde, Sweden.
-- 📣 **[Nov 2025]** 1 paper accepted by [Nature Communications](https://www.nature.com/articles/s41467-025-66915-1)
-- 📣 **[Nov 2025]** 2 papers accepted by [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/37929) (including [1 Oral paper](https://ojs.aaai.org/index.php/AAAI/article/view/37096))
-- 📣 **[Sept 2025]** 1 paper accepted by [NeurIPS 2025](https://openreview.net/forum?id=r8zHRmM4uE)
+- 📣 **[Oct 2026]** Gave an invited talk, *"[Can We Trust LLMs in Finance?](https://prayagtiwari.github.io/files/CanWeTrustLLMsInFinance.pdf)"*, at the **FinNLP-2026 Workshop, EMNLP 2026** (Budapest, Hungary).
+- 📣 **[Oct 2026]** Serving as an Area Chair for **[ICML 2027](https://icml.cc/Conferences/FutureMeetings)**.
+- 📣 **[Sept 2026]** 2 papers accepted at **NeurIPS 2026**, including [1 Oral](https://arxiv.org/abs/2605.16371).
+- 📣 **[Sept 2026]** Serving as an Area Chair for **[AISTATS 2027](https://virtual.aistats.org/Conferences/2027/CallForPapers)**.
+- 📣 **[Aug 2026]** Serving as an Area Chair for **[ICLR 2027](https://iclr.cc/Conferences/2027/index.html)**.
+- 📣 **[Aug 2026]** Joined the editorial board of **[Quantum Machine Intelligence](https://link.springer.com/journal/42484/editorial-board)** as an Associate Editor.
+- 📣 **[June 2026]** Serving as an Area Chair for **[AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)**.
+- 📣 **[May 2026]** 5 papers accepted at **ICML 2026**: [SCC](https://openreview.net/forum?id=TM7PjLDZTr), [SpecFlow](https://openreview.net/forum?id=g2yb3LhW4L), [S-SPPO](https://openreview.net/forum?id=uVZUAKrA1t), [DPR-Net](https://openreview.net/forum?id=EdzZDEjpQe) and [TopAdapter](https://openreview.net/forum?id=aml4ddsbKL).
+- 📣 **[Apr 2026]** Serving as an Area Chair for **[NeurIPS 2026](https://neurips.cc/)**.
+- 📣 **[Apr 2026]** 5 papers accepted at **ACL 2026**.
+- 📣 **[Apr 2026]** Ranked 37th nationally among computer science researchers by **[Research.com](https://research.com/u/prayag-tiwari)**.
+- 📣 **[Mar 2026]** Gave an invited talk, *"[Financial Misinformation Detection: Benchmarks, Bias & the Challenge of Reliable AI in Finance](https://prayagtiwari.github.io/files/Financial_Misinformation_Detection.pdf)"*, at **Morgan Stanley**.
+- 📣 **[Feb 2026]** 1 paper accepted at **[CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Streaming_Video_Crime_Anticipation_with_Spatio-Temporal_Causal_Reasoning_CVPR_2026_paper.html)**.
+- 📣 **[Feb 2026]** Joined **[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/editorial-board.html)** as an Action Editor.
+- 📣 **[Jan 2026]** 2 papers accepted at **ICLR 2026**: [DARE](https://openreview.net/forum?id=BQASoLmREU) and [NurValues](https://openreview.net/forum?id=ZTAvANYFL5).
+- 📣 **[Jan 2026]** Served as the faculty opponent for the PhD thesis *"[Product Recognition with OCR Text](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364)"* at the **University of Skövde**, Sweden.
+- 📣 **[Nov 2025]** 1 paper accepted at **[Nature Communications](https://www.nature.com/articles/s41467-025-66915-1)**.
+- 📣 **[Nov 2025]** 2 papers accepted at **[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/37929)**, including [1 Oral](https://ojs.aaai.org/index.php/AAAI/article/view/37096).
+- 📣 **[Sept 2025]** 1 paper accepted at **[NeurIPS 2025](https://openreview.net/forum?id=r8zHRmM4uE)**.
   
 <details markdown="1">
   <summary>Old News</summary>
