@@ -29,7 +29,7 @@ redirect_from:
 
 ## News
 - 📣 **[Oct 2026]** Gave an invited talk, *"[Can We Trust LLMs in Finance?](https://prayagtiwari.github.io/files/CanWeTrustLLMsInFinance.pdf)"*, at the **FinNLP-2026 Workshop, EMNLP 2026** (Budapest, Hungary).
-- 📣 **[Oct 2026]** Serving as an Area Chair for **[ICML 2027](https://icml.cc/Conferences/FutureMeetings) & **[ACL ARR 2027](https://aclrollingreview.org/cfp)**.
+- 📣 **[Oct 2026]** Serving as an Area Chair for **[ICML 2027](https://icml.cc/Conferences/FutureMeetings)** & **[ACL ARR 2027](https://aclrollingreview.org/cfp)**.
 - 📣 **[Sept 2026]** 2 papers accepted at **NeurIPS 2026**, including [1 Oral](https://arxiv.org/abs/2605.16371).
 - 📣 **[Sept 2026]** Serving as an Area Chair for **[AISTATS 2027](https://virtual.aistats.org/Conferences/2027/CallForPapers)**.
 - 📣 **[Aug 2026]** Serving as an Area Chair for **[ICLR 2027](https://iclr.cc/Conferences/2027/index.html)**.
