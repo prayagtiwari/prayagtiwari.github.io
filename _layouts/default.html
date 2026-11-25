@@ -11,7 +11,9 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="site-shell page-{% if page.url == '/' %}home{% else %}{{ page.url | slugify }}{% endif %}">
+
+    <a class="skip-link" href="#main">Skip to main content</a>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -26,6 +28,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    <script src="{{ base_path }}/assets/js/site-navigation.js" defer></script>
 
   </body>
 </html>
