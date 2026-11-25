@@ -10,4 +10,4 @@ location: "Sweden"
 
 The main goal of this talk is about to provide the basic understanding of Adversarial Machine Learning
 
-[Download presentation here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/AML.pdf)
+[Download presentation here]({{ site.baseurl }}/files/AML.pdf)
