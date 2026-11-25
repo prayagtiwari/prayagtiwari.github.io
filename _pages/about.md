@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: archive
-title: "Welcome!"
-excerpt: "About me"
+title: "About"
+excerpt: "Prayag Tiwari — Associate Professor in Machine Learning at Halmstad University, Sweden."
 author_profile: true
 redirect_from:
   - /about/
@@ -13,9 +13,15 @@ redirect_from:
 
 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)** for my research publications and latest citation metrics. *Citation snapshot (25 Nov 2026): 19,556 citations; h-index: 67.*
 
+<nav class="about-page-nav" aria-label="On this page">
+  <a href="#my-research-interests">Research interests</a>
+  <a href="#news">News</a>
+  <a href="#selected-articles">Selected articles</a>
+</nav>
+
 ---
 
-### My Research Interests
+## My Research Interests
 
 - 💡 **Machine Learning:** Quantum Machine Learning, Deep Learning, Graph Neural Networks, Federated Learning, Reinforcement Learning, and Unsupervised Feature Selection
 - 🔍 **Multimodal AI:** Large Language Models, Computer Vision, and Multimodal Learning
@@ -28,7 +34,7 @@ redirect_from:
 
 ### 2026
 
-- 📣 **[Oct 2026]** Gave an invited talk, *"[Can We Trust LLMs in Finance?](https://prayagtiwari.github.io/files/CanWeTrustLLMsInFinance.pdf)"*, at the **FinNLP-2026 Workshop, EMNLP 2026** (Budapest, Hungary).
+- 📣 **[Oct 2026]** Gave an invited talk, *[Can We Trust LLMs in Finance?](https://prayagtiwari.github.io/files/CanWeTrustLLMsInFinance.pdf)*, at the **FinNLP-2026 Workshop, EMNLP 2026** (Budapest, Hungary).
 - 📣 **[Oct 2026]** Serving as an Area Chair for **[ICML 2027](https://icml.cc/Conferences/FutureMeetings)**.
 - 📣 **[Sep 2026]** 2 papers accepted at **NeurIPS 2026**: [GeoSym127K](https://arxiv.org/abs/2605.16371) (Oral), [Noisy-Label Learning](https://arxiv.org/abs/2610.23491).
 - 📣 **[Sep 2026]** Serving as an Area Chair for **[AISTATS 2027](https://virtual.aistats.org/Conferences/2027/CallForPapers)** & **[ACL ARR 2027](https://aclrollingreview.org/cfp)**.
@@ -39,14 +45,16 @@ redirect_from:
 - 📣 **[Apr 2026]** Serving as an Area Chair for **[NeurIPS 2026](https://neurips.cc/)**.
 - 📣 **[Apr 2026]** 5 papers accepted at **ACL 2026**.
 - 📣 **[Apr 2026]** Ranked 37th nationally among computer science researchers by **[Research.com](https://research.com/u/prayag-tiwari)**.
-- 📣 **[Mar 2026]** Gave an invited talk, *"[Financial Misinformation Detection: Benchmarks, Bias & the Challenge of Reliable AI in Finance](https://prayagtiwari.github.io/files/Financial_Misinformation_Detection.pdf)"*, at **Morgan Stanley**.
+- 📣 **[Mar 2026]** Gave an invited talk, *[Financial Misinformation Detection: Benchmarks, Bias & the Challenge of Reliable AI in Finance](https://prayagtiwari.github.io/files/Financial_Misinformation_Detection.pdf)*, at **Morgan Stanley**.
 - 📣 **[Feb 2026]** 1 paper accepted at **[CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Streaming_Video_Crime_Anticipation_with_Spatio-Temporal_Causal_Reasoning_CVPR_2026_paper.html)**.
 - 📣 **[Feb 2026]** Joined **[Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/editorial-board.html)** as an Action Editor.
 - 📣 **[Jan 2026]** 2 papers accepted at **ICLR 2026**: [DARE](https://openreview.net/forum?id=BQASoLmREU) and [NurValues](https://openreview.net/forum?id=ZTAvANYFL5).
-- 📣 **[Jan 2026]** Served as the faculty opponent for the PhD thesis *"[Product Recognition with OCR Text](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364)"* at the **University of Skövde**, Sweden.
+- 📣 **[Jan 2026]** Served as the faculty opponent for the PhD thesis *[Product Recognition with OCR Text](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2021302&dswid=-6364)* at the **University of Skövde**, Sweden.
 
 <details markdown="1">
   <summary>Old News</summary>
+
+### 2025
 
 - 📣 **[Nov 2025]** 1 paper accepted at **[Nature Communications](https://www.nature.com/articles/s41467-025-66915-1)**.
 - 📣 **[Nov 2025]** 2 papers accepted at **[AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/37929)**, including [1 Oral](https://ojs.aaai.org/index.php/AAAI/article/view/37096).
@@ -61,6 +69,9 @@ redirect_from:
 - 📣 **[Jan 2025]** 3 papers accepted by **WWW 2025** ([paper 1](https://dl.acm.org/doi/10.1145/3701716.3715528), [paper 2](https://dl.acm.org/doi/10.1145/3701716.3715518), [paper 3](https://dl.acm.org/doi/10.1145/3701716.3717752)).
 - 📣 ~~**[Jan 2025]** Workshop Organizer: [Quantum Machine Learning for Communication Networks, ICCCN 2025](https://sites.google.com/view/qml-icccn2025/home).~~
 - 📣 **[Jan 2025]** Joined the Editorial Board as **Associate Editor** of [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91).
+
+### 2024
+
 - 📣 **[Dec 2024]** Tutorial accepted on [Quantum Machine Intelligence and Fuzzy Learning, FUZZ-IEEE 2025](https://sites.google.com/view/qmi-fuzz-ieee-2025/home).
 - 📣 **[Dec 2024]** 1 paper accepted by [ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10888912/).
 - 📣 **[Dec 2024]** 1 paper accepted by [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32810).
@@ -74,6 +85,9 @@ redirect_from:
 - 📣 **[May 2024]** 2 papers accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10589693) & [IEEE TFS](https://ieeexplore.ieee.org/document/10572363).
 - 📣 **[Feb 2024]** Promoted to **Senior Lecturer** at Halmstad University, Sweden.
 - 📣 **[Jan 2024]** Joined the Editorial Board as **Associate Editor** of [Neural Networks, Elsevier](https://www.sciencedirect.com/journal/neural-networks/about/editorial-board).
+
+### 2023
+
 - 📣 **[Nov 2023]** Joined the Editorial Board as **Associate Editor** of [Alexandria Engineering Journal, Elsevier](https://www.sciencedirect.com/journal/alexandria-engineering-journal/about/editorial-board).
 - 📣 **[May 2023]** 1 paper accepted by [ACL 2023](https://aclanthology.org/2023.acl-long.419/).
 
