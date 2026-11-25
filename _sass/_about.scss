@@ -1,0 +1,29 @@
+/* Section shortcuts on the About page. */
+.about-page-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 1.25em 0;
+
+  a {
+    display: inline-block;
+    padding: 0.45em 0.75em;
+    border: 1px solid #d4e1e5;
+    border-radius: 4px;
+    color: #226478;
+    font-size: 0.8em;
+    font-weight: 600;
+    line-height: 1.5;
+    text-decoration: none;
+
+    &:hover {
+      border-color: currentColor;
+      background-color: #f1f7f9;
+    }
+
+    &:focus {
+      outline: 2px solid #226478;
+      outline-offset: 3px;
+    }
+  }
+}
