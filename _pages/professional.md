@@ -1,5 +1,7 @@
 ---
 layout: archive
+title: "Professional Activities"
+intro: "Professional contributions and recognitions."
 
 permalink: /professional/
 author_profile: true
@@ -9,10 +11,9 @@ redirect_from:
 
 {% include base_path %}
 
-# Professional Contributions and Recognitions
 
 ## Area Chair
-- **NeurIPS**, **ICML**, **ICLR**, **AAAI 2026**, **AISTATS**, **ACL ARR**
+- **NeurIPS 2026**, **ICML 2027**, **ICLR 2027**, **AAAI 2027**, **AISTATS 2027**, **ACL ARR 2027**
 
 ## PC Member
 - **NeurIPS**, **ICLR**, **ICML**, **CVPR**, **KDD**, **AISTATS**, **ICDM**, **ACL**, **EMNLP**, **LREC**, **COLING**, **ACM MM**
@@ -63,7 +64,6 @@ redirect_from:
 - **Elsevier**: Neural Networks, Information Science, Knowledge-Based Systems, Information Processing and Management, Cells@Pattern  
 - **ACM**: Computing Surveys, TOIT, TALLIP  
 - Quantum  
-- ...
 
 ---
 
@@ -98,5 +98,3 @@ redirect_from:
 - 10th Italian Information Retrieval Workshop, Padua, Italy  
 - International Workshop on Knowledge Graphs with the 22nd IEEE International Conference on Data Mining  
 - IEEE GLOBECOM 2021 Workshop on Edge-AI and IoT for Connected Health, Madrid, Spain  
-- ...
-

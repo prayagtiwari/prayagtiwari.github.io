@@ -12,13 +12,16 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" class="site-main{% if page.author_profile or layout.author_profile or page.sidebar %} site-main--profile{% endif %}" role="main" tabindex="-1">
   {% include sidebar.html %}
 
-  <div class="archive" style="max-width: 100%; margin: 0 auto;">
+  <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
+      <header class="page-heading">
+        <h1 class="page__title">{{ page.title }}</h1>
+        {% if page.intro %}<p class="page-intro">{{ page.intro }}</p>{% endif %}
+      </header>
     {% endunless %}
-    {{ content }}
+    <div class="archive__content">{{ content | replace: '<h1', '<h2' | replace: '</h1>', '</h2>' }}</div>
   </div>
 </div>

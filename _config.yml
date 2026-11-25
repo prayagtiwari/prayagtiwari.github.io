@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Prayag Tiwari"
 title_separator          : "-"
 name                     : &name "Prayag Tiwari"
-description              : &description "personal description"
+description              : &description "Associate Professor in Machine Learning at Halmstad University, Sweden."
 url                      : "https://prayagtiwari.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/prayagtiwari?tab=repositories"
+repository               : "prayagtiwari/prayagtiwari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Prayag Tiwari"
   avatar           : "prag.jpeg"
-  bio              : "Professor/Researcher in AI"
+  bio              : "Associate Professor in Machine Learning"
   location         : "Halmstad, Sweden"
   employer         : "Halmstad University"
   pubmed           : 

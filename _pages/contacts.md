@@ -1,22 +1,25 @@
 ---
 layout: archive
-title: "Contacts"
+title: "Contact"
+intro: "Get in touch or find my office."
 permalink: /contacts/
 author_profile: true
 redirect_from:
   - /contacts
 ---
 
-{% include base_path %}
+<div class="contact-details">
+  <section>
+    <h2>Office</h2>
+    <p>Halmstad University, Sweden<br>Building E / Room: E520</p>
+  </section>
+  <section>
+    <h2>Get in touch</h2>
+    <p><a href="mailto:prayag.tiwari@ieee.org">prayag.tiwari@ieee.org</a><br><a href="mailto:prayag.tiwari@hh.se">prayag.tiwari@hh.se</a></p>
+    <p>Mobile: <a href="tel:+46708204794">070-820 47 94</a></p>
+  </section>
+</div>
 
-You can find me at:
+<p><a href="https://www.google.com/maps/search/?api=1&amp;query=Halmstad+University+Sweden">View Halmstad University on Google Maps</a></p>
 
-Building E / Room: E520
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d156763.93483879098!2d12.878155900001753!3d56.66409366401254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTPCsDU4JzEyLjYiTiAxMjnCsDU5JzQ1LjkiVw!5e0!3m2!1sen!2sus!4v1614110379288!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-Email: prayag.tiwari@ieee.org, prayag.tiwari@hh.se
-
-Mobile Number: 070-820 47 94
-
-
+<iframe class="contact-map" title="Map of Halmstad University, Sweden" src="https://maps.google.com/maps?q=Halmstad%20University%2C%20Sweden&amp;z=15&amp;output=embed" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

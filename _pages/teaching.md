@@ -1,5 +1,7 @@
 ---
 layout: archive
+title: "Teaching"
+intro: "Courses, pedagogy, and research supervision."
 permalink: /teaching/
 author_profile: true
 redirect_from:
