@@ -11,13 +11,7 @@ redirect_from:
 
 👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden.
 
-📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)** for my research publications and latest citation metrics. *Citation snapshot (25 Nov 2026): 19,556 citations; h-index: 67.*
-
-<nav class="about-page-nav" aria-label="On this page">
-  <a href="#my-research-interests">Research interests</a>
-  <a href="#news">News</a>
-  <a href="#selected-articles">Selected articles</a>
-</nav>
+📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)** for my research publications and latest citation metrics. *Citation metrics (25 Nov 2026): **19,556 citations; h-index: 67.***
 
 ---
 
