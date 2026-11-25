@@ -12,4 +12,4 @@ The main goal of this talk is to provide details about Financial Misinformation 
 
 
 
-[Download presentation here](https://github.com/prayagtiwari/prayagtiwari.github.io/tree/master/files/Financial_Misinformation_Detection.pdf)
+[Download presentation here]({{ site.baseurl }}/files/Financial_Misinformation_Detection.pdf)
