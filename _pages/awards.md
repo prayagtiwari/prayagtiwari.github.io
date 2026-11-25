@@ -1,5 +1,7 @@
 ---
 layout: archive
+title: "Awards and Recognitions"
+intro: "Research awards and highly cited papers."
 permalink: /awards/
 author_profile: true
 redirect_from:
@@ -8,7 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Awards and Recognitions
 
 ## Best Paper Award
 - **2022 Best Paper Award**:  
