@@ -1,3 +1,5 @@
+{% assign archive_entry_title = post.title | default: '' | strip %}
+{% unless archive_entry_title == '' %}
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -62,3 +64,4 @@
 
   </article>
 </div>
+{% endunless %}
