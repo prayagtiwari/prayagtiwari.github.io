@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden. My research focuses on trustworthy machine learning, including multimodal, graph, and quantum approaches, with applications in healthcare, bioinformatics, and intelligent systems.
+👋 Hi! I’m **Prayag**, an Associate Professor in Machine Learning at **Halmstad University**, Sweden.
 
 📚 Visit **[Google Scholar](https://scholar.google.it/citations?hl=en&user=sDnmJ_YAAAAJ&view_op=list_works&sortby=pubdate)** for my research publications and latest citation metrics. *Citation snapshot (13 Nov 2026): approximately 19,500 citations; h-index: 66.*
 
