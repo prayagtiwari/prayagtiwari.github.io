@@ -1,5 +1,7 @@
 ---
 layout: archive
+title: "People"
+intro: "Academic contributions and collaborations."
 permalink: /people/
 author_profile: true
 redirect_from:
@@ -8,7 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Academic Contributions and Collaborations
 
 ## Current PhD Students (Halmstad University)
 - **Sivadinesh Ponrajan** (Main supervisor) – Safe and Robust VLMs (Nov 2025 --)
@@ -29,7 +30,6 @@ redirect_from:
 - **Krahn Maximillian** – Aalto University  
   *Currently: Researcher at Harvard Medical School, US*  
 - **Several Students** – Nanjing University of Information Science and Technology  
-- ...  
 
 ---
 
@@ -58,6 +58,3 @@ redirect_from:
 - **Qiuchi Li** – University of Copenhagen  
 - **Yijie Ding** – University of Electronic Science and Technology of China  
 - **Xin Ning** – Chinese Academy of Sciences  
-- ...  
-
-
